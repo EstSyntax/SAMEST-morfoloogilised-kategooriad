@@ -1,2 +1,3 @@
 # SAMEST-morfoloogilised-kategooriad
-# see Wiki
+
+see Wiki
