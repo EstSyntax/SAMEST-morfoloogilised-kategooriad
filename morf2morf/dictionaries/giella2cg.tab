@@ -1,0 +1,674 @@
+_A_	A pos			
+_A_ Sg Nom	A pos sg nom			
+_A_ Pl Nom	A pos pl nom			
+_A_ Sg Gen	A pos sg gen			
+_A_ Pl Gen	A pos pl gen			
+_A_ Sg Par	A pos sg part			
+_A_ Pl Par	A pos pl part			
+_A_ Sg Ill	A pos sg ill			
+_A_ Pl Ill	A pos pl ill			
+_A_ Sg Ine	A pos sg in			
+_A_ Pl Ine	A pos pl in			
+_A_ Sg Ela	A pos sg el			
+_A_ Pl Ela	A pos pl el			
+_A_ Sg All	A pos sg all			
+_A_ Pl All	A pos pl all			
+_A_ Sg Ade	A pos sg ad			
+_A_ Pl Ade	A pos pl ad			
+_A_ Sg Abl	A pos sg abl			
+_A_ Pl Abl	A pos pl abl			
+_A_ Sg Tra	A pos sg tr			
+_A_ Pl Tra	A pos pl tr			
+_A_ Sg Trm	A pos sg term			
+_A_ Pl Trm	A pos pl term			
+_A_ Sg Ess	A pos sg es			
+_A_ Pl Ess	A pos pl es			
+_A_ Sg Abe	A pos sg abes			
+_A_ Pl Abe	A pos pl abes			
+_A_ Sg Com	A pos sg kom			
+_A_ Pl Com	A pos pl kom			
+
+
+_B_	B			
+
+
+_C_ Sg Nom	A comp sg nom			
+_C_ Pl Nom	A comp pl nom			
+_C_ Sg Gen	A comp sg gen			
+_C_ Pl Gen	A comp pl gen			
+_C_ Sg Par	A comp sg part			
+_C_ Pl Par	A comp pl part			
+_C_ Sg Ill	A comp sg ill			
+_C_ Pl Ill	A comp pl ill			
+_C_ Sg Ine	A comp sg in			
+_C_ Pl Ine	A comp pl in			
+_C_ Sg Ela	A comp sg el			
+_C_ Pl Ela	A comp pl el			
+_C_ Sg All	A comp sg all			
+_C_ Pl All	A comp pl all			
+_C_ Sg Ade	A comp sg ad			
+_C_ Pl Ade	A comp pl ad			
+_C_ Sg Abl	A comp sg abl			
+_C_ Pl Abl	A comp pl abl			
+_C_ Sg Tra	A comp sg tr			
+_C_ Pl Tra	A comp pl tr			
+_C_ Sg Trm	A comp sg term			
+_C_ Pl Trm	A comp pl term			
+_C_ Sg Ess	A comp sg es			
+_C_ Pl Ess	A comp pl es			
+_C_ Sg Abe	A comp sg abes			
+_C_ Pl Abe	A comp pl abes			
+_C_ Sg Com	A comp sg kom			
+_C_ Pl Com	A comp pl kom			
+
+_D_	D			
+
+
+_G_	G			
+
+
+_H_ Sg Nom	S prop sg nom			
+_H_ Pl Nom	S prop pl nom			
+_H_ Sg Gen	S prop sg gen			
+_H_ Pl Gen	S prop pl gen			
+_H_ Sg Par	S prop sg part			
+_H_ Pl Par	S prop pl part			
+_H_ Sg Ill	S prop sg ill			
+_H_ Pl Ill	S prop pl ill			
+_H_ Sg Ine	S prop sg in			
+_H_ Pl Ine	S prop pl in			
+_H_ Sg Ela	S prop sg el			
+_H_ Pl Ela	S prop pl el			
+_H_ Sg All	S prop sg all			
+_H_ Pl All	S prop pl all			
+_H_ Sg Ade	S prop sg ad			
+_H_ Pl Ade	S prop pl ad			
+_H_ Sg Abl	S prop sg abl			
+_H_ Pl Abl	S prop pl abl			
+_H_ Sg Tra	S prop sg tr			
+_H_ Pl Tra	S prop pl tr			
+_H_ Sg Trm	S prop sg term			
+_H_ Pl Trm	S prop pl term			
+_H_ Sg Ess	S prop sg es			
+_H_ Pl Ess	S prop pl es			
+_H_ Sg Abe	S prop sg abes			
+_H_ Pl Abe	S prop pl abes			
+_H_ Sg Com	S prop sg kom			
+_H_ Pl Com	S prop pl kom			
+
+
+_I_	I			
+
+_J_	J crd	l+aga|ega|ehk|ent|ja|kuid|ning|vaid|või|		
+_J_	J sub	l+et|ehkki|just_kui|kui|kuigi|kuna|kuni|nagu|otse_kui|selmet|sest
+_J_	J JLIIK
+
+
+_K_	K pre	l+enne|ilma|keset|kesk|kuni|piki|põiki|risti|tänu|ühes		
+_K_	K post	l+all|alt|peal|pealt|kaudu|aegu|algul|alul|arvel|asemel|asemele|eel|ees|eest|ette|haaval|heaks|hulgas|hulgast|hulka|jalgu|jalus|jalust|jaoks|jooksul|juurde|juures|juurest|jälil|jälile|järel|järele|järelt|kannul
+_K_	K post	l+järgi|kaasas|kallal|kallale|kallalt|kannul|kannule|kannult|kaudu|kaupa|keskel|keskele|keskelt|keskis|keskpaiku|kestel|kilda|killas|killast|kimpu|kimpus|kiuste|kohal|kohale|kohalt|kohaselt|kohta|koos|korral
+_K_	K post	l+kukil|kukile|kukilt|kulul|kõrvale|kõrval|kõrvalt|käes|kätte|käest|külge|küljes|küljest|küüsi|küüsis|küüsist|ligidal|ligidale|ligidalt|otsa|poole|pool|poolt|taga|taha|tagasi|äärde|ääres|äärest
+_K_	K post K pre	l+alla|peale|hoolimata|vaatamata|üle|ligi|koos|läbi|mööda|pärast|seoses|tükkis|vastu|ümber|ümbert
+_K_	K KLIIK
+
+_N_ ?	N card ? digit			
+
+_N_ Sg Nom	N card sg nom			
+_N_ Pl Nom	N card pl nom			
+_N_ Sg Gen	N card sg gen			
+_N_ Pl Gen	N card pl gen			
+_N_ Sg Par	N card sg part			
+_N_ Pl Par	N card pl part			
+_N_ Sg Ill	N card sg ill			
+_N_ Pl Ill	N card pl ill			
+_N_ Sg Ine	N card sg in			
+_N_ Pl Ine	N card pl in			
+_N_ Sg Ela	N card sg el			
+_N_ Pl Ela	N card pl el			
+_N_ Sg All	N card sg all			
+_N_ Pl All	N card pl all			
+_N_ Sg Ade	N card sg ad			
+_N_ Pl Ade	N card pl ad			
+_N_ Sg Abl	N card sg abl			
+_N_ Pl Abl	N card pl abl			
+_N_ Sg Tra	N card sg tr			
+_N_ Pl Tra	N card pl tr			
+_N_ Sg Trm	N card sg term			
+_N_ Pl Trm	N card pl term			
+_N_ Sg Ess	N card sg es			
+_N_ Pl Ess	N card pl es			
+_N_ Sg Abe	N card sg abes			
+_N_ Pl Abe	N card pl abes			
+_N_ Sg Com	N card sg kom			
+_N_ Pl Com	N card pl kom			
+
+
+_O_ ?	N ord ? roman			
+_O_ ?	N ord ? digit			
+
+_O_ Sg Nom	N ord sg nom			
+_O_ Pl Nom	N ord pl nom			
+_O_ Sg Gen	N ord sg gen			
+_O_ Pl Gen	N ord pl gen			
+_O_ Sg Par	N ord sg part			
+_O_ Pl Par	N ord pl part			
+_O_ Sg Ill	N ord sg ill			
+_O_ Pl Ill	N ord pl ill			
+_O_ Sg Ine	N ord sg in			
+_O_ Pl Ine	N ord pl in			
+_O_ Sg Ela	N ord sg el			
+_O_ Pl Ela	N ord pl el			
+_O_ Sg All	N ord sg all			
+_O_ Pl All	N ord pl all			
+_O_ Sg Ade	N ord sg ad			
+_O_ Pl Ade	N ord pl ad			
+_O_ Sg Abl	N ord sg abl			
+_O_ Pl Abl	N ord pl abl			
+_O_ Sg Tra	N ord sg tr			
+_O_ Pl Tra	N ord pl tr			
+_O_ Sg Trm	N ord sg term			
+_O_ Pl Trm	N ord pl term			
+_O_ Sg Ess	N ord sg es			
+_O_ Pl Ess	N ord pl es			
+_O_ Sg Abe	N ord sg abes			
+_O_ Pl Abe	N ord pl abes			
+_O_ Sg Com	N ord sg kom			
+_O_ Pl Com	N ord pl kom			
+
+
+_P_ Sg Nom	P pers ps1 sg nom	l+mina
+_P_ Pl Nom	P pers ps1 pl nom	l+mina
+_P_ Sg Gen	P pers ps1 sg gen	l+mina
+_P_ Pl Gen	P pers ps1 pl gen	l+mina
+_P_ Sg Par	P pers ps1 sg part	l+mina
+_P_ Pl Par	P pers ps1 pl part	l+mina
+_P_ Sg Ill	P pers ps1 sg ill	l+mina
+_P_ Pl Ill	P pers ps1 pl ill	l+mina
+_P_ Sg Ine	P pers ps1 sg in	l+mina
+_P_ Pl Ine	P pers ps1 pl in	l+mina
+_P_ Sg Ela	P pers ps1 sg el	l+mina
+_P_ Pl Ela	P pers ps1 pl el	l+mina
+_P_ Sg All	P pers ps1 sg all	l+mina
+_P_ Pl All	P pers ps1 pl all	l+mina
+_P_ Sg Ade	P pers ps1 sg ad	l+mina
+_P_ Pl Ade	P pers ps1 pl ad	l+mina
+_P_ Sg Abl	P pers ps1 sg abl	l+mina
+_P_ Pl Abl	P pers ps1 pl abl	l+mina
+_P_ Sg Tra	P pers ps1 sg tr	l+mina
+_P_ Pl Tra	P pers ps1 pl tr	l+mina
+_P_ Sg Trm	P pers ps1 sg term	l+mina
+_P_ Pl Trm	P pers ps1 pl term	l+mina
+_P_ Sg Ess	P pers ps1 sg es	l+mina
+_P_ Pl Ess	P pers ps1 pl es	l+mina
+_P_ Sg Abe	P pers ps1 sg abes	l+mina
+_P_ Pl Abe	P pers ps1 pl abes	l+mina
+_P_ Sg Com	P pers ps1 sg kom	l+mina
+_P_ Pl Com	P pers ps1 pl kom	l+mina
+
+_P_ Sg Nom	P pers ps2 sg nom	l+sina
+_P_ Pl Nom	P pers ps2 pl nom	l+sina
+_P_ Sg Gen	P pers ps2 sg gen	l+sina
+_P_ Pl Gen	P pers ps2 pl gen	l+sina
+_P_ Sg Par	P pers ps2 sg part	l+sina
+_P_ Pl Par	P pers ps2 pl part	l+sina
+_P_ Sg Ill	P pers ps2 sg ill	l+sina
+_P_ Pl Ill	P pers ps2 pl ill	l+sina
+_P_ Sg Ine	P pers ps2 sg in	l+sina
+_P_ Pl Ine	P pers ps2 pl in	l+sina
+_P_ Sg Ela	P pers ps2 sg el	l+sina
+_P_ Pl Ela	P pers ps2 pl el	l+sina
+_P_ Sg All	P pers ps2 sg all	l+sina
+_P_ Pl All	P pers ps2 pl all	l+sina
+_P_ Sg Ade	P pers ps2 sg ad	l+sina
+_P_ Pl Ade	P pers ps2 pl ad	l+sina
+_P_ Sg Abl	P pers ps2 sg abl	l+sina
+_P_ Pl Abl	P pers ps2 pl abl	l+sina
+_P_ Sg Tra	P pers ps2 sg tr	l+sina
+_P_ Pl Tra	P pers ps2 pl tr	l+sina
+_P_ Sg Trm	P pers ps2 sg term	l+sina
+_P_ Pl Trm	P pers ps2 pl term	l+sina
+_P_ Sg Ess	P pers ps2 sg es	l+sina
+_P_ Pl Ess	P pers ps2 pl es	l+sina
+_P_ Sg Abe	P pers ps2 sg abes	l+sina
+_P_ Pl Abe	P pers ps2 pl abes	l+sina
+_P_ Sg Com	P pers ps2 sg kom	l+sina
+_P_ Pl Com	P pers ps2 pl kom	l+sina
+
+_P_ Sg Nom	P pers ps3 sg nom	l+tema
+_P_ Pl Nom	P pers ps3 pl nom	l+tema
+_P_ Sg Gen	P pers ps3 sg gen	l+tema
+_P_ Pl Gen	P pers ps3 pl gen	l+tema
+_P_ Sg Par	P pers ps3 sg part	l+tema
+_P_ Pl Par	P pers ps3 pl part	l+tema
+_P_ Sg Ill	P pers ps3 sg ill	l+tema
+_P_ Pl Ill	P pers ps3 pl ill	l+tema
+_P_ Sg Ine	P pers ps3 sg in	l+tema
+_P_ Pl Ine	P pers ps3 pl in	l+tema
+_P_ Sg Ela	P pers ps3 sg el	l+tema
+_P_ Pl Ela	P pers ps3 pl el	l+tema
+_P_ Sg All	P pers ps3 sg all	l+tema
+_P_ Pl All	P pers ps3 pl all	l+tema
+_P_ Sg Ade	P pers ps3 sg ad	l+tema
+_P_ Pl Ade	P pers ps3 pl ad	l+tema
+_P_ Sg Abl	P pers ps3 sg abl	l+tema
+_P_ Pl Abl	P pers ps3 pl abl	l+tema
+_P_ Sg Tra	P pers ps3 sg tr	l+tema
+_P_ Pl Tra	P pers ps3 pl tr	l+tema
+_P_ Sg Trm	P pers ps3 sg term	l+tema
+_P_ Pl Trm	P pers ps3 pl term	l+tema
+_P_ Sg Ess	P pers ps3 sg es	l+tema
+_P_ Pl Ess	P pers ps3 pl es	l+tema
+_P_ Sg Abe	P pers ps3 sg abes	l+tema
+_P_ Pl Abe	P pers ps3 pl abes	l+tema
+_P_ Sg Com	P pers ps3 sg kom	l+tema
+_P_ Pl Com	P pers ps3 pl kom	l+tema
+
+_P_ Sg Nom	P dem sg nom	l+see|too|seesama|toosama|sama|esimene|teine|selline	
+_P_ Pl Nom	P dem pl nom	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Sg Gen	P dem sg gen	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Pl Gen	P dem pl gen	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Sg Par	P dem sg part	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Pl Par	P dem pl part	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Sg Ill	P dem sg ill	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Pl Ill	P dem pl ill	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Sg Ine	P dem sg in	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Pl Ine	P dem pl in	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Sg Ela	P dem sg el	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Pl Ela	P dem pl el	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Sg All	P dem sg all	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Pl All	P dem pl all	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Sg Ade	P dem sg ad	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Pl Ade	P dem pl ad	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Sg Abl	P dem sg abl	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Pl Abl	P dem pl abl	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Sg Tra	P dem sg tr	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Pl Tra	P dem pl tr	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Sg Trm	P dem sg term	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Pl Trm	P dem pl term	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Sg Ess	P dem sg es	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Pl Ess	P dem pl es	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Sg Abe	P dem sg abes	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Pl Abe	P dem pl abes	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Sg Com	P dem sg kom	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+_P_ Pl Com	P dem pl kom	l+see|too|seesama|toosama|sama|esimene|teine|selline		
+
+_P_ Sg Nom	P det sg nom	l+iga|kõik|kumbki	
+_P_ Pl Nom	P det pl nom	l+iga|kõik|kumbki		
+_P_ Sg Gen	P det sg gen	l+iga|kõik|kumbki		
+_P_ Pl Gen	P det pl gen	l+iga|kõik|kumbki		
+_P_ Sg Par	P det sg part	l+iga|kõik|kumbki		
+_P_ Pl Par	P det pl part	l+iga|kõik|kumbki		
+_P_ Sg Ill	P det sg ill	l+iga|kõik|kumbki		
+_P_ Pl Ill	P det pl ill	l+iga|kõik|kumbki		
+_P_ Sg Ine	P det sg in	l+iga|kõik|kumbki		
+_P_ Pl Ine	P det pl in	l+iga|kõik|kumbki		
+_P_ Sg Ela	P det sg el	l+iga|kõik|kumbki		
+_P_ Pl Ela	P det pl el	l+iga|kõik|kumbki		
+_P_ Sg All	P det sg all	l+iga|kõik|kumbki		
+_P_ Pl All	P det pl all	l+iga|kõik|kumbki		
+_P_ Sg Ade	P det sg ad	l+iga|kõik|kumbki		
+_P_ Pl Ade	P det pl ad	l+iga|kõik|kumbki		
+_P_ Sg Abl	P det sg abl	l+iga|kõik|kumbki		
+_P_ Pl Abl	P det pl abl	l+iga|kõik|kumbki		
+_P_ Sg Tra	P det sg tr	l+iga|kõik|kumbki		
+_P_ Pl Tra	P det pl tr	l+iga|kõik|kumbki		
+_P_ Sg Trm	P det sg term	l+iga|kõik|kumbki		
+_P_ Pl Trm	P det pl term	l+iga|kõik|kumbki		
+_P_ Sg Ess	P det sg es	l+iga|kõik|kumbki		
+_P_ Pl Ess	P det pl es	l+iga|kõik|kumbki		
+_P_ Sg Abe	P det sg abes	l+iga|kõik|kumbki		
+_P_ Pl Abe	P det pl abes	l+iga|kõik|kumbki		
+_P_ Sg Com	P det sg kom	l+iga|kõik|kumbki		
+_P_ Pl Com	P det pl kom	l+iga|kõik|kumbki		
+
+_P_ Sg Nom	P rec pl nom	l+üksteise|teineteise	
+_P_ Pl Nom	P rec pl nom	l+üksteise|teineteise		
+_P_ Sg Gen	P rec sg gen	l+üksteise|teineteise		
+_P_ Pl Gen	P rec pl gen	l+üksteise|teineteise		
+_P_ Sg Par	P rec sg part	l+üksteise|teineteise		
+_P_ Pl Par	P rec pl part	l+üksteise|teineteise		
+_P_ Sg Ill	P rec sg ill	l+üksteise|teineteise		
+_P_ Pl Ill	P rec pl ill	l+üksteise|teineteise		
+_P_ Sg Ine	P rec sg in	l+üksteise|teineteise		
+_P_ Pl Ine	P rec pl in	l+üksteise|teineteise		
+_P_ Sg Ela	P rec sg el	l+üksteise|teineteise		
+_P_ Pl Ela	P rec pl el	l+üksteise|teineteise		
+_P_ Sg All	P rec sg all	l+üksteise|teineteise		
+_P_ Pl All	P rec pl all	l+üksteise|teineteise		
+_P_ Sg Ade	P rec sg ad	l+üksteise|teineteise		
+_P_ Pl Ade	P rec pl ad	l+üksteise|teineteise		
+_P_ Sg Abl	P rec sg abl	l+üksteise|teineteise		
+_P_ Pl Abl	P rec pl abl	l+üksteise|teineteise		
+_P_ Sg Tra	P rec sg tr	l+üksteise|teineteise		
+_P_ Pl Tra	P rec pl tr	l+üksteise|teineteise		
+_P_ Sg Trm	P rec sg term	l+üksteise|teineteise		
+_P_ Pl Trm	P rec pl term	l+üksteise|teineteise		
+_P_ Sg Ess	P rec sg es	l+üksteise|teineteise		
+_P_ Pl Ess	P rec pl es	l+üksteise|teineteise		
+_P_ Sg Abe	P rec sg abes	l+üksteise|teineteise		
+_P_ Pl Abe	P rec pl abes	l+üksteise|teineteise		
+_P_ Sg Com	P rec sg kom	l+üksteise|teineteise		
+_P_ Pl Com	P rec pl kom	l+üksteise|teineteise		
+
+_P_ Sg Nom	P indef pl nom	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju	
+_P_ Pl Nom	P indef pl nom	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Sg Gen	P indef sg gen	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Pl Gen	P indef pl gen	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Sg Par	P indef sg part	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Pl Par	P indef pl part	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Sg Ill	P indef sg ill	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Pl Ill	P indef pl ill	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Sg Ine	P indef sg in	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Pl Ine	P indef pl in	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Sg Ela	P indef sg el	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Pl Ela	P indef pl el	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Sg All	P indef sg all	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Pl All	P indef pl all	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Sg Ade	P indef sg ad	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Pl Ade	P indef pl ad	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Sg Abl	P indef sg abl	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Pl Abl	P indef pl abl	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Sg Tra	P indef sg tr	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Pl Tra	P indef pl tr	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Sg Trm	P indef sg term	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Pl Trm	P indef pl term	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Sg Ess	P indef sg es	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Pl Ess	P indef pl es	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Sg Abe	P indef sg abes	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Pl Abe	P indef pl abes	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Sg Com	P indef sg kom	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+_P_ Pl Com	P indef pl kom	l+keegi|miski|mõni|muu|üks|mingi|igaüks|igasugu|mõlema|mõningas|mõningane|mitu|palju		
+
+_P_ Sg Nom	P inter rel sg nom	l+kes|mis|mitmes|missugune		
+_P_ Pl Nom	P inter rel pl nom	l+kes|mis|mitmes|missugune		
+_P_ Sg Gen	P inter rel sg gen	l+kes|mis|mitmes|missugune		
+_P_ Pl Gen	P inter rel pl gen	l+kes|mis|mitmes|missugune		
+_P_ Sg Par	P inter rel sg part	l+kes|mis|mitmes|missugune		
+_P_ Pl Par	P inter rel pl part	l+kes|mis|mitmes|missugune		
+_P_ Sg Ill	P inter rel sg ill	l+kes|mis|mitmes|missugune		
+_P_ Pl Ill	P inter rel pl ill	l+kes|mis|mitmes|missugune		
+_P_ Sg Ine	P inter rel sg in	l+kes|mis|mitmes|missugune		
+_P_ Pl Ine	P inter rel pl in	l+kes|mis|mitmes|missugune		
+_P_ Sg Ela	P inter rel sg el	l+kes|mis|mitmes|missugune		
+_P_ Pl Ela	P inter rel pl el	l+kes|mis|mitmes|missugune		
+_P_ Sg All	P inter rel sg all	l+kes|mis|mitmes|missugune		
+_P_ Pl All	P inter rel pl all	l+kes|mis|mitmes|missugune		
+_P_ Sg Ade	P inter rel sg ad	l+kes|mis|mitmes|missugune		
+_P_ Pl Ade	P inter rel pl ad	l+kes|mis|mitmes|missugune		
+_P_ Sg Abl	P inter rel sg abl	l+kes|mis|mitmes|missugune		
+_P_ Pl Abl	P inter rel pl abl	l+kes|mis|mitmes|missugune		
+_P_ Sg Tra	P inter rel sg tr	l+kes|mis|mitmes|missugune		
+_P_ Pl Tra	P inter rel pl tr	l+kes|mis|mitmes|missugune		
+_P_ Sg Trm	P inter rel sg term	l+kes|mis|mitmes|missugune		
+_P_ Pl Trm	P inter rel pl term	l+kes|mis|mitmes|missugune		
+_P_ Sg Ess	P inter rel sg es	l+kes|mis|mitmes|missugune		
+_P_ Pl Ess	P inter rel pl es	l+kes|mis|mitmes|missugune		
+_P_ Sg Abe	P inter rel sg abes	l+kes|mis|mitmes|missugune		
+_P_ Pl Abe	P inter rel pl abes	l+kes|mis|mitmes|missugune		
+_P_ Sg Com	P inter rel sg kom	l+kes|mis|mitmes|missugune		
+_P_ Pl Com	P inter rel pl kom	l+kes|mis|mitmes|missugune		
+
+_P_ Sg Nom	P pos sg nom	l+oma|ise		
+_P_ Pl Nom	P pos pl nom	l+oma|ise		
+_P_ Sg Gen	P pos sg gen	l+oma|ise		
+_P_ Pl Gen	P pos pl gen	l+oma|ise		
+_P_ Sg Par	P pos sg part	l+oma|ise		
+_P_ Pl Par	P pos pl part	l+oma|ise		
+_P_ Sg Ill	P pos sg ill	l+oma|ise		
+_P_ Pl Ill	P pos pl ill	l+oma|ise		
+_P_ Sg Ine	P pos sg in	l+oma|ise		
+_P_ Pl Ine	P pos pl in	l+oma|ise		
+_P_ Sg Ela	P pos sg el	l+oma|ise		
+_P_ Pl Ela	P pos pl el	l+oma|ise		
+_P_ Sg All	P pos sg all	l+oma|ise		
+_P_ Pl All	P pos pl all	l+oma|ise		
+_P_ Sg Ade	P pos sg ad	l+oma|ise		
+_P_ Pl Ade	P pos pl ad	l+oma|ise		
+_P_ Sg Abl	P pos sg abl	l+oma|ise		
+_P_ Pl Abl	P pos pl abl	l+oma|ise		
+_P_ Sg Tra	P pos sg tr	l+oma|ise		
+_P_ Pl Tra	P pos pl tr	l+oma|ise		
+_P_ Sg Trm	P pos sg term	l+oma|ise		
+_P_ Pl Trm	P pos pl term	l+oma|ise		
+_P_ Sg Ess	P pos sg es	l+oma|ise		
+_P_ Pl Ess	P pos pl es	l+oma|ise		
+_P_ Sg Abe	P pos sg abes	l+oma|ise		
+_P_ Pl Abe	P pos pl abes	l+oma|ise		
+_P_ Sg Com	P pos sg kom	l+oma|ise		
+_P_ Pl Com	P pos pl kom	l+oma|ise		
+
+_P_ Sg Nom	P PLIIK sg nom			
+_P_ Pl Nom	P PLIIK pl nom			
+_P_ Sg Gen	P PLIIK sg gen			
+_P_ Pl Gen	P PLIIK pl gen			
+_P_ Sg Par	P PLIIK sg part			
+_P_ Pl Par	P PLIIK pl part			
+_P_ Sg Ill	P PLIIK sg ill			
+_P_ Pl Ill	P PLIIK pl ill			
+_P_ Sg Ine	P PLIIK sg in			
+_P_ Pl Ine	P PLIIK pl in			
+_P_ Sg Ela	P PLIIK sg el			
+_P_ Pl Ela	P PLIIK pl el			
+_P_ Sg All	P PLIIK sg all			
+_P_ Pl All	P PLIIK pl all			
+_P_ Sg Ade	P PLIIK sg ad			
+_P_ Pl Ade	P PLIIK pl ad			
+_P_ Sg Abl	P PLIIK sg abl			
+_P_ Pl Abl	P PLIIK pl abl			
+_P_ Sg Tra	P PLIIK sg tr			
+_P_ Pl Tra	P PLIIK pl tr			
+_P_ Sg Trm	P PLIIK sg term			
+_P_ Pl Trm	P PLIIK pl term			
+_P_ Sg Ess	P PLIIK sg es			
+_P_ Pl Ess	P PLIIK pl es			
+_P_ Sg Abe	P PLIIK sg abes			
+_P_ Pl Abe	P PLIIK pl abes			
+_P_ Sg Com	P PLIIK sg kom			
+_P_ Pl Com	P PLIIK pl kom			
+
+_Q_	Y		
+
+_S_ ?	S com			
+
+_S_ Sg Nom	S com sg nom			
+_S_ Pl Nom	S com pl nom			
+_S_ Sg Gen	S com sg gen			
+_S_ Pl Gen	S com pl gen			
+_S_ Sg Par	S com sg part			
+_S_ Pl Par	S com pl part			
+_S_ Sg Ill	S com sg ill			
+_S_ Sg Ill Use/Hyp	S com sg ill			
+_S_ Pl Ill	S com pl ill			
+_S_ Sg Ine	S com sg in			
+_S_ Pl Ine	S com pl in			
+_S_ Sg Ela	S com sg el			
+_S_ Pl Ela	S com pl el			
+_S_ Sg All	S com sg all			
+_S_ Pl All	S com pl all			
+_S_ Sg Ade	S com sg ad			
+_S_ Pl Ade	S com pl ad			
+_S_ Sg Abl	S com sg abl			
+_S_ Pl Abl	S com pl abl			
+_S_ Sg Tra	S com sg tr			
+_S_ Pl Tra	S com pl tr			
+_S_ Sg Trm	S com sg term			
+_S_ Pl Trm	S com pl term			
+_S_ Sg Ess	S com sg es			
+_S_ Pl Ess	S com pl es			
+_S_ Sg Abe	S com sg abes			
+_S_ Pl Abe	S com pl abes			
+_S_ Sg Com	S com sg kom			
+_S_ Pl Com	S com pl kom			
+
+_Z_	Z Fst	l+.
+_Z_	Z Com	l+,
+_Z_	Z Scl	l+
+_Z_	Z Col	l+:
+_Z_	Z Int	l+?
+_Z_	Z Exc	l+!
+_Z_	Z Ell	l+…
+_Z_	Z Els	l+..
+_Z_	Z Dsh	l+-
+_Z_	Z Dsd	l+--
+_Z_	Z Opr	l+(
+_Z_	Z Cpr	l+)
+_Z_	Z Quo	l+"
+_Z_	Z Oqu	l+«
+_Z_	Z Cqu	l+»
+_Z_	Z Osq	l+[
+_Z_	Z Csq	l+]
+_Z_	Z Sla	l+/
+_Z_	Z 			
+
+
+_U_ Sg Nom	A super sg nom			
+_U_ Pl Nom	A super pl nom			
+_U_ Sg Gen	A super sg gen			
+_U_ Pl Gen	A super pl gen			
+_U_ Sg Par	A super sg part			
+_U_ Pl Par	A super pl part			
+_U_ Sg Ill	A super sg ill			
+_U_ Pl Ill	A super pl ill			
+_U_ Sg Ine	A super sg in			
+_U_ Pl Ine	A super pl in			
+_U_ Sg Ela	A super sg el			
+_U_ Pl Ela	A super pl el			
+_U_ Sg All	A super sg all			
+_U_ Pl All	A super pl all			
+_U_ Sg Ade	A super sg ad			
+_U_ Pl Ade	A super pl ad			
+_U_ Sg Abl	A super sg abl			
+_U_ Pl Abl	A super pl abl			
+_U_ Sg Tra	A super sg tr			
+_U_ Pl Tra	A super pl tr			
+_U_ Sg Trm	A super sg term			
+_U_ Pl Trm	A super pl term			
+_U_ Sg Ess	A super sg es			
+_U_ Pl Ess	A super pl es			
+_U_ Sg Abe	A super sg abes			
+_U_ Pl Abe	A super pl abes			
+_U_ Sg Com	A super sg kom			
+_U_ Pl Com	A super pl kom			
+
+_V_ Pers Prs Imprt Neg	V aux imper pres ps3 sg ps neg	V 	l+ära	#ärgu	
+_V_ Pers Prs Imprt Pl2 Neg	V aux imper pres ps2 pl ps neg 	l+ära	#ärge	
+_V_ Pers Prs Imprt Sg2 Neg	V aux indic pres ps neg 	l+ära	#ära	
+_V_ Neg	    V aux neg	l+ei		
+_V_ Pers Prs Imprt Pl1 Neg Use/Rare	V aux imper pres ps1 pl ps neg	
+_V_ Pers Prs Ind Sg1 Aff	V main indic pres ps1 sg ps af		
+_V_ Pers Prs Ind Sg2 Aff	V main indic pres ps2 sg ps af		
+_V_ Pers Prs Ind Sg3 Aff	V main indic pres ps3 sg ps af		
+_V_ Pers Prs Ind Pl1 Aff	V main indic pres ps1 pl ps af			
+_V_ Pers Prs Ind Pl2 Aff	V main indic pres ps2 pl ps af			
+_V_ Pers Prs Ind Pl3 Aff	V main indic pres ps3 pl ps af			
+_V_ Pers Prs Ind Neg	V main indic pres ps neg			
+_V_ Pers Prs Ind Neg	V main indic pres ps neg			
+_V_ Pers Prs Ind Neg	V main indic pres ps neg			
+_V_ Pers Prs Cond Sg1 Aff	V main cond pres ps1 sg ps af			
+_V_ Pers Prs Cond Sg2 Aff	V main cond pres ps2 sg ps af			
+_V_ Pers Prs Cond	V main cond pres ps af			
+_V_ Pers Prs Cond Pl1 Aff	V main cond pres ps1 pl ps af			
+_V_ Pers Prs Cond Pl2 Aff	V main cond pres ps2 pl ps af			
+_V_ Pers Prs Cond Pl3 Aff	V main cond pres ps3 pl ps af			
+_V_ Pers Prs Cond Sg1 Neg	V main cond pres ps1 sg ps neg			
+_V_ Pers Prs Cond Sg2 Neg	V main cond pres ps2 sg ps neg			
+_V_ Pers Prs Cond Neg	V main cond pres ps neg			
+_V_ Pers Prs Cond Pl1 Neg	V main cond pres ps1 pl ps neg			
+_V_ Pers Prs Cond Pl2 Neg	V main cond pres ps2 pl ps neg			
+_V_ Pers Prs Cond Pl3 Neg	V main cond pres ps3 pl ps neg			
+_V_ Pers Prs Imprt Sg2	V main imper pres ps2 sg ps af			
+_V_ Pers Prs Imprt	V main imper pres sg ps af
+_V_ Pers Prs Imprt Neg	V aux imper pres ps3 pl ps neg
+_V_ Pers Prs Imprt Pl1	V main imper pres ps1 pl ps af			
+_V_ Pers Prs Imprt Pl2	V main imper pres ps2 pl ps af			
+_V_ Pers Prs Quot	V main quot pres ps af			
+_V_ Pers Prs Quot Neg	V main quot pres ps neg			
+_V_ Pers Prt Ind Sg1 Aff	V main indic impf ps1 sg ps af			
+_V_ Pers Prt Ind Sg2 Aff	V main indic impf ps2 sg ps af			
+_V_ Pers Prt Ind Sg3 Aff	V main indic impf ps3 sg ps af			
+_V_ Pers Prt Ind Pl1 Aff	V main indic impf ps1 pl ps af			
+_V_ Pers Prt Ind Pl2 Aff	V main indic impf ps2 pl ps af			
+_V_ Pers Prt Ind Pl3 Aff	V main indic impf ps3 pl ps af			
+_V_ Pers Prt Ind Neg	V main indic impf ps neg			
+_V_ Pers Prt Ind Neg	V main indic impf ps neg			
+_V_ Pers Prt Ind Neg	V main indic impf ps neg			
+_V_ Pers Prt Cond Sg1 Aff	V main cond pres ps1 sg ps af			
+_V_ Pers Prt Cond Sg2 Aff	V main cond pres ps2 sg ps af			
+_V_ Pers Prt Cond Pl1 Aff	V main cond pres ps1 pl ps af			
+_V_ Pers Prt Cond Pl2 Aff	V main cond pres ps2 pl ps af			
+_V_ Pers Prt Cond Pl3 Aff	V main cond pres ps3 pl ps af			
+_V_ Pers Prt Cond Sg1 Neg	V main cond pres ps1 sg ps neg			
+_V_ Pers Prt Cond Sg2 Neg	V main cond pres ps2 sg ps neg			
+_V_ Pers Prt Cond Pl1 Neg	V main cond pres ps1 pl ps neg			
+_V_ Pers Prt Cond Pl2 Neg	V main cond pres ps2 pl ps af			
+_V_ Pers Prt Cond Pl3 Neg	V main cond pres ps3 pl ps af			
+_V_ Pers Prt Quot				
+_V_ Pers Prt Quot Neg				
+_V_ Impers Prs Ind Aff	V main indic pres imps af			
+_V_ Impers Prs Ind Neg	V main indic pres imps neg			
+_V_ Impers Prs Ind Neg	V aux indic pres imps neg			
+_V_ Impers Prs Ind Neg	V aux indic pres imps neg			
+_V_ Impers Prs Cond	V main cond pres imps			
+_V_ Impers Prs Cond Neg	V main cond pres imps neg			
+_V_ Impers Prs Imprt	V main imper pres imps af			
+_V_ Impers Prs Imprt Neg				
+_V_ Impers Prs Quot	V main quot pres imps af	#räägitavat		
+_V_ Impers Prs Quot Neg	V main quot pres imps neg	#ei räägitavat
+_V_ Impers Prt Ind Aff	V main indic impf imps af			
+_V_ Impers Prt Ind Neg	V main indic impf imps neg			
+_V_ Impers Prt Ind Neg	V main indic impf imps neg			
+_V_ Impers Prt Ind Neg	V main partic past imps			
+_V_ Impers Prt Cond				
+_V_ Impers Prt Cond Neg				
+_V_ Impers Prs Prc	V main partic pres imps			
+_V_ Impers Prt Prc	V main partic past imps			
+_V_ Impers Sup	V main sup imps			
+_V_ Inf	V main inf			
+_V_ Ger	V main ger			
+_V_	V main af			
+_V_ Neg	V aux neg			
+_V_ Pers Prt Imprt	V main ps partic			
+_V_ Pers Prt Prc	V main partic past ps
+_V_ Pers Sup Ill	V main sup ps ill			
+_V_ Pers Sup Abe	V main sup ps abes			
+_V_ Pers Sup Ine	V main sup ps in			
+_V_ Impers Prs Quot	V main quot pres ps af			
+_V_ Pers Prt Cond	V main cond pres ps af			
+_V_ Pers Prt Cond	V main cond pres ps neg	pl+ei
+_V_ Pers Sup Tra	V main sup ps tr			
+
+_X_	X			
+
+_Y_ 	Y adverbial	l+jne|nt|jms|jpt
+_Y_ 	Y nominal	l+a
+_Y_ 	Y verbal	l+vt
+_Y_ 	Y		
+_Y_ ?	Y
+_Y_ Sg Nom	Y nominal sg nom			
+_Y_ Pl Nom	Y nominal pl nom			
+_Y_ Sg Gen	Y nominal sg gen			
+_Y_ Pl Gen	Y nominal pl gen			
+_Y_ Sg Par	Y nominal sg part			
+_Y_ Pl Par	Y nominal pl part			
+_Y_ Sg Ill	Y nominal sg ill			
+_Y_ Pl Ill	Y nominal pl ill			
+_Y_ Sg Ine	Y nominal sg in			
+_Y_ Pl Ine	Y nominal pl in			
+_Y_ Sg Ela	Y nominal sg el			
+_Y_ Pl Ela	Y nominal pl el			
+_Y_ Sg All	Y nominal sg all			
+_Y_ Pl All	Y nominal pl all			
+_Y_ Sg Ade	Y nominal sg ad			
+_Y_ Pl Ade	Y nominal pl ad			
+_Y_ Sg Abl	Y nominal sg abl			
+_Y_ Pl Abl	Y nominal pl abl			
+_Y_ Sg Tra	Y nominal sg tr			
+_Y_ Pl Tra	Y nominal pl tr			
+_Y_ Sg Trm	Y nominal sg term			
+_Y_ Pl Trm	Y nominal pl term			
+_Y_ Sg Ess	Y nominal sg es			
+_Y_ Pl Ess	Y nominal pl es			
+_Y_ Sg Abe	Y nominal sg abes			
+_Y_ Pl Abe	Y nominal pl abes			
+_Y_ Sg Com	Y nominal sg kom			
+_Y_ Pl Com	Y nominal pl kom			

@@ -1,0 +1,7003 @@
+<p "heading"="0">
+<s>
+<Kiire>
+		 "kiire" L0 A pos sg nom
+<guugeldamine>
+		 "guugelda=mine" L0 S com sg nom
+<ei>
+		 "ei" L0 V aux neg
+<andnud>
+		 "and" Lnud V main indic impf ps neg
+<eestikeelse>
+		 "eesti_keelne" L0 A pos sg gen
+<veebipoolituse>
+		 "veebi_poolitus" L0 S com sg gen
+<kohta>
+		 "kohta" L0 K post
+<ühtki>
+		 "üks" Lki N card sg part
+<tulemust>
+		 "tulemus" Lt S com sg part
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<seega>
+		 "seega" L0 D
+<tuli>
+		 "tule" Li V main indic impf ps3 sg ps af
+<muuhulgas>
+		 "muu_hulgas" L0 D
+<tekitada>
+		 "tekita" Lda V main inf
+<hyphenator.js>
+		 "hyphenator.js" L0 _Q_
+</s>
+<s>
+<jaoks>
+		 "jaoks" L0 K post
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<.js>
+		 ".js" L0 _Q_
+<poolitusmuster>
+		 "poolitus_muster" L0 S com sg nom
+<kiil>
+<–>
+		 "-" L Z Dsh
+<aluseks>
+		 "alus" Lks S com sg tr
+<Enn>
+		 "Enn" L0 S prop sg nom
+<Saare>
+		 "Saar" L0 S prop sg gen
+<TeX-muster>
+		 "TeX-muster" L0 S com sg nom
+<–>
+		 "-" L Z Dsh
+</kiil>
+<ning>
+		 "ning" L0 J sub
+<…>
+		 "…" L Z Ell
+<nii>
+		 "nii" L0 D
+<lihtne>
+		 "lihtne" L0 A pos sg nom
+<see>
+		 "see" L0 P PLIIK sg nom
+<oligi>
+		 "ole" Ligi V main indic impf ps3 sg ps af
+</s>
+<s>
+<Enn>
+		 "Enn" L0 S prop sg nom
+<lubas>
+		 "luba" Ls V main indic impf ps3 sg ps af
+<tulemuse>
+		 "tulemus" L0 S com sg gen
+<LGPL>
+		 "LGPL" L0 Y nominal ?
+<alla>
+		 "alla" L0 K post
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<loodetavasti>
+		 "loodetavasti" L0 D
+<jõuab>
+		 "jõud" Lb V main indic pres ps3 sg ps af
+<see>
+		 "see" L0 P PLIIK sg nom
+<varsti>
+		 "varsti" L0 D
+<ka>
+		 "ka" L0 D
+<hyphenator.js>
+		 "hyphenator.js" L0 _Q_
+<ametlikku>
+		 "ametlik" L0 A pos sg part
+<distributsiooni>
+		 "dis_tributsioon" L0 S com sg ill
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<seni>
+		 "seni" L0 D
+<võib>
+		 "või" Lb V main indic pres ps3 sg ps af
+<küsida>
+		 "küsi" Lda V main inf
+<ajutist>
+		 "ajutine" Lt A pos sg part
+<versiooni>
+		 "versioon" L0 S com sg part
+<minult>
+		 "mina" Llt P pers ps1 sg abl
+<meilitsi>
+		 "meilitsi" L0 D
+<…>
+		 "…" L Z Ell
+<või>
+		 "või" L0 J sub
+<pruukida>
+		 "pruuki" Lda V main inf
+<tehnokratt.net/hyphenator/mergeAndPack.html>
+		 "mergeAndPack.html" L _Q_
+<generaatorit>
+		 "generaator" Lt S com sg part
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Kasutuselevõtt>
+		 "kasutusele_võtt" L0 S com sg nom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<imelihtne>
+		 "ime_lihtne" L0 A pos sg nom
+<:>
+		 ":" L Z Col
+<kindel_piir/>
+<Hyphenatoriga>
+		 "hyphenator" Lga S com sg kom
+<tuleb>
+		 "tule" Lb V main indic pres ps3 sg ps af
+<kaasa>
+		 "kaasa" L0 D
+<mergeAndPack.html>
+		 "mergeAndPack.html" L0 _Q_
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<pakib>
+		 "pakki" Lb V main indic pres ps3 sg ps af
+<poolituse>
+		 "poolitus" L0 S com sg gen
+<,>
+		 "," L Z Com
+<vajalikud>
+		 "vajalik" Ld A pos pl nom
+<keelemoodulid>
+		 "keele_moodul" Ld S com pl nom
+<ning>
+		 "ning" L0 J sub
+<seadistused>
+		 "seadistus" Ld S com pl nom
+<kenasti>
+		 "kenasti" L0 D
+<üheks>
+		 "üks" Lks N card sg tr
+<minimeeritud>
+		 "minimeeri=tud" L0 A pos
+<javascriptiks>
+		 "javascript" Lks S com sg tr
+<kokku>
+		 "kokku" L0 D
+<kiil>
+<(>
+		 "(" L Z Opr
+<olgu>
+		 "ole" Lgu V main imper pres sg ps af
+<siiski>
+		 "siiski" L0 D
+<lisatud>
+		 "lisa" Ltud V main partic past imps
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<mergeAndPack>
+		 "mergeAndPack" L0 _Q_
+<ei>
+		 "ei" L0 V aux neg
+<tööta>
+		 "tööta" L0 V main indic pres ps neg
+<otse>
+		 "otse" L0 D
+<kettalt>
+		 "ketas" Llt S com sg abl
+<avades>
+		 "ava" Ldes V main ger
+<kindel_piir/>
+<vaid>
+		 "vaid" L0 J sub
+<eeldab>
+		 "eelda" Lb V main indic pres ps3 sg ps af
+<turvapõhjustel>
+		 "turva_põhjus" Ltel S com pl ad
+<käitamist>
+		 "käita=mine" Lt S com sg part
+<veebiserverist>
+		 "veebi_server" Lst S com sg el
+<->
+		 "-" L Z Dsh
+<tehnokratt.net/hyphenator/mergeAndPack.html>
+		 "mergeAndPack.html" L _Q_
+<abiks>
+		 "abi" Lks S com sg tr
+<)>
+		 ")" L Z Cpr
+</kiil>
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Linnutad>
+		 "Linnutad" L0 S prop sg nom
+<seal>
+		 "linnuta" Ld V main indic pres ps2 sg ps af
+<soovitavad>
+		 "soovitav" Ld A pos pl nom
+<keeled>
+		 "keel" Ld S com pl nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<vajadusel>
+		 "vajadus" Ll S com sg ad
+<timmid>
+		 "timmi" Ld V main indic pres ps2 sg ps af
+<poolitamise>
+		 "poolita=mine" L0 S com sg gen
+<agressiivsust>
+		 "agressiivsus" Lt S com sg part
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<lisad>
+		 "lisa" Ld V main indic pres ps2 sg ps af
+<klassi>
+		 "klass" L0 S com sg gen
+<kindel_piir/>
+<mida>
+		 "mis" Lda P PLIIK sg part
+<vaja>
+		 "vaja" L0 D
+<poolitada>
+		 "poolita" Lda V main inf
+<kiil>
+<(>
+		 "(" L Z Opr
+<vaikimisi>
+		 "vaikimine" Li S com pl part
+<eeldatakse>
+		 "eelda" Ltakse V main indic pres imps af
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<lisad>
+		 "lisa" Ld V main indic pres ps2 sg ps af
+<poolitamist>
+		 "poolita=mine" Lt S com sg part
+<vajavale>
+		 "vajav" Lle A pos sg all
+<sisule>
+		 "sisu" Lle S com sg all
+<klassi>
+		 "klass" L0 S com sg gen
+<hyphenate>
+		 "hyphenate" L0 S com sg nom
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<minul>
+		 "mina" Ll P pers ps1 sg ad
+<siin>
+		 "siin" L0 D
+<Thematic’u>
+		 "Thematic" L0 S prop sg gen
+<peale>
+		 "peale" L0 K post
+<tehtud>
+		 "tehtud" L0 A pos
+<kujunduses>
+		 "kujundus" Ls S com sg in
+<sobib>
+		 "sobi" Lb V main indic pres ps3 sg ps af
+<entry-content>
+		 "entry-content" L0 S com sg nom
+<päris>
+		 "päris" L0 D
+<hästi>
+		 "hästi" L0 D
+<)>
+		 ")" L Z Cpr
+</kiil>
+<;>
+		 ";" L Z
+<kindel_piir/>
+<hetkel>
+		 "hetk" Ll S com sg ad
+<tasub>
+		 "tasu" Lb V main indic pres ps3 sg ps af
+<mitte>
+		 "mitte" L0 D
+<lubada>
+		 "luba" Lda V main inf
+<CSS3>
+		 "CSS3" L0 Y nominal ?
+<poolituse>
+		 "poolitus" L0 S com sg gen
+<tuge>
+		 "tugi" L0 S com sg part
+<kiil>
+<(>
+		 "(" L Z Opr
+<bugi>
+		 "bug" L0 S com sg part "ole" L0 V main indic pres ps3 sg ps af
+<raporteeritud>
+		 "raporteeri" Ltud V main partic past imps
+<)>
+		 ")" L Z Cpr
+</kiil>
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<sest>
+		 "sest" L0 J sub
+<vähemasti>
+		 "vähemasti" L0 D
+<Firefox>
+		 "Firefox" L0 S prop sg nom
+<3.6>
+		 "3.6" L0 N card ? digit
+<kasutajad>
+		 "kasutaja" Ld S com pl nom
+<saavad>
+		 "saa" Lvad V main indic pres ps3 pl ps af
+<sellel>
+		 "see" Ll P PLIIK sg ad
+<puhul>
+		 "puhul" L0 K post
+<veateate>
+		 "vea_teade" L0 S com sg gen
+<kiil>
+<(>
+		 "(" L Z Opr
+<võib>
+		 "või" Lb V main indic pres ps3 sg ps af
+<muidugi>
+		 "muidugi" L0 D
+<ka>
+		 "ka" L0 D
+<leppida>
+		 "leppi" Lda V main inf
+<sellega>
+		 "see" Lga P PLIIK sg kom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<nad>
+		 "tema" Ld P PLIIK pl nom
+<peavad>
+		 "pida" Lvad V main indic pres ps3 pl ps af
+<lugema>
+		 "luge" Lma V mod sup ps ill
+<poolitamata>
+		 "poolita=mata" L0 A pos
+<teksti>
+		 "tekst" L0 S com sg part
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<lihtsalt>
+		 "lihtsalt" L0 D
+<muutma>
+		 "muut" Lma V mod sup ps ill
+<onError>
+		 "onError" L0 _Q_
+<funktsiooni>
+		 "funktsioon" L0 S com sg part
+<{>
+		 "{" L Z
+<}-ks>
+		 "ks" L0 Y nominal ?
+<ehk>
+		 "ehk" L0 J sub
+<mitte-veateadet-väljastavaks>
+		 "mitte-vea_teade" Lt-väljasta=v A pos sg tr
+<)>
+		 ")" L Z Cpr
+</kiil>
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Tulemuseks>
+		 "tulemus" Lks S com sg tr
+<saad>
+		 "saa" Ld V main indic pres ps2 sg ps af
+<teksti>
+		 "tekst" L0 S com sg gen
+<kindel_piir/>
+<mille>
+		 "mis" L0 P PLIIK sg gen
+<võid>
+		 "või" Ld V main indic pres ps2 sg ps af
+<kopeerida>
+		 "kopeeri" Lda V main inf
+<nt>
+		 "nt" L0 Y nominal ?
+<hyphenator-et.js>
+		 "hyphenator-et.js" L0 _Q_
+<failiks>
+		 "fail" Lks S com sg tr
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<WordPressi>
+		 "Word_press" L0 S prop sg gen
+<puhul>
+		 "puhul" L0 K post
+<tasub>
+		 "tasu" Lb V main indic pres ps3 sg ps af
+<see>
+		 "see" L0 P PLIIK sg nom
+<sokutada>
+		 "sokuta" Lda V main inf
+<oma>
+		 "oma" L0 P PLIIK sg gen
+<kujundusteema>
+		 "kujundus_teema" L0 S com sg gen
+<kataloogi>
+		 "kataloog" L0 S com sg ill
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<kui>
+		 "kui" L0 J sub
+<lisada>
+		 "lisa" Lda V main inf
+<functions.php-sse>
+		 "functions.php" Lsse S com sg ill
+<järgmised>
+		 "järgmine" Ld A pos pl nom
+<kaks>
+		 "kaks" L0 N card sg nom
+<rida>
+		 "rida" L0 S com sg part
+<kindel_piir/>
+<peakski>
+		 "pida" Lkski V main cond pres ps af
+<kõik>
+		 "kõik" L0 P PLIIK pl nom
+<toimima>
+		 "toimi" Lma V mod sup ps ill
+<:>
+		 ":" L Z Col
+</s>
+</p>
+<p "heading"="0">
+<s>
+<World>
+		 "World" L0 S prop sg nom
+<Usability>
+		 "Usability" L0 S prop sg nom
+<Day>
+		 "Day" L0 S prop sg nom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<sedapuhku>
+		 "seda_puhku" L0 D
+<eriti>
+		 "eriti" L0 D
+<maagilisel>
+		 "maagiline" Ll A pos sg ad
+<kuupäeval>
+		 "kuu_päev" Ll S com sg ad
+<11.11.11>
+		 "11.11.11" L0 N card ? digit
+<–>
+		 "-" L Z Dsh
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<juhtumisi>
+		 "juhtumisi" L0 D
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<mul>
+		 "mina" Ll P pers ps1 sg ad
+<au>
+		 "au" L0 S com sg nom
+<modereerida>
+		 "modereeri" Lda V main inf
+<selle>
+		 "see" L0 P PLIIK sg gen
+<tähistamiseks>
+		 "tähistamine" Lks S com sg tr
+<Tallinna>
+		 "Tallinn" L0 S prop sg gen
+<Ülikoolis>
+		 "Üli_kool" Ls S prop sg in
+<korraldatavat>
+		 "korraldatav" Lt A pos sg part
+<kasutatavuse>
+		 "kasuta=tavus" L0 S com sg gen
+<päeva>
+		 "päev" L0 S com sg gen
+<üritust>
+		 "üritus" Lt S com sg part
+<kiil>
+<(>
+		 "(" L Z Opr
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<esinejate>
+		 "esineja" Lte S com pl gen
+<nimekirja>
+		 "nime_kiri" L0 S com sg part
+<vaadates>
+		 "vaata" Ltes V main ger
+<saab>
+		 "saa" Lb V main indic pres ps3 sg ps af
+<maailmapäevale>
+		 "maa_ilma_päev" Lle S com sg all
+<kohaselt>
+		 "kohaselt" L0 K post
+<olema>
+		 "ole" Lma V mod sup ps ill
+<peamiselt>
+		 "peamiselt" L0 D
+<ingliskeelne>
+		 "inglis_keelne" L0 A pos sg nom
+<)>
+		 ")" L Z Cpr
+</kiil>
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Ja>
+		 "ja" L0 J sub crd
+<kuna>
+		 "kuna" L0 J sub
+<täna>
+		 "täna" L0 D
+<toimub>
+		 "toimu" Lb V main indic pres ps3 sg ps af
+<toimkonna>
+		 "toimkond" L0 S com sg gen
+<koos-oleks>
+		 "koos_olek" L0 S com sg nom
+<–>
+		 "-" L Z Dsh
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<mul>
+		 "mina" Ll P pers ps1 sg ad
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<see>
+		 "see" L0 P PLIIK sg nom
+<nädal>
+		 "nädal" L0 S com sg nom
+<ees>
+		 "ees" L0 D
+<veel>
+		 "veel" L0 D
+<mõned>
+		 "mõni" Ld P PLIIK pl nom
+<otsapidi>
+		 "otsa_pidi" L0 D
+<kasutatavusega>
+		 "kasuta=tavus" Lga S com sg kom
+<seonduvad>
+		 "seonduv" Ld A pos pl nom
+<tööd>
+		 "töö" Ld S com pl nom
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<võiks>
+		 "või" Lks V main cond pres ps af
+<veidi>
+		 "veidi" L0 D
+<soojendust>
+		 "soojendus" Lt S com sg part
+<teha>
+		 "tege" La V main inf
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Nimelt>
+		 "nimelt" L0 D
+<sain>
+		 "saa" Lin V main indic impf ps1 sg ps af
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<eelmisel>
+		 "eelmine" Ll A pos sg ad
+<nädalal>
+		 "nädal" Ll S com sg ad
+<…>
+		 "…" L Z Ell
+<vist>
+		 "vist" L0 D
+<selle>
+		 "see" L0 P PLIIK sg gen
+<aasta>
+		 "aasta" L0 S com sg gen
+<esimese>
+		 "esimene" L0 N ord sg gen
+<parkimistrahvi>
+		 "parkimis_trahv" L0 S com sg gen
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Tänu>
+		 "tänu" L0 K post
+<MoPa-nimelisele>
+		 "MoPa-nimeline" Lle A pos sg all
+<Androidi-rakendusele>
+		 "androidi-rakendus" Lle S com sg all
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<oluliselt>
+		 "oluliselt" L0 D
+<vähenenud>
+		 "vähene" Lnud V mod partic past ps
+<juhtumid>
+		 "juhtum" Ld S com pl nom
+<kindel_piir/>
+<mil>
+		 "mil" L0 D
+<kiirustades>
+		 "kiirusta" Ldes V main ger
+<jääb>
+		 "jää" Lb V main indic pres ps3 sg ps af
+<parkimine>
+		 "parkimine" L0 S com sg nom
+<alustamata>
+		 "alusta" Lmata V mod sup ps abes
+<–>
+		 "-" L Z Dsh
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<lisaks>
+		 "lisa" Lks S com sg tr
+<vähenenud>
+		 "vähene" Lnud V mod partic past ps
+<ülekulud>
+		 "üle_kulu" Ld S com pl nom
+<tiksuma>
+		 "tiksu" Lma V mod sup ps ill
+<ununenud>
+		 "unune" Lnud _V_ PERS PRT IMPRT
+<aja>
+		 "aeg" L0 S com sg gen
+<arvelt>
+		 "arve" Llt S com sg abl
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Aga>
+		 "aga" L0 J sub
+<eelmisel>
+		 "eelmine" Ll A pos sg ad
+<nädalal>
+		 "nädal" Ll S com sg ad
+<läks>
+		 "mine" Ls V main indic impf ps3 sg ps af
+<nii>
+		 "nii" L0 D
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<m-parkimine>
+		 "m-parkimine" L0 S com sg nom
+<vähemalt>
+		 "vähemalt" L0 D
+<Elisa>
+		 "Elisa" L0 S prop sg gen
+<võrgus>
+		 "võrk" Ls S com sg in
+<ei>
+		 "ei" L0 V aux neg
+<toiminud>
+		 "toimi" Lnud V main indic impf ps neg
+<kindel_piir/>
+<mistõttu>
+		 "mis_tõttu" L0 D
+<sõnum>
+		 "sõnum" L0 S com sg nom
+<läks>
+		 "mine" Ls V main indic impf ps3 sg ps af
+<kell>
+		 "kell" L0 S com sg nom
+<8:25>
+		 "8:25" L0 N card ? digit
+<teele>
+		 "tee" Lle S com sg all
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<aga>
+		 "aga" L0 J sub
+<vastust>
+		 "vastus" Lt S com sg part
+<ei>
+		 "ei" L0 V aux neg
+<tulnud>
+		 "tule" Lnud V main indic impf ps neg
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Püsikasutajana>
+		 "püsi_kasutaja" Lna S com sg es
+<ei>
+		 "ei" L0 V aux neg
+<jälgi>
+		 "jälgi" L0 V main indic pres ps neg
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<enam>
+		 "enam" L0 D
+<ammu>
+		 "ammu" L0 D
+<vastuseks>
+		 "vastus" Lks S com sg tr
+<tulevaid>
+		 "tulev" Lid A pos pl part
+<sõnumeid>
+		 "sõnum" Lid S com pl part
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<sest>
+		 "sest" L0 J sub
+<99>
+		 "99" L0 N card ? digit
+<%>
+		 "%" L0 Y nominal ?
+<ajast>
+		 "aeg" Lst S com sg el
+<ei>
+		 "ei" L0 V aux neg
+<sisalda>
+		 "sisalda" L0 V main indic pres ps neg
+<need>
+		 "see" Ld P PLIIK pl nom
+<midagi>
+		 "miski" Ldagi P PLIIK sg part
+<olulist>
+		 "oluline" Lt A pos sg part
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<jama>
+		 "jama" L0 S com sg nom
+<ilmnes>
+		 "ilmne" Ls V main indic impf ps3 sg ps af
+<alles>
+		 "alles" L0 D
+<trahvilipikut>
+		 "trahvi_lipik" Lt S com sg part
+<nähes>
+		 "näge" Les V main ger
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Õigupoolest>
+		 "õigu_poolest" L0 D
+<tuli>
+		 "tule" Li V main indic impf ps3 sg ps af
+<kell>
+		 "kell" L0 S com sg nom
+<12:08>
+		 "12:08" L0 N card ? digit
+<ka>
+		 "ka" L0 D
+<teade>
+		 "teade" L0 S com sg nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<m-parkimine>
+		 "m-parkimine" L0 S com sg nom
+<ei>
+		 "ei" L0 V aux neg
+<toimi>
+		 "toimi" L0 V main indic pres ps neg
+<...>
+		 "..." L Z
+<kindel_piir/>
+<aga>
+		 "aga" L0 J sub
+<selleks>
+		 "see" Lks P PLIIK sg tr
+<ajaks>
+		 "aeg" Lks S com sg tr
+<teadsin>
+		 "tead" Lsin V main indic impf ps1 sg ps af
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<seda>
+		 "see" Lda P PLIIK sg part
+<isegi>
+		 "isegi" L0 D
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Ehk>
+		 "ehk" L0 J sub
+<siis>
+		 "siis" L0 D
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<meil>
+		 "mina" Ll P PLIIK pl ad
+<m-parkimise>
+		 "m-parkimine" L0 S com sg gen
+<näol>
+		 "nägu" Ll S com sg ad
+<tore>
+		 "tore" L0 A pos sg nom
+<massirakendus>
+		 "massi_rakendus" L0 S com sg nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<muuhulgas>
+		 "muu_hulgas" L0 D
+<:>
+		 ":" L Z Col
+<kindel_piir/>
+<ei>
+		 "ei" L0 V aux neg
+<väljasta>
+		 "väljasta" L0 V main indic pres ps neg
+<mittetoimimise>
+		 "mitte_toimimine" L0 S com sg gen
+<korral>
+		 "korral" L0 K post
+<adekvaatset>
+		 "adekvaatne" Lt A pos sg part
+<infot>
+		 "info" Lt S com sg part
+<kindel_piir/>
+<toodab>
+		 "toot" Lb V main indic pres ps3 sg ps af
+<püsikasutaja>
+		 "püsi_kasutaja" L0 S com sg gen
+<jaoks>
+		 "jaoks" L0 K post
+<infomüra>
+		 "info_müra" L0 S com sg part
+<kindel_piir/>
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<piisavalt>
+		 "piisavalt" L0 D
+<ebamugav>
+		 "eba_mugav" L0 A pos sg nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<kasutatavuse>
+		 "kasuta=tavus" L0 S com sg gen
+<tekitamiseks>
+		 "tekitamine" Lks S com sg tr
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<vaja>
+		 "vaja" L0 D
+<app’i>
+		 "app" Li S com sg part
+<kiil>
+<(>
+		 "(" L Z Opr
+<mh>
+		 "mh" L0 Y nominal ?
+<vältimaks>
+		 "välti" Lmaks V mod sup ps tr
+<unustamist>
+		 "unustamine" Lt S com sg part
+<ehk>
+		 "ehk" L0 J sub
+<üle-maksmist>
+		 "üle-maksmine" Lt S com sg part
+<)>
+		 ")" L Z Cpr
+</kiil>
+</s>
+</p>
+<p "heading"="0">
+<s>
+<ainus>
+		 "ainus" L0 A pos sg nom
+<API>
+		 "API" L0 Y nominal ?
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<seesama>
+		 "see_sama" L0 P PLIIK sg nom
+<mürarikas/vahelmittetoimiv>
+		 "vahelmittetoimi=v" L0 A pos sg nom
+<SMS>
+		 "SMS" L0 Y nominal ?
+<kiil>
+<(>
+		 "(" L Z Opr
+<tõenäoliselt>
+		 "tõe_näoliselt" L0 D
+<annaks>
+		 "and" Lks V main cond pres ps af
+<MoPa>
+		 "MoPa" L0 Y nominal ?
+<rakendust>
+		 "rakendus" Lt S com sg part
+<edendada>
+		 "edenda" Lda V main inf
+<kindel_piir/>
+<jälgides>
+		 "jälgi" Ldes V main ger
+<SMSe>
+		 "SMS" Le Y nominal pl part
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<korraldades>
+		 "korralda" Ldes V main ger
+<paanika>
+		 "paanika" L0 S com sg gen
+<kindel_piir/>
+<kui>
+		 "kui" L0 J sub
+<need>
+		 "see" Ld P PLIIK pl nom
+<ei>
+		 "ei" L0 V aux neg
+<vasta>
+		 "vasta" L0 V main indic pres ps neg
+<ootustele>
+		 "ootus" Ltele S com pl all
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<aga>
+		 "aga" L0 J sub
+<selleks>
+		 "see" Lks P PLIIK sg tr
+<peaks>
+		 "pida" Lks V main cond pres ps af
+<ilmselgelt>
+		 "ilm_selgelt" L0 D
+<keegi>
+		 "keegi" L0 P PLIIK sg nom
+<selle>
+		 "see" L0 P PLIIK sg gen
+<eest>
+		 "eest" L0 K post
+<mingit>
+		 "mingi" Lt P PLIIK sg part
+<raha>
+		 "raha" L0 S com sg part
+<kah>
+		 "kah" L0 D
+<maksma>
+		 "maks" Lma V mod sup ps ill
+<ning>
+		 "ning" L0 J sub
+<tõenäoliselt>
+		 "tõe_näoliselt" L0 D
+<rohkem>
+		 "rohkem" L0 D
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<kui>
+		 "kui" L0 J sub
+<appstorest>
+		 "appstore" Lst S com sg el
+<saada>
+		 "saa" Lda V main inf
+<õnnestub>
+		 "õnnestu" Lb V main indic pres ps3 sg ps af
+<)>
+		 ")" L Z Cpr
+</kiil>
+</s>
+</p>
+<p "heading"="0">
+<s>
+<ilmselt>
+		 "ilmselt" L0 D
+<ei>
+		 "ei" L0 V aux neg
+<oma>
+		 "oma" L0 V main indic pres ps neg
+<ka>
+		 "ka" L0 D
+<parkimisteenuse-pakkuja>
+		 "parkimis_teenuse-pakkuja" L0 S com sg gen
+<jaoks>
+		 "jaoks" L0 K post
+<lepingulist>
+		 "lepinguline" Lt A pos sg part
+<tingimust>
+		 "tingimus" Lt S com sg part
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<sätestaks>
+		 "sätesta" Lks V main cond pres ps af
+<kasutajasõbraliku>
+		 "kasutaja_sõbralik" L0 A pos sg gen
+<probleemilahenduse>
+		 "probleemi_lahendus" L0 S com sg gen
+<teenuse>
+		 "teenus" L0 S com sg gen
+<mittetoimimise>
+		 "mitte_toimimine" L0 S com sg gen
+<juhuks>
+		 "juht" Lks S com sg tr
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Kui>
+		 "kui" L0 J sub
+<süsteem>
+		 "süsteem" L0 S com sg nom
+<teadaolevalt>
+		 "teada_olevalt" L0 D
+<ei>
+		 "ei" L0 V aux neg
+<toimi>
+		 "toimi" L0 V main indic pres ps neg
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<võiks>
+		 "või" Lks V main cond pres ps af
+<mõistagi>
+		 "mõistagi" L0 D
+<aidata>
+		 "aita" Lta V main inf
+<parkimiskorraldaja>
+		 "parkimis_korraldaja" L0 S com sg gen
+<kõnekeskus>
+		 "kõne_keskus" L0 S com sg nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<lihtsustatud>
+		 "lihtsusta=tud" L0 A pos
+<korras>
+		 "kord" Ls S com sg in
+<trahvid>
+		 "trahv" Ld S com pl nom
+<tühistaks>
+		 "tühista" Lks V main cond pres ps af
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<paraku>
+		 "paraku" L0 D
+<seletavad>
+		 "seleta" Lvad V main indic pres ps3 pl ps af
+<nad>
+		 "tema" Ld P PLIIK pl nom
+<varmalt>
+		 "varmalt" L0 D
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<otseloomulikult>
+		 "otse_loomuliku=lt" L0 D
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<minu>
+		 "mina" L0 P pers ps1 sg gen
+<ülesanne>
+		 "üles_anne" L0 S com sg nom
+<lugeda>
+		 "luge" Lda V main inf
+<läbi>
+		 "läbi" L0 D
+<SMSid>
+		 "SMS" Lid Y nominal pl nom
+<ja>
+		 "ja" L0 J sub crd
+<jälgida>
+		 "jälgi" Lda V main inf
+<nende>
+		 "see" Lde P PLIIK pl gen
+<korrapärast>
+		 "korra_pärane" Lt A pos sg part
+<saabumist>
+		 "saabumine" Lt S com sg part
+<…>
+		 "…" L Z Ell
+<kindel_piir/>
+<selmet>
+		 "selmet" L0 J sub
+<nende>
+		 "tema" Lde P PLIIK pl gen
+<asi>
+		 "asi" L0 S com sg nom
+<oleks>
+		 "ole" Lks V main cond pres ps af
+<tagada>
+		 "taga" Lda V main inf
+<maksesüsteemide>
+		 "makse_süsteem" Lde S com pl gen
+<toimimine>
+		 "toimimine" L0 S com sg nom
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Sellest>
+		 "see" Lst P PLIIK sg el
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<muideks>
+		 "muideks" L0 D
+<varem>
+		 "varem" L0 D
+<kah>
+		 "kah" L0 D
+<juttu>
+		 "jutt" L0 S com sg part
+<olnud>
+		 "ole" Lnud V mod partic past ps
+<(>
+		 "(" L Z Opr
+<terv>
+		 "terv" L0 _I_
+<!>
+		 "!" L Z Exc
+<,>
+		 "," L Z Com
+<Karol>
+		 "Karol" L0 S prop sg nom
+<)>
+		 ")" L Z Cpr
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Kaubanduskeskuse>
+		 "kaubandus_keskus" L0 S com sg gen
+<puhul>
+		 "puhul" L0 K post
+<pidavat>
+		 "pida" Lvat V main quot pres ps af
+<olema>
+		 "ole" Lma V mod sup ps ill
+<maksetõrke>
+		 "makse_tõrge" L0 S com sg gen
+<aeg>
+		 "aeg" L0 S com sg nom
+<kiil>
+<mille>
+		 "mis" L0 P PLIIK sg gen
+<järel>
+		 "järel" L0 K post
+<inimesed>
+		 "inimene" Ld S com pl nom
+<täislaaditud>
+		 "täis_laadi=tud" L0 A pos
+<ostukärud>
+		 "ostu_käru" Ld S com pl nom
+<saali>
+		 "saal" L0 S com sg ill
+<jätavad>
+		 "jät" Lvad V main indic pres ps3 pl ps af
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<lahkuvad>
+		 "lahku" Lvad V main indic pres ps3 pl ps af
+</kiil>
+<ca>
+		 "ca" L0 Y nominal ?
+<10>
+		 "10" L0 N card ? digit
+<minuti>
+		 "minut" L0 S com sg gen
+<kanti>
+		 "kant" L0 S com sg ill
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<tekitab>
+		 "tekita" Lb V main indic pres ps3 sg ps af
+<palju>
+		 "palju" L0 D
+<jama>
+		 "jama" L0 S com sg part
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<paneb>
+		 "pane" Lb V main indic pres ps3 sg ps af
+<müüa>
+		 "müüja" L0 S com sg gen
+<sisuliselt>
+		 "sisuliselt" L0 D
+<vastutama>
+		 "vastuta" Lma V mod sup ps ill
+<e-maksete>
+		 "e-makse" Lte S com pl gen
+<toimimise>
+		 "toimimine" L0 S com sg gen
+<eest>
+		 "eest" L0 K post
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Parkimise>
+		 "parkimine" L0 S com sg gen
+<puhul>
+		 "puhul" L0 K post
+<…>
+		 "…" L Z Ell
+<noh>
+		 "noh" L0 _I_
+<tegelikult>
+		 "tegelikult" L0 D
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<sarnane>
+		 "sarnane" L0 A pos sg nom
+<lahendus>
+		 "lahendus" L0 S com sg nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<nagu>
+		 "nagu" L0 J sub
+<nähtub>
+		 "nähtu" Lb V main indic pres ps3 sg ps af
+<kommentaaridest>
+		 "kommentaar" Ldest S com pl el
+<:>
+		 ":" L Z Col
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Tõe>
+		 "tõde" L0 S com sg gen
+<huvides>
+		 "huvi" Ldes S com pl in
+<olgu>
+		 "ole" Lgu V main imper pres sg ps af
+<lisatud>
+		 "lisa" Ltud V main partic past imps
+<ka>
+		 "ka" L0 D
+<Mardi>
+		 "Mart" L0 S prop sg gen
+<hilisem>
+		 "hilisem" L0 A comp sg nom
+<kommentaar>
+		 "kommentaar" L0 S com sg nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<ehk>
+		 "ehk" L0 J sub
+<siis>
+		 "siis" L0 D
+<viha>
+		 "viha" L0 S com sg part
+<tekitab>
+		 "tekita" Lb V main indic pres ps3 sg ps af
+<ennekõike>
+		 "enne_kõike" L0 D
+<kliendisuhe>
+		 "kliendi_suhe" L0 S com sg nom
+<hetkel>
+		 "hetk" Ll S com sg ad
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<kui>
+		 "kui" L0 J sub
+<õnnestub>
+		 "õnnestu" Lb V main indic pres ps3 sg ps af
+<trahv>
+		 "trahv" L0 S com sg nom
+<saada>
+		 "saa" Lda V main inf
+<:>
+		 ":" L Z Col
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Muide>
+		 "muide" L0 D
+<mina>
+		 "mina" L0 P pers ps1 sg nom
+<olen>
+		 "ole" Ln V main indic pres ps1 sg ps af
+<Europargile>
+		 "Euro_park" Lle S prop sg all
+<alati>
+		 "alati" L0 D
+<maksnud>
+		 "maks" Lnud V mod partic past ps
+<parkimise>
+		 "parkimine" L0 S com sg gen
+<eest>
+		 "eest" L0 K post
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Las>
+		 "las" L0 D
+<nemad>
+		 "tema" Ld P PLIIK pl nom
+<ka>
+		 "ka" L0 D
+<teenivad>
+		 "teeni" Lvad V main indic pres ps3 pl ps af
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<ega>
+		 "ega" L0 D
+<mul>
+		 "mina" Ll P pers ps1 sg ad
+<kahju>
+		 "kahju" L0 S com sg part
+<pole>
+		 "ole" L0 V main indic pres ps neg
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Aga>
+		 "aga" L0 J sub
+<need>
+		 "see" Ld P PLIIK pl nom
+<“>
+		 "“" L Z
+<trahvid>
+		 "trahv" Ld S com pl nom
+<”>
+		 "”" L Z
+<on>
+		 "ole" L0 V main indic pres ps3 pl ps af
+<sigadus>
+		 "sigadus" L0 S com sg nom
+<–>
+		 "-" L Z Dsh
+<ajuvabalt>
+		 "aju_vaba=lt" L0 D
+<kõrged>
+		 "kõrge" Ld A pos pl nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<nagu>
+		 "nagu" L0 J sub
+<kliendi>
+		 "klient" L0 S com sg gen
+<varitsemine>
+		 "varitse=mine" L0 S com sg nom
+<:>
+		 ":" L Z Col
+<kindel_piir/>
+<“>
+		 "“" L Z
+<Ahaa>
+		 "ahaa" L0 _I_
+<,>
+		 "," L Z Com
+<VAHELE>
+		 "vahele" L0 D
+<JÄID>
+		 "jää" Lid V main indic impf ps2 sg ps af
+<!>
+		 "!" L Z Exc
+<kindel_piir/>
+<Nüüd>
+		 "nüüd" L0 D
+<me>
+		 "mina" L0 P PLIIK pl nom
+<alles>
+		 "alles" L0 D
+<KEERAME>
+		 "keera" Lme V main indic pres ps1 pl ps af
+<sulle>
+		 "sina" Llle P pers ps2 sg all
+<!>
+		 "!" L Z Exc
+<!>
+		 "!" L Z Exc
+<!>
+		 "!" L Z Exc
+<”>
+		 "”" L Z
+</s>
+<s>
+<Klient>
+		 "klient" L0 S com sg nom
+<aga>
+		 "aga" L0 J sub
+<võib-olla>
+		 "võib-olla" L0 D
+<lihtsalt>
+		 "lihtsalt" L0 D
+<unustas>
+		 "unusta" Ls V main indic impf ps3 sg ps af
+<või>
+		 "või" L0 J sub
+<kindel_piir/>
+<m-parkimine>
+		 "m-parkimine" L0 S com sg nom
+<ei>
+		 "ei" L0 V aux neg
+<töötanud>
+		 "tööta" Lnud V main indic impf ps neg
+<vms>
+		 "vms" L0 Y nominal ?
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Seetõttu>
+		 "see_tõttu" L0 D
+<kui>
+		 "kui" L0 J sub
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<kunagi>
+		 "kunagi" L0 D
+<peaks>
+		 "pida" Lks V main cond pres ps af
+<mõne>
+		 "mõni" L0 P PLIIK sg gen
+<selle>
+		 "see" L0 P PLIIK sg gen
+<trahvi>
+		 "trahv" L0 S com sg gen
+<saama>
+		 "saa" Lma V mod sup ps ill
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<siis>
+		 "siis" L0 J sub
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<tuimalt>
+		 "tuimalt" L0 D
+<ei>
+		 "ei" L0 V aux neg
+<maksa>
+		 "maks" L0 V main indic pres ps neg
+<seda>
+		 "see" Lda P PLIIK sg part
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<ei>
+		 "ei" L0 V aux neg
+<tunne>
+		 "tund" L0 V main indic pres ps neg
+<ennast>
+		 "ise" Lt P PLIIK sg part
+<ka>
+		 "ka" L0 D
+<üldse>
+		 "üldse" L0 D
+<halvasti>
+		 "halvasti" L0 D
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Ja>
+		 "ja" L0 J sub crd
+<tõe>
+		 "tõde" L0 S com sg gen
+<huvides>
+		 "huvi" Ldes S com pl in
+<olgu>
+		 "ole" Lgu V main imper pres sg ps af
+<lisatud>
+		 "lisa" Ltud V main partic past imps
+<ka>
+		 "ka" L0 D
+<see>
+		 "see" L0 P PLIIK sg nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<olen>
+		 "ole" Ln V main indic pres ps1 sg ps af
+<teemat>
+		 "teema" Lt S com sg part
+<EuroParkiga>
+		 "Euro_park" Lga S prop sg kom
+<arutanud>
+		 "aruta" Lnud V mod partic past ps
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<nad>
+		 "tema" Ld P PLIIK pl nom
+<on>
+		 "ole" L0 V main indic pres ps3 pl ps af
+<sisemas>
+		 "sisemas" L0 D
+<ka>
+		 "ka" L0 D
+<ise>
+		 "ise" L0 P PLIIK pl nom
+<arvamusel>
+		 "arvamus" Ll S com sg ad
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<klientide>
+		 "klient" Lde S com pl gen
+<kottimine>
+		 "kotti=mine" L0 S com sg nom
+<ei>
+		 "ei" L0 V aux neg
+<ole>
+		 "ole" L0 V main indic pres ps neg
+<mõistlik>
+		 "mõistlik" L0 A pos sg nom
+<äri>
+		 "äri" L0 S com sg nom
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<proovivad>
+		 "proovi" Lvad V main indic pres ps3 pl ps af
+<vaided>
+		 "vaie" Ld S com pl nom
+<mõistusega>
+		 "mõistus" Lga S com sg kom
+<lahendada>
+		 "lahenda" Lda V main inf
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Küllap>
+		 "küllap" L0 D
+<läheb>
+		 "mine" Lb V main indic pres ps3 sg ps af
+<sama>
+		 "sama" L0 P PLIIK sg part
+<rada>
+		 "rada" L0 S com sg part
+<ka>
+		 "ka" L0 D
+<minu>
+		 "mina" L0 P pers ps1 sg gen
+<seekordne>
+		 "see_kordne" L0 A pos sg nom
+<vaie>
+		 "vaie" L0 S com sg nom
+<ehk>
+		 "ehk" L0 J sub
+<kindel_piir/>
+<kõik>
+		 "kõik" L0 P PLIIK pl nom
+<saab>
+		 "saa" Lb V main indic pres ps3 sg ps af
+<kenasti>
+		 "kenasti" L0 D
+<korda>
+		 "kord" L0 S com sg ill
+<…>
+		 "…" L0 Y nominal ?
+<kindel_piir/>
+<aga>
+		 "aga" L0 J sub
+<siis>
+		 "siis" L0 D
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<sattusin>
+		 "sattu" Lsin V main indic impf ps1 sg ps af
+<netis>
+		 "nett" Ls S com sg in
+<seda>
+		 "see" Lda P PLIIK sg part
+<vaiet>
+		 "vaie" Lt S com sg part
+<täitma>
+		 "täit" Lma V mod sup ps ill
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<…>
+		 "…" L0 Y nominal ?
+<see>
+		 "see" L0 P PLIIK sg nom
+<asi>
+		 "asi" L0 S com sg nom
+<sobib>
+		 "sobi" Lb V main indic pres ps3 sg ps af
+<paraku>
+		 "paraku" L0 D
+<õpikusse>
+		 "õpik" Lsse S com sg ill
+<:>
+		 ":" L Z Col
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Kõigepealt>
+		 "kõige_pealt" L0 D
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<tore>
+		 "tore" L0 A pos sg nom
+<sisestada>
+		 "sisesta" Lda V main inf
+<vaide>
+		 "vaie" L0 S com sg gen
+<number>
+		 "number" L0 S com sg nom
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<milles>
+		 "mis" Ls P PLIIK sg in
+<sisaldub>
+		 "sisaldu" Lb V main indic pres ps3 sg ps af
+<muideks>
+		 "muideks" L0 D
+<kontrolöri>
+		 "kontrolör" L0 S com sg gen
+<ID>
+		 "id" L0 Y nominal ?
+<,>
+		 "," L Z Com
+<kuupäev>
+		 "kuu_päev" L0 S com sg nom
+<ja>
+		 "ja" L0 J sub crd
+<kellaaeg>
+		 "kella_aeg" L0 S com sg nom
+<–>
+		 "-" L Z Dsh
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<siis>
+		 "siis" L0 D
+<lisada>
+		 "lisa" Lda V main inf
+<sinna>
+		 "sinna" L0 D
+<juurde>
+		 "juurde" L0 D
+<seesama>
+		 "see_sama" L0 P PLIIK sg nom
+<info>
+		 "info" L0 S com sg nom
+<kenasti>
+		 "kenasti" L0 D
+<lahtrite>
+		 "lahter" Lte S com pl gen
+<kaupa>
+		 "kaupa" L0 K post
+<kindel_piir/>
+<aidates>
+		 "aita" Ltes V main ger
+<ühtlasti>
+		 "ühtlasi" L0 D
+<parkimiskorraldajal>
+		 "parkimis_korraldaja" Ll S com sg ad
+<meelde>
+		 "meel" Lde S com sg ill
+<tuletada>
+		 "tuleta" Lda V main inf
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<kus>
+		 "kus" L0 D
+<täpselt>
+		 "täpselt" L0 D
+<asub>
+		 "asu" Lb V main indic pres ps3 sg ps af
+<ala>
+		 "ala" L0 S com sg nom
+<EP25>
+		 "EP25" L0 Y nominal ?
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<trahvi>
+		 "trahv" L0 S com sg gen
+<peal>
+		 "peal" L0 K post
+<kirjas>
+		 "kiri" Ls S com sg in
+<oli>
+		 "ole" Li V main indic impf ps3 sg ps af
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Ilmselt>
+		 "ilmselt" L0 D
+<ei>
+		 "ei" L0 V aux neg
+<piisa>
+		 "piisa" L0 V main indic pres ps neg
+<aga>
+		 "aga" L0 J sub
+<sellestki>
+		 "see" Lstki P PLIIK sg el
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<sest>
+		 "sest" L0 J sub
+<järsku>
+		 "järsku" L0 D
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<keegi>
+		 "keegi" L0 P PLIIK sg nom
+<otsustanud>
+		 "otsusta" Lnud V mod partic past ps
+<kontrollida>
+		 "kontrolli" Lda V main inf
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<linnast>
+		 "linn" Lst S com sg el
+<üldse>
+		 "üldse" L0 D
+<jutt>
+		 "jutt" L0 S com sg nom
+<käib>
+		 "käi" Lb V main indic pres ps3 sg ps af
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Ja>
+		 "ja" L0 J sub crd
+<siis>
+		 "siis" L0 D
+<tuleb>
+		 "tule" Lb V main indic pres ps3 sg ps af
+<ports>
+		 "ports" L0 S com sg nom
+<punkte>
+		 "punkt" Le S com pl part
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK pl nom
+<arvatavasti>
+		 "arvatavasti" L0 D
+<peaksid>
+		 "pida" Lksid V main cond pres ps3 pl ps af
+<paneme>
+		 "pane" Lma V mod sup ps ill
+<vaide>
+		 "vaie" L0 S com sg gen
+<esitaja>
+		 "esitaja" L0 S com sg gen
+<oma>
+		 "oma" L0 P PLIIK sg gen
+<kavatsusest>
+		 "kavatsus" Lst S com sg el
+<loobuma>
+		 "loobu" Lma V mod sup ps ill
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<kas>
+		 "kas" L0 D
+<ikka>
+		 "ikka" L0 D
+<maksid>
+		 "maks" Lid V main indic impf ps2 sg ps af
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<tegid>
+		 "tege" Lid V main indic impf ps2 sg ps af
+<seda>
+		 "see" Lda P PLIIK sg part
+<kohe>
+		 "kohe" L0 D
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<vastussõnumi>
+		 "vastus_sõnum" L0 S com sg gen
+<said>
+		 "saa" Lid V main indic impf ps2 sg ps af
+<jne>
+		 "jne" L0 Y adverbial
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Vaide>
+		 "vaie" L0 S com sg gen
+<SISULISE>
+		 "Sisulis" L0 S prop sg gen
+<OSA>
+		 "osa" L0 S com sg gen
+<ehk>
+		 "ehk" L0 J sub
+<minupoolse>
+		 "minu_poolne" L0 A pos sg gen
+<selgituse>
+		 "selgitus" L0 S com sg gen
+<jaoks>
+		 "jaoks" L0 K post
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<jäetud>
+		 "jät" Ltud V main partic past imps
+<imetilluke>
+		 "ime_tilluke" L0 A pos sg nom
+<lahter>
+		 "lahter" L0 S com sg nom
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Edasi>
+		 "edasi" L0 D
+<…>
+		 "…" L Z Ell
+<kindel_piir/>
+<Arvake>
+		 "arva" Lke V main imper pres ps2 pl ps af
+<ära>
+		 "ära" L0 D
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<juhtub>
+		 "juhtu" Lb V main indic pres ps3 sg ps af
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<kui>
+		 "kui" L0 J sub
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<otsustan>
+		 "otsusta" Ln V main indic pres ps1 sg ps af
+<vaide>
+		 "vaie" L0 S com sg gen
+<teele>
+		 "tee" Lle S com sg all
+<saata>
+		 "saat" La V main inf
+<?>
+		 "?" L Z Int
+</s>
+<s>
+<Loomulikult>
+		 "loomulikult" L0 D
+<saan>
+		 "saa" Ln V main indic pres ps1 sg ps af
+<veateate>
+		 "vea_teade" L0 S com sg gen
+<:>
+		 ":" L Z Col
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Mmmm>
+		 "Mmmm" L0 _I_
+<…>
+		 "…" L Z Ell
+<kogu>
+		 "kogu" L0 S com sg nom
+<probleem>
+		 "probleem" L0 S com sg nom
+<ongi>
+		 "ole" Lgi V main indic pres ps3 sg ps af
+<ju>
+		 "ju" L0 D
+<selles>
+		 "see" Ls P PLIIK sg in
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<teie>
+		 "sina" L0 P PLIIK pl gen
+<maksesüsteem>
+		 "makse_süsteem" L0 S com sg nom
+<ei>
+		 "ei" L0 V aux neg
+<toiminud>
+		 "toimi" Lnud V main indic impf ps neg
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<ei>
+		 "ei" L0 V aux neg
+<saatnud>
+		 "saat" Lnud V main indic impf ps neg
+<vastust>
+		 "vastus" Lt S com sg part
+<kindel_piir/>
+<mille>
+		 "mis" L0 P PLIIK sg gen
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<vastava>
+		 "vastav" L0 A pos sg gen
+<radio-buttoniga>
+		 "radio-button" Lga S com sg kom
+<ka>
+		 "ka" L0 D
+<kenasti>
+		 "kenasti" L0 D
+<ära>
+		 "ära" L0 D
+<märkisin>
+		 "märki" Lsin V main indic impf ps1 sg ps af
+<,>
+		 "," L Z Com
+<eksju>
+		 "eksju" L0 V main indic pres ps neg
+<?>
+		 "eksju" L0 D
+</s>
+<s>
+<Sealt>
+		 "sealt" L0 D
+<edasi>
+		 "edasi" L0 D
+<kuvatakse>
+		 "kuva" Ltakse V main indic pres imps af
+<mulle>
+		 "mina" Llle P pers ps1 sg all
+<kinnitus-popup>
+		 "kinnitus-popup" L0 S com sg nom
+<kindel_piir/>
+<kus>
+		 "kus" L0 D
+<minu>
+		 "mina" L0 P pers ps1 sg gen
+<tekst>
+		 "tekst" L0 S com sg nom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<segamini>
+		 "segamini" L0 D
+<igatmasti>
+		 "igat_masti" L0 A pos
+<tehnilise>
+		 "tehniline" L0 A pos sg gen
+<infoga>
+		 "info" Lga S com sg kom
+<kiil>
+<(>
+		 "(" L Z Opr
+<ülaservas>
+		 "üla_serv" Ls S com sg in
+<oli>
+		 "ole" Li V main indic impf ps3 sg ps af
+<mh>
+		 "mh" L0 Y nominal ?
+<MAX_FILE_SIZE>
+		 "MAX_FILE_SIZE" L0 _Q_
+<8000000>
+		 "8000000" L0 N card ? digit
+<)>
+		 ")" L Z Cpr
+</kiil>
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<nupp>
+		 "nupp" L0 S com sg nom
+<selle>
+		 "see" L0 P PLIIK sg gen
+<väljatrükkimiseks>
+		 "välja_trükkimine" Lks S com sg tr
+<:>
+		 ":" L Z Col
+</s>
+</p>
+<p "heading"="0">
+<s>
+<…>
+		 "…" L0 Y nominal ?
+<ja>
+		 "ja" L0 J sub crd
+<vähemalt>
+		 "vähemalt" L0 D
+<OSX+Chrome>
+		 "OSX" LChrome S prop sg gen
+<puhul>
+		 "puhul" L0 K post
+<juhtub>
+		 "juhtu" Lb V main indic pres ps3 sg ps af
+<Prindi-nuppu>
+		 "prindi-nupp" L0 S com sg part
+<painates>
+		 "paina" Ltes V main ger
+<järgmine>
+		 "järgmine" L0 A pos sg nom
+<asi>
+		 "asi" L0 S com sg nom
+<:>
+		 ":" L Z Col
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Ma>
+		 "mina" L0 P pers ps1 sg nom
+<siia>
+		 "siia" L0 D
+<sappa>
+		 "saba" L0 S com sg ill
+<mingit>
+		 "mingi" Lt P PLIIK sg part
+<moraali>
+		 "moraal" L0 S com sg part
+<lisama>
+		 "lisa" Lma V mod sup ps ill
+<ei>
+		 "ei" L0 V aux neg
+<hakka>
+		 "hakka" L0 V main indic pres ps neg
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<kuigi>
+		 "kuigi" L0 J sub
+<kange>
+		 "kange" L0 A pos sg nom
+<soov>
+		 "soov" L0 S com sg nom
+<oleks>
+		 "ole" Lks V main cond pres ps af
+<kehtestada>
+		 "kehtesta" Lda V main inf
+<kasutaja-poolne>
+		 "kasutaja-poolne" L0 A pos sg nom
+<leppetrahv>
+		 "leppe_trahv" L0 S com sg nom
+<tarkvara-arendajatele>
+		 "tark_vara-arendaja" Ltele S com pl all
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Ahjah>
+		 "ah_jah" L0 _I_
+<,>
+		 "," L Z Com
+<sai>
+		 "saa" Li V main indic impf ps3 sg ps af
+<ju>
+		 "ju" L0 D
+<just>
+		 "just" L0 D
+<pikalt>
+		 "pikalt" L0 D
+<arutatud>
+		 "aruta" Ltud V main partic past imps
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<trahv>
+		 "trahv" L0 S com sg nom
+<ei>
+		 "ei" L0 V aux neg
+<ole>
+		 "ole" L0 V main indic pres ps neg
+<lahendus>
+		 "lahendus" L0 S com sg nom
+<kah>
+		 "kah" L0 D
+<…>
+		 "…" L Z Ell
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Pealtnägija>
+		 "Pealt_nägija" L0 S prop sg gen
+<26.10.2011>
+		 "26.10.2011" L0 N card ? digit
+<lugu>
+		 "lugu" L0 S com sg nom
+<lingibörsi>
+		 "lingi_börs" L0 S com sg gen
+<abil>
+		 "abi" Ll S com sg ad
+<SEO-teenust>
+		 "SEO-teenus" Lt S com sg part
+<pakkuvast>
+		 "pakkuv" Lst A pos sg el
+<firmast>
+		 "firma" Lst S com sg el
+<Optim>
+		 "Optim" L0 S prop sg nom
+<Technology>
+		 "Technology" L0 S prop sg nom
+<väärib>
+		 "vääri" Lb V main indic pres ps3 sg ps af
+<veidi>
+		 "veidi" L0 D
+<pikemat>
+		 "pikem" Lt A comp sg part
+<taustaselgitust>
+		 "tausta_selgitus" Lt S com sg part
+<–>
+		 "-" L Z Dsh
+<nii>
+		 "nii" L0 D
+<sisulises>
+		 "sisuline" Ls A pos sg in
+<kui>
+		 "kui" L0 J sub
+<tehnilises>
+		 "tehniline" Ls A pos sg in
+<mõttes>
+		 "mõte" Ls S com sg in
+<kiil>
+<(>
+		 "(" L Z Opr
+<mh>
+		 "mh" L0 Y nominal ?
+<sai>
+		 "saa" Li V main indic impf ps3 sg ps af
+<tutvutud>
+		 "tutvu" Ltud V main partic past imps
+<saates>
+		 "saade" Ls S com sg in
+<mainitud>
+		 "mainitud" L0 A pos
+<vallaveebi>
+		 "valla_veeb" L0 S com sg gen
+<häkiga>
+		 "häkk" Lga S com sg kom
+<seestpoolt>
+		 "seest_poolt" L0 D
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<aidatud>
+		 "aita" Ltud V main partic past imps
+<neil>
+		 "tema" Ll P PLIIK pl ad
+<pättvara>
+		 "pätt_vara" L0 S com sg part
+<veebist>
+		 "veeb" Lst S com sg el
+<eemaldada>
+		 "eemalda" Lda V main inf
+<)>
+		 ")" L Z Cpr
+</kiil>
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Lühike>
+		 "lühike" L0 A pos sg nom
+<sisuline>
+		 "sisuline" L0 A pos sg nom
+<sünops>
+		 "sünops" L0 S com sg nom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<järgnev>
+		 "järgnev" L0 A pos sg nom
+<:>
+		 ":" L Z Col
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Tegelikult>
+		 "tegelikult" L0 D
+<kasutatakse>
+		 "kasuta" Ltakse V main indic pres imps af
+<selleks>
+		 "see" Lks P PLIIK sg tr
+<lingibörse>
+		 "lingi_börs" Le S com pl part
+<kiil>
+<(>
+		 "(" L Z Opr
+<vallaveebi>
+		 "valla_veeb" L0 S com sg gen
+<juhtumi>
+		 "juhtum" L0 S com sg gen
+<puhul>
+		 "puhul" L0 K post
+<venelaste>
+		 "venelane" Lte S com pl gen
+<sape.ru>
+		 "sape.ru" L0 _Q_
+<)>
+		 ")" L Z Cpr
+</kiil>
+<ehk>
+		 "ehk" L0 J sub
+<teenuseid>
+		 "teenus" Lid S com pl part
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK pl nom
+<võimaldavad>
+		 "võimalda" Lvad V main indic pres ps3 pl ps af
+<ühel>
+		 "üks" Ll P PLIIK sg ad
+<poolel>
+		 "pool" Ll S com sg ad
+<paigutada>
+		 "paiguta" Lda V main inf
+<veebi>
+		 "veeb" L0 S com sg ill
+<tekstilinkide>
+		 "teksti_link" Lde S com pl gen
+<müümise>
+		 "müümine" L0 S com sg gen
+<koodi>
+		 "kood" L0 S com sg part
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<teisel>
+		 "teine" Ll P PLIIK sg ad
+<poolel>
+		 "pool" Ll S com sg ad
+<neisse>
+		 "see" Lsse P PLIIK pl ill
+<veebidesse>
+		 "veeb" Ldesse S com pl ill
+<linke>
+		 "link" Le S com pl part
+<osta>
+		 "ost" La V main inf
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Lingibörsidesse>
+		 "lingi_börs" Ldesse S com pl ill
+<on>
+		 "ole" L0 V main indic pres ps3 pl ps af
+<sisse>
+		 "sisse" L0 D
+<ehitatud>
+		 "ehita" Ltud V main partic past imps
+<mh>
+		 "mh" L0 Y nominal ?
+<pidev>
+		 "pidev" L0 A pos sg nom
+<monitooring>
+		 "monitooring" L0 S com sg nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<nt>
+		 "nt" L0 Y nominal ?
+<kui>
+		 "kui" L0 J sub
+<Google>
+		 "Google" L0 S prop sg nom
+<võtab>
+		 "võt" Lb V main indic pres ps3 sg ps af
+<linke>
+		 "link" Le S com pl part
+<müünud>
+		 "müü=nud" L0 A pos
+<saidi>
+		 "sait" L0 S com sg gen
+<oma>
+		 "oma" L0 P PLIIK sg gen
+<indeksist>
+		 "indeks" Lst S com sg el
+<maha>
+		 "maha" L0 D
+<kindel_piir/>
+<peatub>
+		 "peatu" Lb V main indic pres ps3 sg ps af
+<automaatselt>
+		 "automaatselt" L0 D
+<reklaam/rahavoog>
+		 "raha_voog" L0 S com sg nom
+<jne>
+		 "jne" L0 Y adverbial
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<ehk>
+		 "ehk" L0 J sub
+<kõik>
+		 "kõik" L0 P PLIIK pl nom
+<mänguosalised>
+		 "mängu_osaline" Ld A pos pl nom
+<on>
+		 "ole" L0 V main indic pres ps3 pl ps af
+<teadlikud>
+		 "teadlik" Ld A pos pl nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<otsimootorid>
+		 "otsi_mootor" Ld S com pl nom
+<peavad>
+		 "pida" Lvad V main indic pres ps3 pl ps af
+<sellist>
+		 "selline" Lt P PLIIK sg part
+<tegevust>
+		 "tegevus" Lt S com sg part
+<lubamatuks>
+		 "lubamatu" Lks A pos sg tr
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<tegelevad>
+		 "tegele" Lvad V main indic pres ps3 pl ps af
+<igapäevaselt>
+		 "iga_päevaselt" L0 D
+<aktiivse>
+		 "aktiivne" L0 A pos sg gen
+<kassi-hiire-mänguga>
+		 "kassi-hiire-mäng" Lga S com sg kom
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Lingibörsi>
+		 "lingi_börs" L0 S com sg gen
+<kood>
+		 "kood" L0 S com sg nom
+<satub>
+		 "sattu" Lb V main indic pres ps3 sg ps af
+<veebidesse>
+		 "veeb" Ldesse S com pl ill
+<mitmel>
+		 "mitu" Ll P PLIIK sg ad
+<moel>
+		 "mood" Ll S com sg ad
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<leidub>
+		 "leidu" Lb V main indic pres ps3 sg ps af
+<pisemate>
+		 "pisem" Lte A comp pl gen
+<saitide>
+		 "sait" Lde S com pl gen
+<omanikke>
+		 "omanik" Le S com pl part
+<kindel_piir/>
+<kes>
+		 "kes" L0 P PLIIK pl nom
+<kasutavad>
+		 "kasuta" Lvad V main indic pres ps3 pl ps af
+<võimalust>
+		 "võimalus" Lt S com sg part
+<raha>
+		 "raha" L0 S com sg part
+<teenida>
+		 "teeni" Lda V main inf
+<kiil>
+<(>
+		 "(" L Z Opr
+<mh>
+		 "mh" L0 Y nominal ?
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<suht>
+		 "suht" L0 D
+<mõttetu>
+		 "mõttetu" L0 A pos sg gen
+<sisuga>
+		 "sisu" Lga S com sg kom
+<liiklust>
+		 "liiklus" Lt S com sg part
+<suunavate>
+		 "suuna=v" Lte A pos pl gen
+<minisaitide>
+		 "mini_sait" Lde S com pl gen
+<pidamine>
+		 "pidamine" L0 S com sg nom
+<täiesti>
+		 "täiesti" L0 D
+<eraldi>
+		 "eraldi" L0 D
+<tegevusvaldkond>
+		 "tegevus_valdkond" L0 S com sg nom
+<SEO-maailmas>
+		 "SEO-maa_ilm" Ls S com sg in
+<)>
+		 ")" L Z Cpr
+</kiil>
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<on>
+		 "ole" L0 V main indic pres ps3 pl ps af
+<veebimeistreid>
+		 "veebi_meister" Lid S com pl part
+<kindel_piir/>
+<kes>
+		 "kes" L0 P PLIIK pl nom
+<klientide>
+		 "klient" Lde S com pl gen
+<teadmata>
+		 "tead" Lmata V mod sup ps abes
+<nende>
+		 "tema" Lde P PLIIK pl gen
+<veebe>
+		 "veeb" Le S com pl part
+<ära>
+		 "ära" L0 D
+<kasutavad>
+		 "kasuta" Lvad V main indic pres ps3 pl ps af
+<–>
+		 "-" L Z Dsh
+<ja>
+		
+<kindel_piir/>
+<lisaks>
+		 "lisa" Lks S com sg tr
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<hea>
+		 "hea" L0 A pos sg nom
+<äri-idee>
+		 "äri-idee" L0 S com sg nom
+<häkkida>
+		 "häkki" Lda V main inf
+<massiliselt>
+		 "massiliselt" L0 D
+<veebisaitidesse>
+		 "veebi_sait" Ldesse S com pl ill
+<kindel_piir/>
+<pannes>
+		 "pane" Les V main ger
+<need>
+		 "see" Ld P PLIIK pl nom
+<linke>
+		 "link" Le S com pl part
+<kuvama>
+		 "kuva" Lma V mod sup ps ill
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Vaadates>
+		 "vaata" Ltes V main ger
+<Optimi>
+		 "Optim" L0 S prop sg gen
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<nende>
+		 "tema" Lde P PLIIK pl gen
+<klientide>
+		 "klient" Lde S com pl gen
+<sape.ru>
+		 "sape.ru" L0 _Q_
+<börsilinke>
+		 "börsi_link" Le S com pl part
+<kindel_piir/>
+<paistab>
+		 "paist" Lb V main indic pres ps3 sg ps af
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<.ru>
+		 ".ru" L _Q_
+<puhul>
+		 "puhul" L0 K post
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<tegemist>
+		 "tegemine" Lt S com sg part
+<peamiselt>
+		 "peamiselt" L0 D
+<linke>
+		 "link" Le S com pl part
+<müüvate>
+		 "müüv" Lte A pos pl gen
+<veebidega>
+		 "veeb" Ldega S com pl kom
+<ja>
+		 "ja" L0 J sub crd
+<mitte-.ru>
+		 "mitte-.ru" L0 Y nominal ?
+<puhul>
+		 "puhul" L0 K post
+<häkitud>
+		 "häki=tud" Ld A pos pl nom
+<saitidega>
+		 "sait" Ldega S com pl kom
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<muuhulgas>
+		 "muu_hulgas" L0 D
+<jäi>
+		 "jää" Li V main indic impf ps3 sg ps af
+<silma>
+		 "silm" L0 S com sg ill
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<samal>
+		 "sama" Ll P PLIIK sg ad
+<päeval>
+		 "päev" Ll S com sg ad
+<kiil>
+<(>
+		 "(" L Z Opr
+<öösel>
+		 "öösel" L0 D
+<)>
+		 ")" L Z Cpr
+</kiil>
+<saates>
+		 "saade" Ls S com sg in
+<mainitud>
+		 "mainitud" L0 A pos
+<vallaveebiga>
+		 "valla_veeb" Lga S com sg kom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<täpselt>
+		 "täpselt" L0 D
+<sama>
+		 "sama" L0 P PLIIK sg gen
+<kood>
+		 "kood" L0 S com sg nom
+<lisatud>
+		 "lisa" Ltud V main partic past imps
+<ka>
+		 "ka" L0 D
+<ühte>
+		 "üks" L0 P PLIIK sg ill
+<hispaaniakeelsesse>
+		 "hispaania_keelne" Lsse A pos sg ill
+<veebi>
+		 "veeb" L0 S com sg ill
+<kindel_piir/>
+<ehk>
+		 "ehk" L0 J sub
+<tegu>
+		 "tegu" L0 S com sg nom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<olnud>
+		 "ole" Lnud V mod partic past ps
+<business-as-usual>
+		 "business-as-usual" L0 _Q_
+<häkkeriga>
+		 "häkker" Lga S com sg kom
+<kindel_piir/>
+<kes>
+		 "kes" L0 P PLIIK sg nom
+<tõenäoliselt>
+		 "tõe_näoliselt" L0 D
+<hankis>
+		 "hanki" Ls V main indic impf ps3 sg ps af
+<endale>
+		 "ise" Lle P PLIIK sg all
+<veidike>
+		 "veidike" L0 D
+<FTP-paroole>
+		 "FTP-parool" Le S com pl part
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<asus>
+		 "asu" Ls V main indic impf ps3 sg ps af
+<nende>
+		 "see" Lde P PLIIK pl gen
+<abil>
+		 "abi" Ll S com sg ad
+<raha>
+		 "raha" L0 S com sg part
+<teenima>
+		 "teeni" Lma V mod sup ps ill
+<kiil>
+<(>
+		 "(" L Z Opr
+<vaadates>
+		 "vaata" Ltes V main ger
+<vallaveebi>
+		 "valla_veeb" L0 S com sg gen
+<logisid>
+		 "logi" Lsid S com pl part
+<kindel_piir/>
+<pakun>
+		 "pakku" Ln V main indic pres ps1 sg ps af
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<häkker>
+		 "häkker" L0 S com sg nom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<pärit>
+		 "pärit" L0 _X_
+<vene/ukraina>
+		 "ukraina" L0 _G_
+<suunalt>
+		 "suund" Llt S com sg abl
+<)>
+		 ")" L Z Cpr
+</kiil>
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Pärast>
+		 "pärast" L0 D
+<Pealtnägija>
+		 "Pealt_nägija" L0 S prop sg gen
+<intervjuud>
+		 "intervjuu" Ld S com sg part
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<Optim>
+		 "Optim" L0 S prop sg nom
+<lisanud>
+		 "lisa" Lnud V mod partic past ps
+<oma>
+		 "oma" L0 P PLIIK sg gen
+<veebi>
+		 "veeb" L0 S com sg ill
+<tööriista>
+		 "töö_riist" L0 S com sg gen
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<peaks>
+		 "pida" Lks V main cond pres ps af
+<aitama>
+		 "aita" Lma V mod sup ps ill
+<leida>
+		 "leid" La V main inf
+<veebilehele>
+		 "veebi_leht" Lle S com sg all
+<peidetud>
+		 "peidetud" L0 A pos
+<spämm-linke>
+		 "spämm-link" Le S com pl part
+<ning>
+		 "ning" L0 J sub
+<deklaratsiooni>
+		 "deklaratsioon" L0 S com sg part
+<:>
+		 ":" L Z Col
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Optim>
+		 "Optim" L0 S prop sg nom
+<Technology>
+		 "Technology" L0 S prop sg nom
+<eksperimenteerib>
+		 "eksperimenteeri" Lb V main indic pres ps3 sg ps af
+<aktiivselt>
+		 "aktiivselt" L0 D
+<rahvusvaheliste>
+		 "rahvus_vaheline" Lte A pos pl gen
+<tehnoloogiatega>
+		 "tehnoloogia" Ltega S com pl kom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK pl nom
+<hõlmavad>
+		 "hõlma" Lvad V main indic pres ps3 pl ps af
+<ka>
+		 "ka" L0 D
+<lingibörside>
+		 "lingi_börs" Lde S com pl gen
+<kasutamist>
+		 "kasutamine" Lt S com sg part
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Samas>
+		 "samas" L0 D
+<soovime>
+		 "soovi" Lme V main indic pres ps1 pl ps af
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<linkide>
+		 "link" Lde S com pl gen
+<müük>
+		 "müük" L0 S com sg nom
+<Eesti>
+		 "Eesti" L0 S prop sg gen
+<Vabariigis>
+		 "Vaba_riik" Ls S prop sg in
+<toimuks>
+		 "toimu" Lks V main cond pres ps af
+<100>
+		 "100" L0 N card ? digit
+<%>
+		 "%" L0 Y nominal ?
+<seaduslikel>
+		 "seaduslik" Lel A pos pl ad
+<alustel>
+		 "alus" Ltel S com pl ad
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Pole>
+		 "ole" L0 V main indic pres ps neg
+<midagi>
+		 "miski" Ldagi P PLIIK sg part
+<halba>
+		 "halb" L0 S com sg part
+<selles>
+		 "see" Ls P PLIIK sg in
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<kui>
+		 "kui" L0 J sub
+<koduleht>
+		 "kodu_leht" L0 S com sg nom
+<osaleb>
+		 "osale" Lb V main indic pres ps3 sg ps af
+<lingibörsidel>
+		 "lingi_börs" Ldel S com pl ad
+<lehe>
+		 "leht" L0 S com sg gen
+<omaniku>
+		 "omanik" L0 S com sg gen
+<soovil>
+		 "soov" Ll S com sg ad
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<teenides>
+		 "teeni" Ldes V main ger
+<omanikule>
+		 "omanik" Lle S com sg all
+<lisatulu>
+		 "lisa_tulu" L0 S com sg part
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Samuti>
+		 "samuti" L0 D
+<tuleks>
+		 "tule" Lks V main cond pres ps af
+<sellisel>
+		 "selline" Ll P PLIIK sg ad
+<viisil>
+		 "viis" Ll S com sg ad
+<teenitud>
+		 "teenitud" L0 A pos
+<tulult>
+		 "tulu" Llt S com sg abl
+<maksta>
+		 "maks" Lta V main inf
+<ka>
+		 "ka" L0 D
+<seadustega>
+		 "seadus" Ltega S com pl kom
+<määratud>
+		 "määratud" L0 A pos
+<maksud>
+		 "maks" Ld S com pl nom
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Paraku>
+		 "paraku" L0 D
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<Optim>
+		 "Optim" L0 S prop sg nom
+<kas>
+		 "kas" L0 D
+<jätnud>
+		 "jät" Lnud V mod partic past ps
+<lugemata>
+		 "luge" Lmata V mod sup ps abes
+<Google’i>
+		 "Google" L0 S prop sg gen
+<veebimeistritele>
+		 "veebi_meister" Ltele S com pl all
+<mõeldud>
+		 "mõel=dud" L0 A pos
+<Quality>
+		 "Quality" L0 _Q_
+<guidelines’i>
+		 "guidelines" L0 S com sg gen
+<kiil>
+<(>
+		 "(" L Z Opr
+<ehk>
+		 "ehk" L0 D
+<nad>
+		 "tema" Ld P PLIIK pl nom
+<ei>
+		 "ei" L0 V aux neg
+<jaga>
+		 "jaga" L0 V main indic pres ps neg
+<SEO’st>
+		 "SEO" Lst _Y_ ELA
+<ööd>
+		 "öö" Ld S com sg part
+<ega>
+		 "ega" L0 J sub
+<mütsi>
+		 "müts" L0 S com sg part
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<milles>
+		 "mis" Ls P PLIIK sg in
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<sügavalt>
+		 "sügavalt" L0 D
+<kahtlen>
+		 "kahtle" Ln V main indic pres ps1 sg ps af
+<)>
+		 ")" L Z Cpr
+</kiil>
+<või>
+		 "või" L0 J sub
+<kindel_piir/>
+<eksitab>
+		 "eksita" Lb V main indic pres ps3 sg ps af
+<tahtlikult>
+		 "tahtlikult" L0 D
+<oma>
+		 "oma" L0 P PLIIK sg gen
+<kliente>
+		 "klient" Le S com pl part
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<sest>
+		 "sest" L0 J sub
+<vägagi>
+		 "väga" Lgi D
+<selge>
+		 "selge" L0 A pos sg gen
+<sõnaga>
+		 "sõna" Lga S com sg kom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<seal>
+		 "seal" L0 D
+<öeldud>
+		 "ütle" Ldud V main partic past imps
+<nii>
+		 "nii" L0 D
+<:>
+		 ":" L Z Col
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Tegemist>
+		 "tegemine" Lt S com sg part
+<ei>
+		 "ei" L0 V aux neg
+<ole>
+		 "ole" L0 V main indic pres ps neg
+<muideks>
+		 "muideks" L0 D
+<mingi>
+		 "mingi" L0 P PLIIK sg gen
+<uue>
+		 "uus" L0 A pos sg gen
+<teemaga>
+		 "teema" Lga S com sg kom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<näiteks>
+		 "näide" Lks S com sg tr
+<jääb>
+		 "jää" Lb V main indic pres ps3 sg ps af
+<kiire>
+		 "kiire" L0 A pos sg gen
+<guugeldamisega>
+		 "guugelda=mine" Lga S com sg kom
+<näppu>
+		 "näpp" L0 S com sg ill
+<Matt>
+		 "Matt" L0 S prop sg nom
+<Cutts’i>
+		 "Cutts" L0 S prop sg gen
+<postitus>
+		 "postitus" L0 S com sg nom
+<aastast>
+		 "aasta" Lst S com sg el
+<2005>
+		 "2005" L0 N card ? digit
+<Text>
+		 "Text" L0 _Q_
+<links>
+		 "links" L0 _Q_
+<and>
+		 "and" L0 _Q_
+<PageRank>
+		 "PageRank" L0 _Q_
+<->
+		 "-" L Z Dsh
+<kindel_piir/>
+<ehk>
+		 "ehk" L0 J sub
+<Google>
+		 "Google" L0 S prop sg nom
+<tegeleb>
+		 "tegele" Lb V main indic pres ps3 sg ps af
+<aktiivselt>
+		 "aktiivselt" L0 D
+<sellega>
+		 "see" Lga P PLIIK sg kom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<tabada>
+		 "taba" Lda V main inf
+<müüdud>
+		 "müü=dud" L0 A pos
+<linke>
+		 "link" Le S com pl part
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<vältida>
+		 "välti" Lda V main inf
+<nende>
+		 "see" Lde P PLIIK pl gen
+<arvestamist>
+		 "arvestamine" Lt S com sg part
+<otsitulemuste>
+		 "otsitulem=us" Lte S com pl gen
+<järjestamisel>
+		 "järjesta=mine" Ll S com sg ad
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Olgu>
+		 "ole" Lgu V main imper pres sg ps af
+<lisatud>
+		 "lisa" Ltud V main partic past imps
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<peidetud>
+		 "peidetud" L0 A pos
+<linkide>
+		 "link" Lde S com pl gen
+<avastamisel>
+		 "avastamine" Ll S com sg ad
+<saab>
+		 "saa" Lb V main indic pres ps3 sg ps af
+<linkiv>
+		 "linki=v" L0 A pos sg nom
+<sait>
+		 "sait" L0 S com sg nom
+<nipsti>
+		 "nipsti" L0 D
+<indeksist>
+		 "indeks" Lst S com sg el
+<kinga>
+		 "king" L0 S com sg part
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<näiteks>
+		 "näide" Lks S com sg tr
+<sattusin>
+		 "sattu" Lsin V main indic impf ps1 sg ps af
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<2009-suvel>
+		 "2009-suvi" Ll S com sg ad
+<mõnede>
+		 "mõni" Lde P PLIIK pl gen
+<Eesti>
+		 "Eesti" L0 S prop sg gen
+<saitide>
+		 "sait" Lde S com pl gen
+<peale>
+		 "peale" L0 K post
+<kindel_piir/>
+<mille>
+		 "mis" L0 P PLIIK pl gen
+<sappa>
+		 "saba" L0 S com sg ill
+<oli>
+		 "ole" Li V main indic impf ps3 sg ps af
+<neid>
+		 "see" Ld P PLIIK pl part
+<haldav>
+		 "haldav" L0 A pos sg nom
+<veebimeister>
+		 "veebi_meister" L0 S com sg nom
+<lisanud>
+		 "lisa" Lnud V mod partic past ps
+<lingid>
+		 "link" Ld S com pl nom
+<parim-ee>
+		 "parim-ee" L0 _Q_
+<kataloogi>
+		 "kataloog" L0 S com sg gen
+<alamlehtedele>
+		 "alam_leht" Ldele S com pl all
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Palusin>
+		 "palu" Lsin V main indic impf ps1 sg ps af
+<saidi-omanikul>
+		 "saidi-omanik" Ll S com sg ad
+<lisada>
+		 "lisa" Lda V main inf
+<lehele>
+		 "leht" Lle S com sg all
+<Google>
+		 "Google" L0 S prop sg gen
+<Webmasters>
+		 "Webmasters" L0 S prop sg nom
+<Tool’i>
+		 "Tool" L0 S prop sg gen
+<tuvastuskoodi>
+		 "tuvastus_kood" L0 S com sg gen
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<sain>
+		 "saa" Lin V main indic impf ps1 sg ps af
+<peagi>
+		 "peagi" L0 D
+<näha>
+		 "näge" La V main inf
+<järgmist>
+		 "järgmine" Lt A pos sg part
+<teadet>
+		 "teade" Lt S com sg part
+<kiil>
+<(>
+		 "(" L Z Opr
+<kuna>
+		 "kuna" L0 J sub
+<veebimeister>
+		 "veebi_meister" L0 S com sg nom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<vahepeal>
+		 "vahe_peal" L0 D
+<vahetunud>
+		 "vahetu" Lnud V mod partic past ps
+<kindel_piir/>
+<peidan>
+		 "peit" Ln V main indic pres ps1 sg ps af
+<saidi>
+		 "sait" L0 S com sg gen
+<nime>
+		 "nimi" L0 S com sg gen
+<)>
+		 ")" L Z Cpr
+</kiil>
+<:>
+		 ":" L Z Col
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Ja>
+		 "ja" L0 J sub crd
+<otseloomulikult>
+		 "otse_loomuliku=lt" L0 D
+<pole>
+		 "ole" L0 V main indic pres ps neg
+<Google’i>
+		 "Google" L0 S prop sg gen
+<poliitikas>
+		 "poliitika" Ls S com sg in
+<midagi>
+		 "miski" Ldagi P PLIIK sg part
+<erakorralist>
+		 "era_korraline" Lt A pos sg part
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<ka>
+		 "ka" L0 D
+<kõik>
+		 "kõik" L0 P PLIIK pl nom
+<teised>
+		 "teine" Ld P PLIIK pl nom
+<otsimootorid>
+		 "otsi_mootor" Ld S com pl nom
+<näevad>
+		 "näge" Lvad V main indic pres ps3 pl ps af
+<vaeva>
+		 "vaev" L0 S com sg part
+<kindel_piir/>
+<pakkumaks>
+		 "pakku" Lmaks V mod sup ps tr
+<“>
+		 "“" L Z
+<orgaanilisi>
+		 "orgaaniline" Li A pos pl part
+<”>
+		 "”" L Z
+<tulemusi>
+		 "tulemus" Li S com pl part
+<…>
+		 "…" L0 Y nominal ?
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<kes>
+		 "kes" L0 P PLIIK sg nom
+<mõistab>
+		 "mõist" Lb V main indic pres ps3 sg ps af
+<venet>
+		 "vene" Lt S com sg part
+<kindel_piir/>
+<võib>
+		 "või" Lb V main indic pres ps3 sg ps af
+<vaadata>
+		 "vaata" Lta V main inf
+<kiil>
+<(>
+		 "(" L Z Opr
+<arvatavasti>
+		 "arvatavasti" L0 D
+<autorikaitse>
+		 "autori_kaitse" L0 S com sg gen
+<eesmärgil>
+		 "ees_märk" Ll S com sg ad
+<suvaliste>
+		 "suvaline" Lte A pos pl gen
+<klipijuppidega>
+		 "klipi_jupp" Ldega S com pl kom
+<pikitud>
+		 "pikki" Ltud V main partic past imps
+<)>
+		 ")" L Z Cpr
+</kiil>
+<intervjuud>
+		 "intervjuu" Ld S com sg part
+<Война>
+		 "Война" L0 _Q_
+<между>
+		 "между" L0 _Q_
+<Яндекс>
+		 "Яндекс" L0 _Q_
+<и>
+		 "и" L0 _Q_
+<биржой>
+		 "биржой" L0 _Q_
+<ссылок>
+		 "ссылок" L0 _Q_
+<sape.ru>
+		 "sape.ru" L0 _Q_
+<kindel_piir/>
+<kus>
+		 "kus" L0 D
+<viimase>
+		 "viimane" L0 A pos sg gen
+<tehnikapealik>
+		 "tehnika_pealik" L0 S com sg nom
+<selgitab>
+		 "selgita" Lb V main indic pres ps3 sg ps af
+<süsteemi>
+		 "süsteem" L0 S com sg gen
+<tööd>
+		 "töö" Ld S com sg part
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Muideks>
+		 "muideks" L0 D
+<–>
+		 "-" L Z Dsh
+<isegi>
+		 "isegi" L0 D
+<Optimi>
+		 "Optim" L0 S prop sg gen
+<ärimudel>
+		 "äri_mudel" L0 S com sg nom
+<kiil>
+<“>
+		 "“" L Z
+<arve>
+		 "arve" L0 S com sg nom
+<ainult>
+		 "ainult" L0 D
+<toimiva>
+		 "toimiv" L0 A pos sg gen
+<positsioneerimise>
+		 "positsioneeri=mine" L0 S com sg gen
+<eest>
+		 "eest" L0 K post
+<”>
+		 "”" L Z
+</kiil>
+<ei>
+		 "ei" L0 V aux neg
+<ole>
+		 "ole" L0 V main indic pres ps neg
+<unikaalne>
+		 "unikaalne" L0 A pos sg nom
+<kindel_piir/>
+<vaid>
+		 "vaid" L0 J sub
+<lingibörsi-vahenduse>
+		 "lingi_börsi-vahendus" L0 S com sg gen
+<vallas>
+		 "vald" Ls S com sg in
+<pigem>
+		 "pigem" L0 D
+<tavapärane>
+		 "tava_pärane" L0 A pos sg nom
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Tänu>
+		 "tänu" L0 K post
+<tegelastele>
+		 "tegelane" Ltele S com pl all
+<kiil>
+<nagu>
+		 "nagu" L0 J sub
+<sape.ru>
+		 "sape.ru" L0 _Q_
+<ja>
+		 "ja" L0 J sub crd
+<selliste>
+		 "selline" Lte P PLIIK pl gen
+<teenuste>
+		 "teenus" Lte S com pl gen
+<pisivahendajatele>
+		 "pisi_vahendaja" Ltele S com pl all
+<nagu>
+		 "nagu" L0 J sub
+<Optim>
+		 "Optim" L0 S prop sg nom
+</kiil>
+<saavad>
+		 "saa" Lvad V main indic pres ps3 pl ps af
+<kasutajad>
+		 "kasutaja" Ld S com pl nom
+<otsitulemusi>
+		 "otsitulem=us" Li S com pl part
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK pl nom
+<ei>
+		 "ei" L0 V aux neg
+<vii>
+		 "vii" L0 V main indic pres ps neg
+<neid>
+		 "tema" Ld P PLIIK pl part
+<mitte>
+		 "mitte" L0 D
+<parima>
+		 "parim" L0 A super sg gen
+<kliendireputatsiooniga>
+		 "kliendi_reputatsioon" Lga S com sg kom
+<ettevõtte>
+		 "ette_võte" L0 S com sg gen
+<juurde>
+		 "juurde" L0 K post
+<kindel_piir/>
+<vaid>
+		 "vaid" L0 J sub
+<seltskonda>
+		 "seltskond" L0 S com sg ill
+<kindel_piir/>
+<keda>
+		 "kes" Lda P PLIIK sg part
+<ei>
+		 "ei" L0 V aux neg
+<häiri>
+		 "häiri" L0 V main indic pres ps neg
+<ebaeetiline>
+		 "eba_eetiline" L0 A pos sg nom
+<turundus>
+		 "turundus" L0 S com sg nom
+<kanalites>
+		 "kanal" Ltes S com pl in
+<kindel_piir/>
+<mille>
+		 "mis" L0 P PLIIK pl gen
+<peamiseks>
+		 "peamine" Lks A pos sg tr
+<kasutajaks>
+		 "kasutaja" Lks S com sg tr
+<tunduvad>
+		 "tundu" Lvad V main indic pres ps3 pl ps af
+<olema>
+		 "ole" Lma V mod sup ps ill
+<saidid>
+		 "sait" Ld S com pl nom
+<stiilis>
+		 "stiil" Ls S com sg in
+<asian-t33n-pr0n-com>
+		 "asian-t33n-pr0n-com" L0 _Q_
+<ja>
+		 "ja" L0 J sub crd
+<russian-mail-order-brides-co-uk>
+		 "russian-mail-order-brides-co-uk" L0 _Q_
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Septembri>
+		 "september" L0 S com sg gen
+<algul>
+		 "algul" L0 K post
+<teemaga>
+		 "teema" Lga S com sg kom
+<tegeledes>
+		 "tegele" Ldes V main ger
+<jäi>
+		 "jää" Li V main indic impf ps3 sg ps af
+<silma>
+		 "silm" L0 S com sg ill
+<näiteks>
+		 "näide" Lks S com sg tr
+<selline>
+		 "selline" L0 P PLIIK sg nom
+<valik>
+		 "valik" L0 S com sg nom
+<Eesti>
+		 "eesti" L0 _G_
+<ettevõtete>
+		 "ette_võte" Lte S com pl gen
+<domeene>
+		 "domeen" Le S com pl part
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK pl nom
+<kasutasid>
+		 "kasuta" Lsid V main indic impf ps3 pl ps af
+<sape.ru>
+		 "sape.ru" L0 _Q_
+<börsi>
+		 "börs" L0 S com sg gen
+<teenust>
+		 "teenus" Lt S com sg part
+<kiil>
+<(>
+		 "(" L Z Opr
+<samadel>
+		 "sama" Ldel P PLIIK pl ad
+<saitidel>
+		 "sait" Ldel S com pl ad
+<oli>
+		 "ole" Li V main indic impf ps3 sg ps af
+<ka>
+		 "ka" L0 D
+<Optimi>
+		 "Optim" L0 S prop sg gen
+<enda>
+		 "ise" L0 P PLIIK sg gen
+<linke>
+		 "link" Le S com pl part
+<kindel_piir/>
+<miska>
+		 "miska" L0 P PLIIK sg nom
+<tundub>
+		 "tundu" Lb V main indic pres ps3 sg ps af
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<tegemist>
+		 "tegemine" Lt S com sg part
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<nimelt>
+		 "nimelt" L0 D
+<nende>
+		 "tema" Lde P PLIIK pl gen
+<klientide>
+		 "klient" Lde S com pl gen
+<ja>
+		 "ja" L0 J sub crd
+<mitte>
+		 "mitte" L0 D
+<omal-käel-üritajatega>
+		 "oma" Ll-käe S com pl kom
+<)>
+		 ")" L Z Cpr
+</kiil>
+<:>
+		 ":" L Z Col
+<aknauksemaailm-ee>
+		 "akna_ukse_maa_ilm-ee" L0 _Q_
+<,>
+		 "," L Z Com
+<sfinksehitus-ee>
+		 "sfinks_ehitus-ee" L0 _Q_
+<,>
+		 "," L Z Com
+<kodusisu-ee>
+		 "kodu_sisu-ee" L0 _Q_
+<,>
+		 "," L Z Com
+<call-ee>
+		 "call-ee" L0 _Q_
+<,>
+		 "," L Z Com
+<veebiabi-ee>
+		 "veebi_abi-ee" L0 _Q_
+<,>
+		 "," L Z Com
+<planb-ee>
+		 "planb-ee" L0 _Q_
+<,>
+		 "," L Z Com
+<lenovo-ee>
+		 "lenovo-ee" L0 _Q_
+<,>
+		 "," L Z Com
+<ereal-ee>
+		 "ereal-ee" L0 _Q_
+<,>
+		 "," L Z Com
+<kauponline-ee>
+		 "kauponline-ee" L0 _Q_
+<,>
+		 "," L Z Com
+<uksetehas-ee>
+		 "ukse_tehas-ee" L0 _Q_
+<,>
+		 "," L Z Com
+<gidrocity-ee>
+		 "gidrocity-ee" L0 _Q_
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Pealtnägija>
+		 "Pealt_nägija" L0 S prop sg gen
+<tarbeks>
+		 "tarve" Lks S com sg tr
+<tehtud>
+		 "tehtud" L0 A pos
+<helita>
+		 "heli" Lta S com sg abes
+<kattevideo>
+		 "katte_video" L0 S com sg gen
+<otsimisest>
+		 "otsimine" Lst S com sg el
+<,>
+		 "," L Z Com
+<leidmisest>
+		 "leidmine" Lst S com sg el
+<ja>
+		 "ja" L0 J sub crd
+<peidetud>
+		 "peidetud" L0 A pos
+<linkidest>
+		 "link" Ldest S com pl el
+<leiab>
+		 "leid" Lb V main indic pres ps3 sg ps af
+<siit>
+		 "siit" L0 D
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Nüüd>
+		 "nüüd" L0 D
+<aga>
+		 "aga" L0 D
+<tiba>
+		 "tiba" L0 S com sg nom "tiba" L0 D
+<tehnilisemaks>
+		 "tehnilise=m" Lks A comp sg tr
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<kuidas>
+		 "kuidas" L0 D
+<siis>
+		 "siis" L0 D
+<asi>
+		 "asi" L0 S com sg nom
+<käib>
+		 "käi" Lb V main indic pres ps3 sg ps af
+<?>
+		 "?" L Z Int
+</s>
+<s>
+<Hea>
+		 "hea" L0 A pos sg gen
+<ülevaate>
+		 "üle_vaade" L0 S com sg gen
+<linkide>
+		 "link" Lde S com pl gen
+<ostmisest>
+		 "ostmine" Lst S com sg el
+<SAPEs>
+		 "SAPE" Ls Y nominal sg in
+<annab>
+		 "and" Lb V main indic pres ps3 sg ps af
+<nende>
+		 "tema" Lde P PLIIK pl gen
+<enda>
+		 "ise" L0 P PLIIK sg gen
+<õppevideo>
+		 "õppe_video" L0 S com sg nom
+<http://vimeo.com/23869111>
+		 "23869111" L0 _Q_
+<ja>
+		 "ja" L0 J sub crd
+<tõepoolest>
+		 "tõe_poolest" L0 D
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<tegemist>
+		 "tegemine" Lt S com sg part
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<väga>
+		 "väga" L0 D
+<vinge>
+		 "vinge" L0 A pos sg gen
+<tööriistaga>
+		 "töö_riist" Lga S com sg kom
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<muuhulgas>
+		 "muu_hulgas" L0 D
+<võimaldab>
+		 "võimalda" Lb V main indic pres ps3 sg ps af
+<otsida>
+		 "otsi" Lda V main inf
+<sobilikke>
+		 "sobilik" Le A pos pl part
+<saite>
+		 "sait" Le S com pl part
+<lähtuvalt>
+		 "lähtuvalt" L0 D
+<märksõnadest>
+		 "märk_sõna" Ldest S com pl el
+<ja>
+		 "ja" L0 J sub crd
+<pagerank’ist>
+		 "pagerank" Lst S com sg el
+<,>
+		 "," L Z Com
+<hallata>
+		 "halda" Lta V main inf
+<keerulisi>
+		 "keeruline" Li A pos pl part
+<kampaaniad>
+		 "kampaania" Ld S com pl part
+<ning>
+		 "ning" L0 J sub
+<kontrollida>
+		 "kontrolli" Lda V main inf
+<ostetud>
+		 "oste=tud" L0 A pos
+<linkide>
+		 "link" Lde S com pl gen
+<toimimist>
+		 "toimimine" Lt S com sg part
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Veebimeistri>
+		 "veebi_meister" L0 S com sg gen
+<jaoks>
+		 "jaoks" L0 K post
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<olemas>
+		 "ole" Lmas V mod sup ps in
+<õpetused>
+		 "õpetus" Ld S com pl nom
+<kõigi>
+		 "kõik" L0 P PLIIK pl gen
+<tuntud>
+		 "tuntud" L0 A pos
+<sisuhalduslahenduste>
+		 "sisu_haldus_lahendus" Lte S com pl gen
+<jaoks>
+		 "jaoks" L0 K post
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<reeglina>
+		 "reegel" Lna S com sg es
+<PHP-kood>
+		 "PHP-kood" L0 S com sg nom
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<suhtleb>
+		 "suhtle" Lb V main indic pres ps3 sg ps af
+<SAPE>
+		 "SAPE" L0 Y nominal ?
+<serveriga>
+		 "server" Lga S com sg kom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<hangib>
+		 "hanki" Lb V main indic pres ps3 sg ps af
+<sealt>
+		 "sealt" L0 D
+<värksed>
+		 "värske" Ld A pos pl nom
+<lingid>
+		 "link" Ld S com pl nom
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<siis>
+		 "siis" L0 D
+<kuvab>
+		 "kuva" Lb V main indic pres ps3 sg ps af
+<need>
+		 "see" Ld P PLIIK pl nom
+<veebilehel>
+		 "veebi_leht" Ll S com sg ad
+<sobilikus>
+		 "sobilik" Ls A pos sg in
+<kohas>
+		 "koht" Ls S com sg in
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Kood>
+		 "kood" L0 S com sg nom
+<sokutatakse>
+		 "sokuta" Ltakse V main indic pres imps af
+<sisuhalduses>
+		 "sisu_haldus" Ls S com sg in
+<mõnda>
+		 "mõni" L0 P PLIIK sg ill
+<vähekäidavasse>
+		 "vähe_käidav" Lsse A pos sg ill
+<nurgatagusesse>
+		 "nurga_tagune" Lsse S com sg ill
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<näiteks>
+		 "näide" Lks S com sg tr
+<Lasva>
+		 "Lasva" L0 S prop sg gen
+<valla>
+		 "vald" L0 S com sg gen
+<veebi>
+		 "veeb" L0 S com sg gen
+<puhul>
+		 "puhul" L0 K post
+<pöördus>
+		 "pöördu" Ls V main indic impf ps3 sg ps af
+<selle>
+		 "see" L0 P PLIIK sg gen
+<poole>
+		 "poole" L0 K post
+<jupike>
+		 "jupi=ke" L0 S com sg nom
+<Typo3>
+		 "Typo3" L0 _Q_
+<index.php>
+		 "index.php" L0 _Q_
+<sabas>
+		 "saba" Ls S com sg in
+<:>
+		 ":" L Z Col
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Nagu>
+		 "nagu" L0 J sub
+<näha>
+		 "näge" La V main inf
+<kindel_piir/>
+<lisatakse>
+		 "lisa" Ltakse V main indic pres imps af
+<saidi>
+		 "sait" L0 S com sg gen
+<enda>
+		 "ise" L0 P PLIIK sg gen
+<linkidele>
+		 "link" Ldele S com pl all
+<ühtlasi>
+		 "ühtlasi" L0 D
+<noindex>
+		 "noindex" L0 S com sg nom
+<kindel_piir/>
+<vältimaks>
+		 "välti" Lmaks V mod sup ps tr
+<väärtusliku>
+		 "väärtuslik" L0 A pos sg gen
+<“>
+		 "“" L Z
+<lehemahla>
+		 "lehe_mahl" L0 S com sg gen
+<”>
+		 "”" L Z
+<lahjendamist>
+		 "lahjenda=mine" Lt S com sg part
+<mitte-börsi>
+		 "mitte-börs" L0 S com sg gen
+<linkide>
+		 "link" Lde S com pl gen
+<poolt>
+		 "poolt" L0 K post
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Väga>
+		 "väga" L0 D
+<kaunis>
+		 "kaunis" L0 A pos sg nom
+<ja>
+		 "ja" L0 J sub crd
+<professionaalne>
+		 "professionaalne" L0 A pos sg nom
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Pealtnägija>
+		 "Pealt_nägija" L0 S prop sg gen
+<jaoks>
+		 "jaoks" L0 K post
+<tehtud>
+		 "tehtud" L0 A pos
+<teises>
+		 "teine" Ls N ord sg in
+<kattevideos>
+		 "katte_video" Ls S com sg in
+<soovitaks>
+		 "soovi" Ltaks V main cond pres imps
+<aga>
+		 "aga" L0 D
+<eraldi>
+		 "eraldi" L0 D
+<vaadata>
+		 "vaata" Lta V main inf
+<kohta>
+		 "koht" L0 S com sg part
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<algab>
+		 "alga" Lb V main indic pres ps3 sg ps af
+<ca>
+		 "ca" L0 Y nominal ?
+<1:20>
+		 "1:20" L0 N card ? digit
+<peal>
+		 "peal" L0 K post
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<seal>
+		 "seal" L0 D
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<näha>
+		 "näge" La V main inf
+<konkreetse>
+		 "konkreetne" L0 A pos sg gen
+<lingibörsikasutaja>
+		 "lingi_börsi_kasutaja" L0 S com sg gen
+<kood>
+		 "kood" L0 S com sg nom
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<kui>
+		 "kui" L0 J sub
+<seda>
+		 "see" Lda P PLIIK sg part
+<guugeldada>
+		 "guugelda" Lda V main inf
+<kindel_piir/>
+<tuleb>
+		 "tule" Lb V main indic pres ps3 sg ps af
+<välja>
+		 "välja" L0 D
+<üks>
+		 "üks" L0 P PLIIK sg nom
+<hispaaniakeelne>
+		 "hispaania_keelne" L0 A pos sg nom
+<sait>
+		 "sait" L0 S com sg nom
+<…>
+		 "…" L0 Y nominal ?
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<juhtumisi>
+		 "juhtumisi" L0 D
+<saanud>
+		 "saa" Lnud V mod partic past ps
+<endale>
+		 "ise" Lle P PLIIK sg all
+<börsikoodi>
+		 "börsi_kood" L0 S com sg gen
+<samal>
+		 "sama" Ll P PLIIK sg ad
+<päeval>
+		 "päev" Ll S com sg ad
+<Lasva>
+		 "Lasva" L0 S prop sg gen
+<veebiga>
+		 "veeb" Lga S com sg kom
+<ehk>
+		 "ehk" L0 J sub
+<08.11.2010>
+		 "08.11.2010" L0 N card ? digit
+<:>
+		 ":" L Z Col
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Sarnast>
+		 "sarnane" Lt A pos sg part
+<SAPE-linkide>
+		 "SAPE-link" Lde S com pl gen
+<märgendust>
+		 "märgendus" Lt S com sg part
+<ehk>
+		 "ehk" L0 J sub
+<hakkas>
+		 "hakka" Ls V main indic impf ps3 sg ps af
+<silma>
+		 "silm" L0 S com sg ill
+<veel>
+		 "veel" L0 D
+<mitmes>
+		 "mitu" Ls P PLIIK sg in
+<saidis>
+		 "sait" Ls S com sg in
+<,>
+		 "," L Z Com
+<enamus>
+		 "enamus" L0 S com sg nom
+<neist>
+		 "see" Lst P PLIIK pl el
+<Dreamhost’i>
+		 "Dreamhost" L0 S prop sg gen
+<all>
+		 "all" L0 K post
+<:>
+		 ":" L Z Col
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Nagu>
+		 "nagu" L0 J sub
+<näha>
+		 "näge" La V main inf
+<kiil>
+<(>
+		 "(" L Z Opr
+<vaata>
+		 "vaata" L0 V main imper pres ps2 sg ps af
+<kasvõi>
+		 "kas_või" L0 D
+<kattevideo>
+		 "katte_video" L0 S com sg gen
+<liikuvad>
+		 "liikuv" Lt A pos sg part
+<pilti>
+		 "pilt" L0 S com sg part
+<)>
+		 ")" L Z Cpr
+</kiil>
+<käivitatakse>
+		 "käivita" Ltakse V main indic pres imps af
+<kasutaja>
+		 "kasutaja" L0 S com sg gen
+<brauseris>
+		 "brauser" Ls S com sg in
+<javascript>
+		 "javascript" L0 S com sg nom
+<kindel_piir/>
+<mille>
+		 "mis" L0 P PLIIK sg gen
+<alla-laadimise>
+		 "alla-laadimine" L0 S com sg gen
+<käigus>
+		 "käik" Ls S com sg in
+<teavitatakse>
+		 "teavita" Ltakse V main indic pres imps af
+<serverit>
+		 "server" Lt S com sg part
+<muuhulgas>
+		 "muu_hulgas" L0 D
+<kasutusel>
+		 "kasutus" Ll S com sg ad
+<olevast>
+		 "olev" Lst A pos sg el
+<brauserist>
+		 "brauser" Lst S com sg el
+<…>
+		 "…" L Z Ell
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<see>
+		 "see" L0 P PLIIK sg nom
+<c=>
+		 "c" L0 Y nominal ?
+<parameeter>
+		 "parameeter" L0 S com sg nom
+<sisaldanuks>
+		 "sisalda" Lnuks V mod cond past ps af
+<saidi>
+		 "sait" L0 S com sg gen
+<cookie’t>
+		 "cookie" Lt S com sg part
+<kiil>
+<(>
+		 "(" L Z Opr
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<võimaldaks>
+		 "võimalda" Lks V main cond pres ps af
+<mh>
+		 "mh" L0 Y nominal ?
+<tulevikus>
+		 "tulevik" Ls S com sg in
+<minuna>
+		 "mina" Lna P pers ps1 sg es
+<sisse>
+		 "sisse" L0 D
+<logida>
+		 "logi" Lda V main inf
+<)>
+		 ")" L Z Cpr
+</kiil>
+<ning>
+		 "ning" L0 J sub
+<r=>
+		 "r" L0 Y nominal ?
+<refereri>
+		 "referer" L0 S com sg part
+<kiil>
+<(>
+		 "(" L Z Opr
+<ehk>
+		 "ehk" L0 J sub
+<kuidas>
+		 "kuidas" L0 D
+<kasutaja>
+		 "kasutaja" L0 S com sg nom
+<laagri>
+		 "laager" L0 S com sg gen
+<lehele>
+		 "leht" Lle S com sg all
+<tuli>
+		 "tule" Li V main indic impf ps3 sg ps af
+<)>
+		 ")" L Z Cpr
+</kiil>
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Vot>
+		 "vot" L0 _I_
+<nii>
+		 "nii" L0 D
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Kes>
+		 "kes" L0 P PLIIK sg nom
+<oskab>
+		 "oska" Lb V main indic pres ps3 sg ps af
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<tahav>
+		 "taht" Lb V main indic pres ps3 sg ps af
+<kindel_piir/>
+<kaevab>
+		 "kaeva" Lb V main indic pres ps3 sg ps af
+<kiil>
+<(>
+		 "(" L Z Opr
+<või>
+		 "või" L0 J sub
+<kaebab>
+		 "kaeba" Lb V main indic pres ps3 sg ps af
+<)>
+		 ")" L Z Cpr
+</kiil>
+<edasi>
+		 "edasi" L0 D
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<mina>
+		 "mina" L0 P pers ps1 sg nom
+<nüüd>
+		 "nüüd" L0 D
+<jälle>
+		 "jälle" L0 D
+<jupp>
+		 "jupp" L0 S com sg nom
+<aega>
+		 "aeg" L0 S com sg part
+<meedias>
+		 "meedia" Ls S com sg in
+<ei>
+		 "ei" L0 V aux neg
+<esine>
+		 "esine" L0 V main indic pres ps neg
+<(>
+		 "(" L Z Opr
+<kindel_piir/>
+<see>
+		 "see" L0 P PLIIK sg nom
+<siin>
+		 "siin" L0 D
+<oli>
+		 "ole" Li V main indic impf ps3 sg ps af
+<lihtsalt>
+		 "lihtsalt" L0 D
+<liiga>
+		 "liiga" L0 D
+<huvitav>
+		 "huvitav" L0 A pos sg nom
+<juhtum>
+		 "juhtum" L0 S com sg nom
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<olen>
+		 "ole" Ln V main indic pres ps1 sg ps af
+<nimelt>
+		 "nimelt" L0 D
+<mõnda>
+		 "mõni" Lda P PLIIK sg part
+<aega>
+		 "aeg" L0 S com sg part
+<pisteliselt>
+		 "pisteliselt" L0 D
+<peidetud>
+		 "peidetud" L0 A pos
+<linkide>
+		 "link" Lde S com pl gen
+<teemaga>
+		 "teema" Lga S com sg kom
+<kokku>
+		 "kokku" L0 D
+<puutunud>
+		 "puutu" Lnud V mod partic past ps "puutu=nu" Ld S com pl nom
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<aidanud>
+		 "aita" Lnud V mod partic past ps
+<veebe>
+		 "veeb" Le S com pl part
+<puhastada>
+		 "puhasta" Lda V main inf
+</>
+		
+<turvaintsidente>
+		 "turva_intsident" Le S com pl part
+<lahendada>
+		 "lahenda" Lda V main inf
+<;>
+		 ";" L Z
+<kindel_piir/>
+<lisaks>
+		 "lisa" Lks S com sg tr
+<mainis>
+		 "maini" Ls V main indic impf ps3 sg ps af
+<Mihkel>
+		 "Mihkel" L0 S prop sg nom
+<Kärmas>
+		 "Kärmas" L0 S prop sg nom
+<mulle>
+		 "mina" Llle P pers ps1 sg all
+<teemat>
+		 "teema" Lt S com sg part
+<kohas>
+		 "koht" Ls S com sg in
+<kindel_piir/>
+<mille>
+		 "mis" L0 P PLIIK sg gen
+<veebis>
+		 "veeb" Ls S com sg in
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<2009-suvel>
+		 "2009-suvi" Ll S com sg ad
+<esimest>
+		 "esimene" Lt N ord sg part
+<korda>
+		 "kord" L0 S com sg part
+<peidetud>
+		 "peidetud" L0 A pos
+<linkidega>
+		 "link" Ldega S com pl kom
+<kokku>
+		 "kokku" L0 D
+<puutusin>
+		 "puutu" Lsin V main indic impf ps1 sg ps af
+<…>
+		 "…" L0 Y nominal ?
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<lihtsalt>
+		 "lihtsalt" L0 D
+<ei>
+		 "ei" L0 V aux neg
+<saanud>
+		 "saa" Lnud V main indic impf ps neg
+<jälgida>
+		 "jälgi" Lda V main inf
+<oma>
+		 "oma" L0 P PLIIK sg gen
+<head>
+		 "hea" Ld A pos sg part
+<tava>
+		 "tava" L0 S com sg part
+<anda>
+		 "and" La V main inf
+<veidi>
+		 "veidi" L0 D
+<taustainfot>
+		 "tausta_info" Lt S com sg part
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<siis>
+		 "siis" L0 D
+<ajakirjanik>
+		 "aja_kirjanik" L0 S com sg nom
+<pikalt>
+		 "pikalt" L0 D
+<saata>
+		 "saat" La V main inf
+<;>
+		 ";" L Z
+<kindel_piir/>
+<jamuideks>
+		 "ja_muideks" L0 D
+<,>
+		 "," L Z Com
+<guugeldage>
+		 "guugelda" Lge V main imper pres ps2 pl ps af
+<veidi>
+		 "veidi" L0 D
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<tekib>
+		 "tekki" Lb V main indic pres ps3 sg ps af
+<tunne>
+		 "tunne" L0 S com sg nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<ka>
+		 "ka" L0 D
+<Optimi>
+		 "Optim" L0 S prop sg gen
+<taga>
+		 "taga" L0 K post
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<PR->
+		 "PR" L0 Y nominal ?
+<ja>
+		 "ja" L0 J sub crd
+<ajakirjandusteaduskonna>
+		 "aja_kirjandus_teaduskond" L0 S com sg gen
+<lõpetanud>
+		 "lõpetanu" Ld S com pl nom
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Javeelüks>
+		 "ja_veel_üks" L0 P PLIIK sg nom
+<usability>
+		 "usability" L0 _Q_
+<&>
+		 "&" L0 _Q_
+<kindel_piir/>
+<veebi>
+		 "veeb" L0 S com sg gen
+<lugu>
+		 "lugu" L0 S com sg nom
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<proovisin>
+		 "proovi" Lsin V main indic impf ps1 sg ps af
+<nimelt>
+		 "nimelt" L0 D
+<www.energia.ee>
+		 "www.energia.ee" L0 _Q_
+<uut>
+		 "uus" Lt A pos sg part
+<kliendiinfosüsteemi>
+		 "kliendi_info_süsteem" L0 S com sg part
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<tunded>
+		 "tunne" Ld S com pl nom
+<on>
+		 "ole" L0 V main indic pres ps3 pl ps af
+<kiil>
+<(>
+		 "(" L Z Opr
+<vähemalt>
+		 "vähemalt" L0 D
+<esialgu>
+		 "esi_algu" L0 D
+<)>
+		 ")" L Z Cpr
+</kiil>
+<kahetised>
+		 "kahetine" Ld A pos pl nom
+<,>
+		 "," L Z Com
+<isegi>
+		 "isegi" L0 D
+<poole-kolmetised>
+		 "poole-kolmetine" Ld A pos pl nom
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<On>
+		 "ole" L0 V main indic pres ps3 pl ps af
+<mitmeid>
+		 "mitu" Lid P PLIIK pl part
+<detailide>
+		 "detail" Lde S com pl gen
+<lahendusi>
+		 "lahendus" Li S com pl part
+<kindel_piir/>
+<mida>
+		 "mis" Lda P PLIIK pl part
+<tasuks>
+		 "tasu" Lks V main cond pres ps af
+<kindlasti>
+		 "kindlasti" L0 D
+<eeskujuks>
+		 "ees_kuju" Lks S com sg tr
+<võtta>
+		 "võt" La V main inf
+<ja>
+		 "ja" L0 J sub crd
+<maha>
+		 "maha" L0 D
+<viksida>
+		 "viksi" Lda V main inf
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<ühendatud>
+		 "ühenda" Ltud V main partic past imps
+<avaliku>
+		 "avalik" L0 A pos sg gen
+<ja>
+		 "ja" L0 J sub crd
+<kliendiveebi>
+		 "kliendi_veeb" L0 S com sg gen
+<mudel>
+		 "mudel" L0 S com sg nom
+<kindel_piir/>
+<millel>
+		 "mis" Ll P PLIIK sg ad
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<plusse>
+		 "pluss" Le S com pl part
+<koos>
+		 "koos" L0 K post
+<kiil>
+<(>
+		 "(" L Z Opr
+<minumeelest>
+		 "minu_meel" Lst S com sg el
+<)>
+		 ")" L Z Cpr
+</kiil>
+<liigse>
+		 "liigne" L0 A pos sg gen
+<keerukusega>
+		 "keerukus" Lga S com sg kom
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<on>
+		 "ole" L0 V main indic pres ps3 pl ps af
+<ka>
+		 "ka" L0 D
+<kohti>
+		 "koht" Li S com pl part
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK pl nom
+<mul>
+		 "mina" Ll P pers ps1 sg ad
+<karva>
+		 "karv" L0 S com sg gen
+<tõsiselt>
+		 "tõsiselt" L0 D
+<turri>
+		 "turri" L0 D
+<ajavad>
+		 "aja" Lvad V main indic pres ps3 pl ps af
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Olen>
+		 "ole" Ln V main indic pres ps1 sg ps af
+<eile-täna>
+		 "eile-täna" L0 D
+<pisikeste>
+		 "pisike" Lte A pos pl gen
+<juppide>
+		 "jupp" Lde S com pl gen
+<kaupa>
+		 "kaupa" L0 K post
+<püüdnud>
+		 "püüd" Lnud V mod partic past ps
+<mõista>
+		 "mõist" La V main inf
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<seal>
+		 "seal" L0 D
+<toimub>
+		 "toimu" Lb V main indic pres ps3 sg ps af
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<panen>
+		 "pane" Ln V main indic pres ps1 sg ps af
+<kirja>
+		 "kiri" L0 S com sg ill
+<enne>
+		 "enne" L0 D
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<kui>
+		 "kui" L0 J sub
+<kiil>
+<(>
+		 "(" L Z Opr
+<a>
+		 "a" L0 Y nominal ?
+<)>
+		 ")" L Z Cpr
+</kiil>
+<huvi>
+		 "huvi" L0 S com sg nom
+<kaob>
+		 "kadu" Lb V main indic pres ps3 sg ps af
+<kiil>
+<(>
+		 "(" L Z Opr
+<b>
+		 "b" L0 Y nominal ?
+<)>
+		 ")" L Z Cpr
+</kiil>
+<minust>
+		 "mina" Lst P pers ps1 sg el
+<saab>
+		 "saa" Lb V main indic pres ps3 sg ps af
+<profikasutaja>
+		 "profi_kasutaja" L0 S com sg nom
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Kõigepealt>
+		 "kõige_pealt" L0 D
+<sellest>
+		 "see" Lst P PLIIK sg el
+<keskmisest>
+		 "keskmine" Lst A pos sg el
+<,>
+		 "," L Z Com
+<ehk>
+		 "ehk" L0 J sub
+<ühendatud>
+		 "ühenda=tud" L0 A pos
+<avalikust>
+		 "avalik" Lst A pos sg el
+<ja>
+		 "ja" L0 J sub crd
+<kliendiveebist>
+		 "kliendi_veeb" Lst S com sg el
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Sama>
+		 "sama" L0 P PLIIK sg nom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<Swedbankil>
+		 "Swedbank" Ll S prop sg ad
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<kiil>
+<neid>
+		 "see" Ld P PLIIK pl part
+<kahte>
+		 "kaks" L0 N card sg part
+<seob>
+		 "sidu" Lb V main indic pres ps3 sg ps af
+<täiesti>
+		 "täiesti" L0 D
+<juhuslikult>
+		 "juhuslikult" L0 D
+<Margus>
+		 "Margus" L0 S prop sg nom
+<Simson>
+		 "Simson" L0 S prop sg nom
+<kiil>
+<(>
+		 "(" L Z Opr
+<terv>
+		 "terv" L0 S com sg nom
+<!>
+		 "!" L Z Exc
+<)>
+		 ")" L Z Cpr
+</kiil>
+</kiil>
+<–>
+		 "-" L Z Dsh
+<aga>
+		 "aga" L0 J sub
+<kui>
+		 "kui" L0 J sub
+<Swedis>
+		 "Swed" Ls S prop sg in
+<satun>
+		 "sattu" Ln V main indic pres ps1 sg ps af
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<sisselogimise>
+		 "sisse_logi=mine" L0 S com sg gen
+<järel>
+		 "järel" L0 K post
+<oma>
+		 "oma" L0 P PLIIK sg gen
+<konto>
+		 "konto" L0 S com sg gen
+<“>
+		 "“" L Z
+<avalehele>
+		 "ava_leht" Lle S com sg all
+<”>
+		 "”" L Z
+<kindel_piir/>
+<siis>
+		 "siis" L0 J sub
+<uus>
+		 "uus" L0 A pos sg nom
+<energia.ee>
+		 "energia.ee" L0 _Q_
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<realiseerinud>
+		 "realiseeri" Lnud V mod partic past ps
+<julge>
+		 "julge" L0 A pos sg gen
+<nipi>
+		 "nipp" L0 S com sg gen
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<lubades>
+		 "luba" Ldes V main ger
+<mul>
+		 "mina" Ll P pers ps1 sg ad
+<turvalise>
+		 "turvaline" L0 A pos sg gen
+<ID/mID/panga/isikukoodi+lepinguga>
+		 "isikukoodi" L_leping S com sg kom
+<sisselogimise>
+		 "sisse_logi=mine" L0 S com sg gen
+<järel>
+		 "järel" L0 K post
+<jääda>
+		 "jää" Lda V main inf
+<8>
+		 "8" L0 N card ? digit
+<nädalaks>
+		 "nädal" Lks S com sg tr
+<tuvastatuks>
+		 "tuvasta=tud" Lks A pos sg tr
+<kiil>
+<(>
+		 "(" L Z Opr
+<mõned>
+		 "mõni" Ld P PLIIK pl nom
+<karmimad>
+		 "karmim" Ld A comp pl nom
+<tegevused>
+		 "tegevus" Ld S com pl nom
+<nõuavad>
+		 "nõud" Lvad V main indic pres ps3 pl ps af
+<hiljem>
+		 "hiljem" L0 D
+<sessiooni>
+		 "sessioon" L0 S com sg gen
+<taas-autentimist>
+		 "taas-autenti=mine" Lt S com sg part
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<mõistlik>
+		 "mõistlik" L0 A pos sg nom
+<)>
+		 ")" L Z Cpr
+</kiil>
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Praktikas>
+		 "praktika" Ls S com sg in
+<tähendab>
+		 "tähenda" Lb V main indic pres ps3 sg ps af
+<see>
+		 "see" L0 P PLIIK sg nom
+<seda>
+		 "see" Lda P PLIIK sg part
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<millal>
+		 "millal" L0 D
+<iganes>
+		 "iganes" L0 D
+<energia.ee>
+		 "energia.ee" L0 _Q_
+<veebi>
+		 "veeb" L0 S com sg ill
+<naastes>
+		 "naas" Ltes V main ger
+<satun>
+		 "sattu" Ln V main indic pres ps1 sg ps af
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<tiba>
+		 "tiba" L0 D
+<personaliseeritud>
+		 "personaliseeri=tud" L0 A pos
+<esilehele>
+		 "esi_leht" Lle S com sg all
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<kus>
+		 "kus" L0 D
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<paremas>
+		 "parem" Ls A comp sg in
+<servas>
+		 "serv" Ls S com sg in
+<võimalik>
+		 "võimalik" L0 A pos sg nom
+<teatada>
+		 "teata" Lda V main inf
+<näite>
+		 "näit" Le S com pl part
+<ja>
+		 "ja" L0 J sub crd
+<näha>
+		 "näge" La V main inf
+<võlgnevust>
+		 "võlgnevus" Lt S com sg part
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<tõenäoliselt>
+		 "tõe_näoliselt" L0 D
+<ka>
+		 "ka" L0 D
+<peamine>
+		 "peamine" L0 A pos sg nom
+<põhjus>
+		 "põhjus" L0 S com sg nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<miks>
+		 "miks" L0 D
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<sinna>
+		 "sinna" L0 D
+<veebi>
+		 "veeb" L0 S com sg ill
+<satun>
+		 "sattu" Ln V main indic pres ps1 sg ps af
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<AGA>
+		 "aga" L0 J sub
+<kui>
+		 "kui" L0 J sub
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<tulen>
+		 "tule" Ln V main indic pres ps1 sg ps af
+<veebi>
+		 "veeb" L0 S com sg ill
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<login>
+		 "logi" Ln V main indic pres ps1 sg ps af
+<ennast>
+		 "ise" Lt P PLIIK sg part
+<sisse>
+		 "sisse" L0 D
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<satun>
+		 "sattu" Ln V main indic pres ps1 sg ps af
+<oodatud>
+		 "oodatud" L0 A pos
+<iseteeninduse>
+		 "ise_teenindus" L0 S com sg gen
+<asemel>
+		 "asemel" L0 K post
+<esilehele>
+		 "esi_leht" Lle S com sg all
+<kindel_piir/>
+<kiil>
+<kus>
+		 "kus" L0 D
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<paremal>
+		 "paremal" L0 D
+<näiduteatamine>
+		 "näidu_teatamine" L0 S com sg nom
+<,>
+		 "," L Z Com
+<vasakul>
+		 "vasakul" L0 D
+<mingi>
+		 "mingi" L0 P PLIIK sg nom
+<tervitus>
+		 "tervitus" L0 S com sg nom
+<ja>
+		 "ja" L0 J sub crd
+<allpool>
+		 "all_pool" L0 D
+<…>
+		 "…" L0 Y nominal ?
+<noh>
+		 "noh" L0 D
+<justnagu>
+		 "just_nagu" L0 D
+<ülejäänud>
+		 "üle_jäänud" L0 A pos
+<EE>
+		 "ee" L0 _I_
+<veeb>
+		 "veeb" L0 S com sg nom
+</kiil>
+<kiil>
+<(>
+		 "(" L Z Opr
+<selle>
+		 "see" L0 P PLIIK sg gen
+<eripäraga>
+		 "eri_pära" Lga S com sg kom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<iseteenindusse>
+		 "ise_teenindus" Lse S com sg ill
+<sisenemise>
+		 "sisenemine" L0 S com sg gen
+<nupp>
+		 "nupp" L0 S com sg nom
+<midagi>
+		 "miski" Ldagi P PLIIK sg part
+<ei>
+		 "ei" L0 V aux neg
+<tee>
+		 "tege" L0 V main indic pres ps neg
+<)>
+		 ")" L Z Cpr
+</kiil>
+<olen>
+		 "ole" Ln V main indic pres ps1 sg ps af
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<pehmelt>
+		 "pehmelt" L0 D
+<öeldes>
+		 "ütle" Ldes V main ger
+<taburetilt>
+		 "taburet" Llt S com sg abl
+<tõugatud>
+		 "tõugatud" L0 A pos
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Umbes>
+		 "umbes" L0 D
+<kolmandal>
+		 "kolmas" Ll N ord sg ad
+<korral>
+		 "kord" Ll S com sg ad
+<hakkasin>
+		 "hakka" Lsin V main indic impf ps1 sg ps af
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<aru>
+		 "aru" L0 S com sg part
+<saama>
+		 "saa" Lma V mod sup ps ill
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<toimub>
+		 "toimu" Lb V main indic pres ps3 sg ps af
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<see>
+		 "see" L0 P PLIIK sg nom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<natuke>
+		 "natuke" L0 D
+<palju>
+		 "palju" L0 D
+<,>
+		 "," L Z Com
+<IMHO>
+		 "IMHO" L0 Y nominal ?
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Yess>
+		 "Yess" L0 _I_
+<,>
+		 "," L Z Com
+<ID>
+		 "id" L0 Y nominal ?
+<ja>
+		 "ja" L0 J sub crd
+<mID>
+		 "mID" L0 Y nominal ?
+<on>
+		 "ole" L0 V main indic pres ps3 pl ps af
+<esile>
+		 "esile" L0 D
+<toodud>
+		 "too" Ldud V main partic past imps
+<,>
+		 "," L Z Com
+<ilma>
+		 "ilma" L0 K post
+<tobeda>
+		 "tobe" L0 A pos sg gen
+<graafikata>
+		 "graafika" Lta S com sg abes
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<mainitud>
+		 "maini" Ltud V main partic past imps
+<võimalus>
+		 "võimalus" L0 S com sg nom
+<meeldejätmiseks>
+		 "meel" Lde_jätmine S com sg tr
+<koos>
+		 "koos" L0 K post
+<inimkeelse>
+		 "inim_keelne" L0 A pos sg gen
+<selgitusega>
+		 "selgitus" Lga S com sg kom
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<ja>
+		 "ja" L0 J sub crd
+<pangalingid>
+		 "panga_link" Ld S com pl nom
+<on>
+		 "ole" L0 V main indic pres ps3 pl ps af
+<diskreetselt>
+		 "diskreetselt" L0 D
+<ära>
+		 "ära" L0 D
+<peidetud>
+		 "peit" Ltud V main partic past imps
+<ent>
+		 "ent" L0 J sub
+<vajadusel>
+		 "vajadus" Ll S com sg ad
+<kättesaadavad>
+		 "kätte_saadav" Ld A pos pl nom
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Kusjuures>
+		 "kus_juures" L0 D
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<välditud>
+		 "välti" Ltud V main partic past imps
+<pankade>
+		 "pank" Lde S com pl gen
+<logosid>
+		 "logo" Lsid S com pl part
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<kasutatud>
+		 "kasuta" Ltud V main partic past imps
+<vaid>
+		 "vaid" L0 D
+<korporatiivset>
+		 "korporatiivne" Lt A pos sg part
+<tasutavärvi>
+		 "tausta_värv" L0 S com sg part
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<kohe>
+		 "kohe" L0 D
+<ei>
+		 "ei" L0 V aux neg
+<saa>
+		 "saa" L0 V main indic pres ps neg
+<olla>
+		 "ole" La V main inf
+<seda>
+		 "see" Lda P PLIIK sg part
+<kah>
+		 "kah" L0 D
+<siia>
+		 "siia" L0 D
+<panemata>
+		 "pane" Lmata V mod sup ps abes
+<kiil>
+<(>
+		 "(" L Z Opr
+<tõsi>
+		 "tõsi" L0 S com sg nom
+<,>
+		 "," L Z Com
+<hiirega>
+		 "hiir" Lga S com sg kom
+<hover>
+		 "hover" L0 _Q_
+<dades>
+		 "dades" L0 _Q_
+<lähevad>
+		 "mine" Lvad V main indic pres ps3 pl ps af
+<need>
+		 "see" Ld P PLIIK pl nom
+<nipsti>
+		 "nipsti" L0 D
+<ikka>
+		 "ikka" L0 D
+<logodeks>
+		 "logo" Ldeks S com pl tr
+<kindel_piir/>
+<millega>
+		 "mis" Lga P PLIIK pl kom
+<kaasneb>
+		 "kaasne" Lb V main indic pres ps3 sg ps af
+<tekstihüpe>
+		 "teksti_hüpe" L0 S com sg nom
+<ja>
+		 "ja" L0 J sub crd
+<koleduse>
+		 "koledus" L0 S com sg gen
+<hirmutav>
+		 "hirmutav" L0 A pos sg nom
+<kasv>
+		 "kasv" L0 S com sg nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<äkki>
+		 "äkki" L0 D
+<annaks>
+		 "and" Lks V main cond pres ps af
+<lisada>
+		 "lisa" Lda V main inf
+<pisike>
+		 "pisike" L0 A pos sg nom
+<fade>
+		 "fade" L0 S com sg nom
+<?>
+		 "?" L Z Int
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<huvitav>
+		 "huvitav" L0 A pos sg nom
+<oleks>
+		 "ole" Lks V main cond pres ps af
+<teada>
+		 "tead" La V main inf
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<kas>
+		 "kas" L0 D
+<oli>
+		 "ole" Li V main indic impf ps3 sg ps af
+<kõva>
+		 "kõva" L0 A pos sg nom
+<kauplemine>
+		 "kauplemine" L0 S com sg nom
+<selleks>
+		 "see" Lks P PLIIK sg tr
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<SEB>
+		 "SEB" L0 Y nominal ?
+<saaks>
+		 "saa" Lks V main cond pres ps af
+<vasaku>
+		 "vasak" L0 A pos sg gen
+<koha>
+		 "koht" L0 S com sg gen
+<ja>
+		 "ja" L0 J sub crd
+<Swed>
+		 "Swed" L0 S prop sg nom
+<lohutuseks>
+		 "lohutus" Lks S com sg tr
+<gradient-tausta>
+		 "gradient-taust" L0 S com sg gen
+<…>
+		 "…" L Z Ell
+<või>
+		 "või" L0 J sub
+<vastupidi>
+		 "vastu_pidi" L0 D
+<?>
+		 "?" L Z Int
+<)>
+		 ")" L Z Cpr
+</kiil>
+<:>
+		 ":" L Z Col
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Ja>
+		 "ja" L0 J sub crd
+<edasi>
+		 "edasi" L0 D
+<saabun>
+		 "saabu" Ln V main indic pres ps1 sg ps af
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<siis>
+		 "siis" L0 D
+<lehele>
+		 "leht" Lle S com sg all
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<oma>
+		 "oma" L0 P PLIIK sg gen
+<täies>
+		 "täis" Ls A pos sg in
+<pikkuses>
+		 "pikkus" Ls S com sg in
+<näeb>
+		 "näge" Lb V main indic pres ps3 sg ps af
+<välja>
+		 "välja" L0 D
+<vot>
+		 "vot" L0 _I_
+<täpselt>
+		 "täpselt" L0 D
+<sellise>
+		 "selline" L0 P PLIIK sg gen
+<rull-kardiinana>
+		 "rull-kardiina" Lna S com sg es
+<nagu>
+		 "nagu" L0 J sub
+<paremal>
+		 "paremal" L0 D
+<näha>
+		 "näge" La V main inf
+<kiil>
+<(>
+		 "(" L Z Opr
+<klõpsates>
+		 "klõpsa" Ltes V main ger
+<näeb>
+		 "näge" Lb V main indic pres ps3 sg ps af
+<1:1>
+		 "1:1" L0 N card ? digit
+<suuruses>
+		 "suurus" Ls S com sg in
+<kah>
+		 "kah" L0 D
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<fold>
+		 "fold" L0 S com sg nom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<umbes>
+		 "umbes" L0 D
+<tasumata>
+		 "tasumata" L0 A pos
+<arve>
+		 "arve" L0 S com sg gen
+<teate>
+		 "teade" L0 S com sg gen
+<juures>
+		 "juures" L0 K post
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<ja>
+		 "ja" L0 J sub crd
+<olgu>
+		 "ole" Lgu V main imper pres sg ps af
+<lisatud>
+		 "lisa" Ltud V main partic past imps
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<see>
+		 "see" L0 P PLIIK sg nom
+<arve>
+		 "arve" L0 S com sg nom
+<ootab>
+		 "oota" Lb V main indic pres ps3 sg ps af
+<lihtsalt>
+		 "lihtsalt" L0 D
+<otsekorralduse>
+		 "otse_korraldus" L0 S com sg gen
+<kuupäeva>
+		 "kuu_päev" L0 S com sg gen
+<saabumist>
+		 "saabumine" Lt S com sg part
+<)>
+		 ")" L Z Cpr
+</kiil>
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Tere>
+		 "tere" L0 _I_
+<ise>
+		 "ise" L0 P PLIIK sg nom
+<kah>
+		 "kah" L0 D
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<aga>
+		 "aga" L0 J sub
+<kus>
+		 "kus" L0 D
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<lubatud>
+		 "lubatud" L0 A pos
+<e-teenindus>
+		 "e-teenindus" L0 S com sg nom
+<?>
+		 "?" L Z Int
+</s>
+<s>
+<Rullides>
+		 "rulli" Ldes V main ger
+<pilti>
+		 "pilt" L0 S com sg part
+<allapoole>
+		 "alla_poole" L0 D
+<kindel_piir/>
+<tekib>
+		 "tekki" Lb V main indic pres ps3 sg ps af
+<tunne>
+		 "tunne" L0 S com sg nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<sisselogimine>
+		 "sisse_logi=mine" L0 S com sg nom
+<ebaõnnestus>
+		 "eba_õnnestu" Ls V main indic impf ps3 sg ps af
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<sest>
+		 "sest" L0 J sub
+<mulle>
+		 "mina" Llle P pers ps1 sg all
+<kuvatakse>
+		 "kuva" Ltakse V main indic pres imps af
+<midagi>
+		 "miski" Ldagi P PLIIK sg part
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<sarnaneb>
+		 "sarnane" Lb V main indic pres ps3 sg ps af
+<esilehega>
+		 "esi_leht" Lga S com sg kom
+<kindel_piir/>
+<kust>
+		 "kust" L0 D
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<just>
+		 "just" L0 D
+<tulin>
+		 "tule" Lin V main indic impf ps1 sg ps af
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<ainult>
+		 "ainult" L0 D
+<selle>
+		 "see" L0 P PLIIK sg gen
+<vahega>
+		 "vahe" Lga S com sg kom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<nupp>
+		 "nupp" L0 S com sg nom
+<kiil>
+<“>
+		 "“" L Z
+<sisenen>
+		 "sisene" Ln V main indic pres ps1 sg ps af
+<e-teenindusse>
+		 "e-teenindus" Lse S com sg ill
+<”>
+		 "”" L Z
+</kiil>
+<ei>
+		 "ei" L0 V aux neg
+<tee>
+		 "tege" L0 V main indic pres ps neg
+<enam>
+		 "enam" L0 D
+<midagi>
+		 "miski" Ldagi P PLIIK sg part
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Veidi>
+		 "veidi" L0 D
+<sekeldamist>
+		 "sekeldamine" Lt S com sg part
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<avastan>
+		 "avasta" Ln V main indic pres ps1 sg ps af
+<näidukasti>
+		 "näidu_kast" L0 S com sg gen
+<juurest>
+		 "juurest" L0 K post
+<lingikesed>
+		 "lingi=ke" Ld S com pl nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK pl nom
+<tõesti>
+		 "tõesti" L0 D
+<viivad>
+		 "vii" Lvad V main indic pres ps3 pl ps af
+<mind>
+		 "mina" Ld P pers ps1 sg part
+<e-teenindusse>
+		 "e-teenindus" Lse S com sg ill
+<ehk>
+		 "ehk" L0 J sub
+<kindel_piir/>
+<peamenüü>
+		 "pea_menüü" L0 S com sg gen
+<alla>
+		 "alla" L0 K post
+<tekib>
+		 "tekki" Lb V main indic pres ps3 sg ps af
+<juurde>
+		 "juurde" L0 D
+<suurte>
+		 "suur" Lte A pos pl gen
+<ikoonidega>
+		 "ikoon" Ldega S com pl kom
+<alamenüü>
+		 "ala_menüü" L0 S com sg nom
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Raske>
+		 "raske" L0 A pos sg gen
+<saatuse>
+		 "saatus" L0 S com sg gen
+<tahtel>
+		 "tahe" Ll S com sg ad
+<satun>
+		 "sattu" Ln V main indic pres ps1 sg ps af
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<seejuures>
+		 "see_juures" L0 D
+<mitte>
+		 "mitte" L0 D
+<võrdlemisi>
+		 "võrdlemisi" L0 D
+<adekvaatsele>
+		 "adekvaatne" Lle A pos sg all
+<arvete-lehele>
+		 "arve" Lte-leht S com sg all
+<kindel_piir/>
+<kiil>
+<(>
+		 "(" L Z Opr
+<kus>
+		 "kus" L0 D
+<mulle>
+		 "mina" Llle P pers ps1 sg all
+<kui>
+		 "kui" L0 J sub
+<hetkel>
+		 "hetk" Ll S com sg ad
+<ärikliendi>
+		 "äri_klient" L0 S com sg gen
+<rollis>
+		 "roll" Ls S com sg in
+<olijale>
+		 "olija" Lle S com sg all
+<paraku>
+		 "paraku" L0 D
+<midagi>
+		 "miski" Ldagi P PLIIK sg part
+<ei>
+		 "ei" L0 V aux neg
+<kuvata>
+		 "kuva" Lta V aux indic pres imps neg
+<)>
+		 ")" L Z Cpr
+</kiil>
+<vaid>
+		 "vaid" L0 J sub
+<…>
+		 "…" L0 Y nominal ?
+<näitude>
+		 "näit" Lde S com pl gen
+<teatamise>
+		 "teatamine" L0 S com sg gen
+<lehele>
+		 "leht" Lle S com sg all
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<See>
+		 "see" L0 P PLIIK sg nom
+<näeb>
+		 "näge" Lb V main indic pres ps3 sg ps af
+<välja>
+		 "välja" L0 D
+<nagu>
+		 "nagu" L0 J sub
+<vasakul>
+		 "vasakul" L0 D
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<mõistagi>
+		 "mõistagi" L0 D
+<saab>
+		 "saa" Lb V main indic pres ps3 sg ps af
+<klikkides>
+		 "klikk" Ldes S com pl in
+<vaadata>
+		 "vaata" Lta V main inf
+<1:1>
+		 "1:1" L0 N card ? digit
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<ja>
+		 "ja" L0 J sub crd
+<fold>
+		 "fold" L0 S com sg nom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<selle>
+		 "see" L0 P PLIIK sg gen
+<koha>
+		 "koht" L0 S com sg gen
+<peal>
+		 "peal" L0 K post
+<kindel_piir/>
+<kus>
+		 "kus" L0 D
+<tütarlapse>
+		 "tütar_laps" L0 S com sg gen
+<dekoltee>
+		 "dekoltee" L0 S com sg nom
+<algab>
+		 "alga" Lb V main indic pres ps3 sg ps af
+<kiil>
+<(>
+		 "(" L Z Opr
+<lõpeb>
+		 "lõppe" Lb V main indic pres ps3 sg ps af
+<?>
+		 "?" L Z Int
+<)>
+		 ")" L Z Cpr
+</kiil>
+<ehk>
+		 "ehk" L0 J sub
+<kindel_piir/>
+<sisuliselt>
+		 "sisuliselt" L0 D
+<saan>
+		 "saa" Ln V main indic pres ps1 sg ps af
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<teada>
+		 "tead" La V main inf
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<oleks>
+		 "ole" Lks V main cond pres ps af
+<tore>
+		 "tore" L0 A pos sg nom
+<näite>
+		 "näit" Le S com pl part
+<ikka>
+		 "ikka" L0 D
+<teatada>
+		 "teata" Lda V main inf
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Edasi>
+		 "edasi" L0 D
+<siis>
+		 "siis" L0 D
+<näidutabel>
+		 "näidu_tabel" L0 S com sg nom
+<,>
+		 "," L Z Com
+<pealkirjastatud>
+		 "peal_kirjasta" Ltud V main partic past imps
+<arve>
+		 "arve" L0 S com sg gen
+<saatmise>
+		 "saatmine" L0 S com sg gen
+<aadressidega>
+		 "aadress" Ldega S com pl kom
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<väikselt>
+		 "väikselt" L0 D
+<kuvades>
+		 "kuva" Ldes V main ger
+<tarbimiskohta>
+		 "tarbimis_koht" L0 S com sg part
+<–>
+		 "-" L Z Dsh
+<kiil>
+<v.a>
+		 "v.a" L0 Y nominal ?
+<miskipärast>
+		 "miski_pärast" L0 D
+<minu>
+		 "mina" L0 P pers ps1 sg gen
+<erakliendivaates>
+		 "era_kliendi_vaade" Ls S com sg in
+<,>
+		 "," L Z Com
+</kiil>
+<kindel_piir/>
+<kus>
+		 "kus" L0 D
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<ainult>
+		 "ainult" L0 D
+<paberarve-aadressid>
+		 "paber_arve-aadress" Ld S com pl nom
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK pl nom
+<on>
+		 "ole" L0 V main indic pres ps3 pl ps af
+<eriti>
+		 "eriti" L0 D
+<abiks>
+		 "abi" Lks S com sg tr
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<kuivõrd>
+		 "kui_võrd" L0 D
+<olen>
+		 "ole" Ln V main indic pres ps1 sg ps af
+<tellinud>
+		 "telli" Lnud V mod partic past ps
+<e-arve>
+		 "e-arve" L0 S com sg gen
+<juba>
+		 "juba" L0 D
+<aastaid>
+		 "aasta" Lid S com pl part
+<tagasi>
+		 "tagasi" L0 K post
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Paremal>
+		 "paremal" L0 D
+<pakutakse>
+		 "pakku" Ltakse V main indic pres imps af
+<mulle>
+		 "mina" Llle P pers ps1 sg all
+<hulka>
+		 "hulk" L0 S com sg part
+<teenuseid>
+		 "teenus" Lid S com pl part
+<kiil>
+<millega>
+		 "mis" Lga P PLIIK pl kom
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<olen>
+		 "ole" Ln V main indic pres ps1 sg ps af
+<juba>
+		 "juba" L0 D
+<liitunud>
+		 "liitu" Lnud V mod partic past ps
+</kiil>
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<all>
+		 "all" L0 D
+<võimalust>
+		 "võimalus" Lt S com sg part
+<anda>
+		 "and" La V main inf
+<näit>
+		 "näit" L0 S com sg nom
+<kord>
+		 "kord" L0 D
+<aastas>
+		 "aasta" Ls S com sg in
+<ja>
+		 "ja" L0 J sub crd
+<maksta>
+		 "maks" Lta V main inf
+<ennustuse>
+		 "ennustus" L0 S com sg gen
+<alusel>
+		 "alus" Ll S com sg ad
+<–>
+		 "-" L Z Dsh
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<muideks>
+		 "muideks" L0 D
+<juhtub>
+		 "juhtu" Lb V main indic pres ps3 sg ps af
+<nii>
+		 "nii" L0 D
+<ehk>
+		 "ehk" L0 J sub
+<naa>
+		 "naa" L0 D
+<kindel_piir/>
+<kui>
+		 "kui" L0 J sub
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<ei>
+		 "ei" L0 V aux neg
+<suvatse>
+		 "suvatse" L0 V main indic pres ps neg
+<näitu>
+		 "näit" L0 S com sg part
+<teatada>
+		 "teata" Lda V main inf
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<ainult>
+		 "ainult" L0 D
+<et>
+		 "et" L0 J sub
+<nüüd>
+		 "nüüd" L0 D
+<pean>
+		 "pida" Ln V main indic pres ps1 sg ps af
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<sisseloginud>
+		 "sisse_logi=nud" L0 A pos
+<olekus>
+		 "olek" Ls S com sg in
+<ja>
+		 "ja" L0 J sub crd
+<tarbimiskoha>
+		 "tarbimis_koht" L0 S com sg gen
+<näitude>
+		 "näit" Lde S com pl gen
+<lehel>
+		 "leht" Ll S com sg ad
+<olles>
+		 "ole" Les V main ger
+<täitma>
+		 "täit" Lma V mod sup ps ill
+<käsitsi>
+		 "käsitsi" L0 D
+<mingi>
+		 "mingi" L0 P PLIIK sg gen
+<ankeedi>
+		 "ankeet" L0 S com sg gen
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Halllooo>
+		 "halllooo" L0 _I_
+<?>
+		 "?" L Z Int
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Ja>
+		 "ja" L0 J sub crd
+<siis>
+		 "siis" L0 D
+<õpetused>
+		 "õpetus" Ld S com pl nom
+<selle>
+		 "see" L0 P PLIIK sg gen
+<kohta>
+		 "kohta" L0 K post
+<kindel_piir/>
+<kuidas>
+		 "kuidas" L0 D
+<veel>
+		 "veel" L0 D
+<saab>
+		 "saa" Lb V main indic pres ps3 sg ps af
+<näite>
+		 "näit" Le S com pl part
+<teatada>
+		 "teata" Lda V main inf
+<,>
+		 "," L Z Com
+<täitsa>
+		 "täitsa" L0 D
+<brå>
+		 "brå" L0 _Q_
+<ju>
+		 "ju" L0 D
+<kiil>
+<(>
+		 "(" L Z Opr
+<mmmm>
+		 "mmmm" L0 _I_
+<…>
+		 "…" L Z Ell
+<kas>
+		 "kas" L0 D
+<lepingu>
+		 "leping" L0 S com sg gen
+<number>
+		 "number" L0 S com sg nom
+<pole>
+		 "ole" L0 V main indic pres ps neg
+<siis>
+		 "siis" L0 D
+<unikaalne>
+		 "unikaalne" L0 A pos sg nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<st>
+		 "st" L0 Y nominal ?
+<miks>
+		 "miks" L0 D
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<vaja>
+		 "vaja" L0 D
+<ka>
+		 "ka" L0 D
+<isikukoodi>
+		 "isiku_kood" L0 S com sg part
+<?>
+		 "?" L Z Int
+<)>
+		 ")" L Z Cpr
+</kiil>
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Aga>
+		 "aga" L0 J sub
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<ei>
+		 "ei" L0 V aux neg
+<saa>
+		 "saa" L0 V main indic pres ps neg
+<vastu>
+		 "vastu" L0 D
+<kiusatusele>
+		 "kiusatus" Lle S com sg all
+<värvida>
+		 "värvi" Lda V main inf
+<sellel>
+		 "see" Ll P PLIIK sg ad
+<lehele>
+		 "leht" Lle S com sg all
+<ära>
+		 "ära" L0 D
+<alad>
+		 "ala" Ld S com pl nom
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK pl nom
+<puutuvad>
+		 "puutu" Lvad V main indic pres ps3 pl ps af
+<minu>
+		 "mina" L0 P pers ps1 sg gen
+<käsilolevasse>
+		 "käsi" Ll_olev A pos sg ill
+<näiduteatamistegevusse>
+		 "näidu_teatamis_tegevus" Lse S com sg ill
+<ja>
+		 "ja" L0 J sub crd
+<mis>
+		 "mis" L0 P PLIIK pl nom
+<mitte>
+		 "mitte" L0 D
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Sisu>
+		 "sisu" L0 S com sg gen
+</>
+		
+<müra>
+		 "müra" L0 S com sg gen
+<suhe>
+		 "suhe" L0 S com sg nom
+<pole>
+		 "ole" L0 V main indic pres ps neg
+<just>
+		 "just" L0 D
+<kiita>
+		 "kiit" La V main inf
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<kogemus>
+		 "kogemus" L0 S com sg nom
+<ütleb>
+		 "ütle" Lb V main indic pres ps3 sg ps af
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<mu>
+		 "mina" L0 P pers ps1 sg gen
+<pilk>
+		 "pilk" L0 S com sg nom
+<õpib>
+		 "õppi" Lb V main indic pres ps3 sg ps af
+<kiiresti>
+		 "kiiresti" L0 D
+<fikseeruma>
+		 "fikseeru" Lma V mod sup ps ill
+<eesmärgikohasel>
+		 "ees_märgi_kohane" Ll A pos sg ad
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<EE>
+		 "EE" L0 Y nominal ?
+<võib>
+		 "või" Lb V main indic pres ps3 sg ps af
+<tulevikus>
+		 "tulevik" Ls S com sg in
+<seal>
+		 "seal" L0 D
+<kõrval>
+		 "kõrval" L0 D
+<käia>
+		 "käi" La V main inf
+<välja>
+		 "välja" L0 D
+<mida>
+		 "mis" Lda P PLIIK sg part
+<tahes>
+		 "tahes" L0 D
+<head>
+		 "hea" Ld A pos sg part
+<ja>
+		 "ja" L0 J sub crd
+<kasulikku>
+		 "kasulik" L0 A pos sg part
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<minu>
+		 "mina" L0 P pers ps1 sg gen
+<jaoks>
+		 "jaoks" L0 K post
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<see>
+		 "see" L0 P PLIIK sg nom
+<müra-ala>
+		 "müra-ala" L0 S com sg nom
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Küsimus>
+		 "küsimus" L0 S com sg nom
+<pole>
+		 "ole" L0 V main indic pres ps neg
+<isegi>
+		 "isegi" L0 D
+<selles>
+		 "see" Ls P PLIIK sg in
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<oluline>
+		 "oluline" L0 A pos sg nom
+<osa>
+		 "osa" L0 S com sg nom
+<lükatakse>
+		 "lükka" Ltakse V main indic pres imps af
+<allapoole>
+		 "alla_poole" L0 D
+<foldi>
+		 "fold" L0 S com sg ill
+<kindel_piir/>
+<kuhu>
+		 "kuhu" L0 D
+<kasutaja>
+		 "kasutaja" L0 S com sg nom
+<kunagi>
+		 "kunagi" L0 D
+<ei>
+		 "ei" L0 V aux neg
+<satu>
+		 "sattu" L0 V main indic pres ps neg
+<kindel_piir/>
+<kiil>
+<(>
+		 "(" L Z Opr
+<L>
+		 "L" L0 Y nominal ?
+<saatis>
+		 "saat" Lis V main indic impf ps3 sg ps af
+<mulle>
+		 "mina" Llle P pers ps1 sg all
+<seepeale>
+		 "see_peale" L0 D
+<isegi>
+		 "isegi" L0 D
+<lugemist>
+		 "lugemine" Lt S com sg part
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<aga>
+		 "aga" L0 J sub
+<too>
+		 "too" L0 P PLIIK sg nom
+<jutt>
+		 "jutt" L0 S com sg nom
+<ei>
+		 "ei" L0 V aux neg
+<käi>
+		 "käi" L0 V main indic pres ps neg
+<kasutajaliidese>
+		 "kasutaja_liides" L0 S com sg gen
+<funktsiooni>
+		 "funktsioon" L0 S com sg gen
+<olulise>
+		 "oluline" L0 A pos sg gen
+<komponendi>
+		 "komponent" L0 S com sg gen
+<ärapeitmise>
+		 "ära_peitmine" L0 S com sg gen
+<kohta>
+		 "kohta" L0 K post
+<)>
+		 ")" L Z Cpr
+</kiil>
+<–>
+		 "-" L Z Dsh
+<lihtsalt>
+		 "lihtsalt" L0 D
+<neid>
+		 "see" Ld P PLIIK pl part
+<asju>
+		 "asi" Lu S com pl part
+<tuleks>
+		 "tule" Lks V main cond pres ps af
+<mulle>
+		 "mina" Llle P pers ps1 sg all
+<kaela>
+		 "kael" L0 S com sg ill
+<määrida>
+		 "määri" Lda V main inf
+<sobilikul>
+		 "sobilik" Ll A pos sg ad
+<hetkel>
+		 "hetk" Ll S com sg ad
+<ning>
+		 "ning" L0 J sub
+<kindel_piir/>
+<mitte>
+		 "mitte" L0 D
+<hoida>
+		 "hoid" La V main inf
+<navigatsiooniks>
+		 "navigatsioon" Lks S com sg tr
+<vajalikud>
+		 "vajalik" Ld A pos pl nom
+<jubinad>
+		 "jubin" Ld S com pl nom
+<enamvähem>
+		 "enam_vähem" L0 D
+<koos>
+		 "koos" L0 D
+<.>
+		 "." L Z Fst
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Javeel>
+		 "ja_veel" L0 D
+<–>
+		 "-" L Z Dsh
+<mulle>
+		 "mina" Llle P pers ps1 sg all
+<meeldivad>
+		 "meeldi" Lvad V main indic pres ps3 pl ps af
+<vasakul>
+		 "vasakul" L0 D
+<asuvad>
+		 "asuv" Ld A pos pl nom
+<tekstimenüüd>
+		 "teksti_menüü" Ld S com pl nom
+<läbimõeldud>
+		 "läbi_mõeldud" L0 A pos
+<võtmesõnadega>
+		 "võtme_sõna" Ldega S com pl kom
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Muudaks>
+		 "muut" Lks V main cond pres ps af
+<selle>
+		 "see" L0 P PLIIK sg gen
+<hulga>
+		 "hulk" L0 S com sg gen
+<erinevaid>
+		 "erinev" Lid A pos pl part
+<sõnumeid>
+		 "sõnum" Lid S com pl part
+<oluliselt>
+		 "oluliselt" L0 D
+<paremini>
+		 "paremini" L0 D
+<leitavaks>
+		 "lei=tav" Lks A pos sg tr
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<hetkel>
+		 "hetk" Ll S com sg ad
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<kogu>
+		 "kogu" L0 P PLIIK sg nom
+<veeb>
+		 "veeb" L0 S com sg nom
+<üks>
+		 "üks" L0 P PLIIK sg nom
+<suur>
+		 "suur" L0 A pos sg nom
+<tekstikastikeste>
+		 "teksti_kastike" Lte S com pl gen
+<põld>
+		 "põld" L0 S com sg nom
+<kindel_piir/>
+<millest>
+		 "mis" Lst P PLIIK sg el
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<pean>
+		 "pida" Ln V main indic pres ps1 sg ps af
+<ennast>
+		 "ise" Lt P PLIIK sg part
+<läbi>
+		 "läbi" L0 D
+<närima>
+		 "näri" Lma V mod sup ps ill
+<kiil>
+<(>
+		 "(" L Z Opr
+<eeldusel>
+		 "eeldus" Ll S com sg ad
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<mul>
+		 "mina" Ll P pers ps1 sg ad
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<mingi>
+		 "mingi" L0 P PLIIK sg nom
+<motivatsioon>
+		 "motivatsioon" L0 S com sg nom
+<seda>
+		 "see" Lda P PLIIK sg part
+<teha>
+		 "tege" La V main inf
+<)>
+		 ")" L Z Cpr
+</kiil>
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Kui>
+		 "kui" L0 J sub
+<inimkonnale>
+		 "inimkond" Lle S com sg all
+<meeldiksid>
+		 "meeldi" Lksid V main cond pres ps3 pl ps af
+<suured>
+		 "suur" Ld A pos pl nom
+<värvilised>
+		 "värviline" Ld A pos pl nom
+<ikoonidega>
+		 "ikoon" Ldega S com pl kom
+<varustatud>
+		 "varusta=tud" L0 A pos
+<tekstid>
+		 "tekst" Ld S com pl nom
+<kindel_piir/>
+<oleks>
+		 "ole" Lks V main cond pres ps af
+<issand>
+		 "issand" L0 S com sg nom
+<loonud>
+		 "loo" Lnud V mod partic past ps
+<adwordsi>
+		 "adwordsi" L0 S com sg gen
+<tekstireklaamid>
+		 "teksti_reklaam" Ld S com pl nom
+<just>
+		 "just" L0 D
+<sellistena>
+		 "selline" Ltena P PLIIK pl es
+</s>
+</p>
+<p "heading"="0">
+<s>
+<A>
+		 "A" L0 Y nominal ?
+<lõpetaks>
+		 "lõpeta" Lks V main cond pres ps af
+<jällegi>
+		 "jällegi" L0 D
+<positiivse>
+		 "positiivne" L0 A pos sg gen
+<noodiga>
+		 "noot" Lga S com sg kom
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Läbi>
+		 "läbi" L0 K post
+<viimase>
+		 "viimane" L0 A pos sg gen
+<aasta>
+		 "aasta" L0 S com sg gen
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<üheks>
+		 "üks" Lks P PLIIK sg tr
+<minu>
+		 "mina" L0 P pers ps1 sg gen
+<valve-argumendiks>
+		 "valve-argument" Lks S com sg tr
+<kiil>
+<(>
+		 "(" L Z Opr
+<jah>
+		 "jah" L0 D
+<,>
+		 "," L Z Com
+<hea>
+		 "hea" L0 A pos sg nom
+<mõte>
+		 "mõte" L0 S com sg nom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<enne>
+		 "enne" L0 D
+<programmeerijaks>
+		 "programmeeri=ja" Lks S com sg tr
+<hakkamist>
+		 "hakkamine" Lt S com sg part
+<käia>
+		 "käi" La V main inf
+<koolis>
+		 "kool" Ls S com sg in
+<ja>
+		 "ja" L0 J sub crd
+<kuulata>
+		 "kuula" Lta V main inf
+<ära>
+		 "ära" L0 D
+<vähemalt>
+		 "vähemalt" L0 D
+<Priit>
+		 "Priit" L0 S prop sg nom
+<Raspeli>
+		 "Raspel" L0 S prop sg gen
+<andmebaaside>
+		 "andme_baas" Lde S com pl gen
+<kursus>
+		 "kursus" L0 S com sg nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<sest>
+		 "sest" L0 J sub
+<…>
+		 "…" L0 Y nominal ?
+<)>
+		 ")" L Z Cpr
+</kiil>
+<olnud>
+		 "ole" Lnud _V_ PERS PRT IMPRT
+<näide>
+		 "näide" L0 S com sg nom
+<aadress-andmete>
+		 "aadress-andmed" Lte S com pl gen
+<sisestamisest>
+		 "sisestamine" Lst S com sg el
+<nii>
+		 "nii" L0 D
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<nagu>
+		 "nagu" L0 D
+<see>
+		 "see" L0 P PLIIK sg nom
+<käib>
+		 "käi" Lb V main indic pres ps3 sg ps af
+<enamuses>
+		 "enamus" Ls S com sg in
+<infosüsteemides>
+		 "info_süsteem" Ldes S com pl in
+<kindel_piir/>
+<st>
+		 "st" L0 Y nominal ?
+<valid>
+		 "vali" Ld V main indic pres ps2 sg ps af
+<dropdownist>
+		 "dropdown" Lst S com sg el
+<riigi>
+		 "riik" L0 S com sg gen
+<kiil>
+<(>
+		 "(" L Z Opr
+<Afganistan>
+		 "Afganistan" L0 S prop sg nom
+<,>
+		 "," L Z Com
+<yes>
+		 "yes" L0 _Q_
+<?>
+		 "?" L Z Int
+<)>
+		 ")" L Z Cpr
+</kiil>
+<,>
+		 "," L Z Com
+<siis>
+		 "siis" L0 J sub
+<regiooni>
+		 "regioon" L0 S com sg gen
+<jne>
+		 "jne" L0 Y adverbial
+<kuni>
+		 "kuni" L0 J sub
+<lõpuks>
+		 "lõpuks" L0 D
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<kui>
+		 "kui" L0 J sub
+<aadress>
+		 "aadress" L0 S com sg nom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<korteri>
+		 "korter" L0 S com sg gen
+<täpsusega>
+		 "täpsus" Lga S com sg kom
+<määratud>
+		 "määra" Ltud V main partic past imps
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<palutakse>
+		 "palu" Ltakse V main indic pres imps af
+<mõelda>
+		 "mõtle" Lda V main inf
+<välja>
+		 "välja" L0 D
+<postiindeks>
+		 "posti_indeks" L0 S com sg nom
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Aga>
+		 "aga" L0 J sub
+<EE>
+		 "EE" L0 Y nominal ?
+<uues>
+		 "uus" Ls A pos sg in
+<veebis>
+		 "veeb" Ls S com sg in
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<nii>
+		 "nii" L0 D
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<harmoniseerimata>
+		 "harmoniseeri=mata" L0 A pos
+<aadress>
+		 "aadress" L0 S com sg nom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<punane>
+		 "punane" L0 A pos sg nom
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<kui>
+		 "kui" L0 J sub
+<muutmiseks>
+		 "muutmine" Lks S com sg tr
+<sisestada>
+		 "sisesta" Lda V main inf
+<osa>
+		 "osa" L0 S com sg nom
+<aadressist>
+		 "aadress" Lst S com sg el
+<kindel_piir/>
+<pakub>
+		 "pakku" Lb V main indic pres ps3 sg ps af
+<ta>
+		 "tema" L0 P pers ps3 sg nom
+<välja>
+		 "välja" L0 D
+<Eestis>
+		 "Eesti" Ls S prop sg in
+<olemasolevad>
+		 "olemas_olev" Ld A pos pl nom
+<harmoniseeritud>
+		 "harmoniseeri=tud" L0 A pos
+<vasted>
+		 "vaste" Ld S com pl nom
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<ei>
+		 "ei" L0 D
+<mingit>
+		 "mingi" Lt P PLIIK sg part
+<lahter-haaval>
+		 "lahter-haaval" L0 K post
+<selektimist>
+		 "selekti=mine" Lt S com sg part
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Selle>
+		 "see" L0 P PLIIK sg gen
+<nipi>
+		 "nipp" L0 S com sg gen
+<võiks>
+		 "või" Lks V main cond pres ps af
+<kasutusele>
+		 "kasutus" Lle S com sg all
+<võtta>
+		 "võt" La V main inf
+<veel>
+		 "veel" L0 D
+<paljudes>
+		 "palju" Ldes P PLIIK pl in
+<lahendustes>
+		 "lahendus" Ltes S com pl in
+<:>
+		 ":" L Z Col
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Aga>
+		 "aga" L0 J sub
+<miks>
+		 "miks" L0 D
+<mul>
+		 "mina" Ll P pers ps1 sg ad
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<2>
+		 "2" L0 N card ? digit
+<viitenumbrit>
+		 "viite_number" Lt S com sg part
+<,>
+		 "," L Z Com
+<teine>
+		 "teine" L0 P PLIIK sg nom
+<e-arvega>
+		 "e-arve" Lga S com sg kom
+<ja>
+		 "ja" L0 J sub crd
+<teine>
+		 "teine" L0 P PLIIK sg nom
+<paberiga>
+		 "paber" Lga S com sg kom
+<?>
+		 "?" L Z Int
+</s>
+<s>
+<Krt>
+		 "krt" L0 Y nominal ?
+<seda>
+		 "see" Lda P PLIIK sg part
+<teab>
+		 "tead" Lb V main indic pres ps3 sg ps af
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Samuti>
+		 "samuti" L0 D
+<nagu>
+		 "nagu" L0 J sub
+<seda>
+		 "see" Lda P PLIIK sg part
+<,>
+		 "," L Z Com
+<miks>
+		 "miks" L0 D
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<saan>
+		 "saa" Ln V main indic pres ps1 sg ps af
+<siseneda>
+		 "sisene" Lda V main inf
+<korteriühistuna>
+		 "korteri_ühistu" Lna S com sg es
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<lisaks>
+		 "lisa" Lks S com sg tr
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<veel>
+		 "veel" L0 D
+<miski>
+		 "miski" L0 P PLIIK sg nom
+<eraldi>
+		 "eraldi" L0 D
+<volitus>
+		 "volitus" L0 S com sg nom
+<kirjas>
+		 "kiri" Ls S com sg in
+<…>
+		 "…" L Z Ell
+<kindel_piir/>
+<Minge>
+		 "mine" Lge V main imper pres ps2 pl ps af
+<lugege>
+		 "luge" Lge V main imper pres ps2 pl ps af
+<parem>
+		 "parem" L0 D
+<levinumaid>
+		 "levinum" Lid A comp pl part
+<müüte>
+		 "müüt" Le S com pl part
+<tuumaenergia>
+		 "tuuma_energia" L0 S com sg gen
+<ohtlikkusest>
+		 "ohtlikkus" Lst S com sg el
+<ja>
+		 "ja" L0 J sub crd
+<kindel_piir/>
+<tundke>
+		 "tund" Lke V main imper pres ps2 pl ps af
+<ennast>
+		 "ise" Lt P PLIIK sg part
+<hästi>
+		 "hästi" L0 D
+<:-P>
+		 ":-P" L0 Y nominal ?
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Kolm>
+		 "kolm" L0 N card sg nom
+<asja>
+		 "asi" L0 S com sg part
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK pl nom
+<mina>
+		 "mina" L0 P pers ps1 sg nom
+<teeksin>
+		 "tege" Lksin V main cond pres ps1 sg ps af
+<kohe>
+		 "kohe" L0 D
+<ümber>
+		 "ümber" L0 D
+<:>
+		 ":" L Z Col
+<kindel_piir/>
+</s>
+</p>
+<p "heading"="0">
+<s>
+<logini>
+		 "login" L0 S com sg gen
+<järel>
+		 "järel" L0 K post
+<satun>
+		 "sattu" Ln V main indic pres ps1 sg ps af
+<lehele>
+		 "leht" Lle S com sg all
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<jätab>
+		 "jät" Lb V main indic pres ps3 sg ps af
+<mulje>
+		 "mulje" L0 S com sg gen
+<saabumisest>
+		 "saabumine" Lst S com sg el
+<e-teenindusse>
+		 "e-teenindus" Lse S com sg ill
+<:>
+		 ":" L Z Col
+<kindel_piir/>
+<menüü>
+		 "menüü" L0 S com sg nom
+<,>
+		 "," L Z Com
+<asjakohane>
+		 "asja_kohane" L0 A pos sg nom
+<sisu>
+		 "sisu" L0 S com sg nom
+<prominentsel>
+		 "prominentne" Ll A pos sg ad
+<kohal>
+		 "koht" Ll S com sg ad
+<kindel_piir/>
+<kiil>
+<(>
+		 "(" L Z Opr
+<37BB>
+		 "37BB" L0 Y nominal ?
+<oleks>
+		 "ole" Lks V main cond pres ps af
+<muidugi>
+		 "muidugi" L0 D
+<palju>
+		 "palju" L0 D
+<küsida>
+		 "küsi" Lda V main inf
+<)>
+		 ")" L Z Cpr
+</kiil>
+<kui>
+		 "kui" L0 J sub
+<ei>
+		 "ei" L0 V aux neg
+<ole>
+		 "ole" L0 V main indic pres ps neg
+<kindel>
+		 "kindel" L0 A pos sg nom
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<sellele>
+		 "see" Lle P PLIIK sg all
+<kliendile>
+		 "klient" Lle S com sg all
+<peab>
+		 "pida" Lb V main indic pres ps3 sg ps af
+<praegu>
+		 "praegu" L0 D
+<mingit>
+		 "mingi" Lt P PLIIK sg part
+<pakkumist>
+		 "pakkumine" Lt S com sg part
+</>
+		
+<jutustust>
+		 "jutustus" Lt S com sg part
+<näitama>
+		 "näita" Lma V mod sup ps ill
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<jätaks>
+		 "jät" Lks V main cond pres ps af
+<näitamata>
+		 "näita" Lmata V mod sup ps abes
+<kindel_piir/>
+<sisseloginud>
+		 "sisse_logi=nud" L0 A pos
+<klienti>
+		 "klient" L0 S com sg part
+<ei>
+		 "ei" L0 V aux neg
+<hakka>
+		 "hakka" L0 V main indic pres ps neg
+<naasmisel>
+		 "naasmine" Ll S com sg ad
+<tervitama>
+		 "tervita" Lma V mod sup ps ill
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<kindel_piir/>
+<näidu>
+		 "näit" L0 S com sg gen
+<teatamine>
+		 "teatamine" L0 S com sg nom
+<on>
+		 "ole" L0 V main indic pres ps3 sg ps af
+<kenasti>
+		 "kenasti" L0 D
+<integreeritud>
+		 "integreeri" Ltud V main partic past imps
+<avalehe>
+		 "ava_leht" L0 S com sg gen
+<kujundusse>
+		 "kujundus" Lse S com sg ill
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<samuti>
+		 "samuti" L0 D
+<nupp>
+		 "nupp" L0 S com sg nom
+<kindel_piir/>
+<mis>
+		 "mis" L0 P PLIIK sg nom
+<viib>
+		 "vii" Lb V main indic pres ps3 sg ps af
+<mind>
+		 "mina" Ld P pers ps1 sg part
+<e-teenindusse>
+		 "e-teenindus" Lse S com sg ill
+<kiil>
+<(>
+		 "(" L Z Opr
+<hetkel>
+		 "hetk" Ll S com sg ad
+<ei>
+		 "ei" L0 V aux neg
+<leia>
+		 "leid" L0 V main indic pres ps neg
+<ma>
+		 "mina" L0 P pers ps1 sg nom
+<seda>
+		 "see" Lda P PLIIK sg part
+<nagu>
+		 "nagu" L0 D
+<üldse>
+		 "üldse" L0 D
+<)>
+		 ")" L Z Cpr
+</kiil>
+</s>
+</p>
+<p "heading"="0">
+<s>
+<ps>
+		 "ps" L0 Y nominal ?
+<.>
+		 "." L Z Fst
+<tänu>
+		 "tänu" L0 K post
+<WPtouch‘ile>
+		 "WPtouch" Lle S prop sg all
+<võib>
+		 "või" Lb V main indic pres ps3 sg ps af
+<tehnokratt.net’i>
+		 "tehnokratt.net" L0 _Q_
+<nüüd>
+		 "nüüd" L0 D
+<üsna>
+		 "üsna" L0 D
+<julgesti>
+		 "julgesti" L0 D
+<ka>
+		 "ka" L0 D
+<telefoni>
+		 "telefon" L0 S com sg gen
+<ja>
+		 "ja" L0 J sub crd
+<muude>
+		 "muu" Lde P PLIIK pl gen
+<i->
+		 "i" L0 Y nominal ?
+<ja>
+		 "ja" L0 J sub crd
+<a-seadmetega>
+		 "a-seade" Ltega S com pl kom
+<vaadata>
+		 "vaata" Lta V main inf
+</s>
+</p>
+<p "heading"="1">
+<s>
+<Viimane>
+		 "viimane" L0 A pos sg nom
+<veerg>
+		 "veerg" L0 S com sg nom
+</s>
+</p>
+<p "heading"="0">
+<s>
+<Mina>
+		 "mina" L0 P pers ps1 sg nom
+<olen>
+		 "ole" Ln V main indic pres ps1 sg ps af
+<Peeter>
+		 "Peeter" L0 S prop sg nom
+<Marvet>
+		 "Marvet" L0 S prop sg nom
+<kiil>
+<(>
+		 "(" L Z Opr
+<pets@tehnokratt.net>
+		 "pets@tehnokratt.net" L0 _Q_
+<)>
+		 ")" L Z Cpr
+</kiil>
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Ei>
+		 "ei" L0 V aux neg
+<saa>
+		 "saa" L0 V main indic pres ps neg
+<täielikult>
+		 "täielikult" L0 D
+<välistada>
+		 "välista" Lda V main inf
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<et>
+		 "et" L0 J sub
+<see>
+		 "see" L0 P PLIIK sg nom
+<siin>
+		 "siin" L0 D
+<oli>
+		 "ole" Li V main indic impf ps3 sg ps af
+<kunagi>
+		 "kunagi" L0 D
+<minu>
+		 "mina" L0 P pers ps1 sg gen
+<ajaveeb>
+		 "aja_veeb" L0 S com sg nom
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Kirjapandu>
+		 "kirja_pandu" L0 S com sg nom
+<ei>
+		 "ei" L0 V aux neg
+<pruugi>
+		 "pruuki" L0 V main indic pres ps neg
+<väljendada>
+		 "väljenda" Lda V main inf
+<seisu->
+		 "seis" L0 S com sg gen
+<ega>
+		 "ega" L0 J sub
+<istmekohti>
+		 "istme_koht" Li S com pl part
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Seoses>
+		 "seos" Ls S com sg in
+<surutisega>
+		 "surutis" Lga S com sg kom
+<esilehe>
+		 "esi_leht" L0 S com sg gen
+<mahtu>
+		 "maht" L0 S com sg part
+<vähendatud>
+		 "vähenda" Ltud V main partic past imps
+<8>
+		 "8" L0 N card ? digit
+<%>
+		 "%" L0 Y nominal ?
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Lisandub>
+		 "lisandu" Lb V main indic pres ps3 sg ps af
+<käibemaks>
+		 "käibe_maks" L0 S com sg nom
+<,>
+		 "," L Z Com
+<Tallinna>
+		 "Tallinn" L0 S prop sg gen
+<elanikel>
+		 "elanik" Lel S com pl ad
+<ka>
+		 "ka" L0 D
+<müügi->
+		 "müük" L0 S com sg gen
+<ja>
+		 "ja" L0 J sub crd
+<paadimaks>
+		 "paadi_maks" L0 S com sg nom
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Pakendatud>
+		 "pakenda" Ltud V main partic past imps
+<gaasikeskkonda>
+		 "gaasi_keskkond" L0 S com sg part
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Valmistatud>
+		 "valmista" Ltud V main partic past imps
+<arvutis>
+		 "arvuti" Ls S com sg in
+<kindel_piir/>
+<milles>
+		 "mis" Ls P PLIIK sg in
+<võib>
+		 "või" Lb V main indic pres ps3 sg ps af
+<leiduda>
+		 "leidu" Lda V main inf
+<väheses>
+		 "vähene" Ls A pos sg in
+<koguses>
+		 "kogus" Ls S com sg in
+<piima->
+		 "piim" L0 S com sg gen
+<ja>
+		 "ja" L0 J sub crd
+<pähklitükke>
+		 "pähkli_tükk" Le S com pl part
+<.>
+		 "." L Z Fst
+</s>
+<s>
+<Ei>
+		 "ei" L0 V aux neg
+<sisalda>
+		 "sisalda" L0 V main indic pres ps neg
+<hüdrogeenitud>
+		 "hüdro_geeni=tud" L0 A pos
+<kiil>
+<(>
+		 "(" L Z Opr
+<transarasvavabasid>
+		 "trans_rasva_vaba" Lsid A pos pl part
+<)>
+		 ")" L Z Cpr
+</kiil>
+<taimseid>
+		 "taimne" Lid A pos pl part
+<rasvhappeid>
+		 "rasv_hape" Lid S com pl part
+<,>
+		 "," L Z Com
+<kindel_piir/>
+<sisaldab>
+		 "sisalda" Lb V main indic pres ps3 sg ps af
+<vahustatud>
+		 "vahusta=tud" L0 A pos
+<lämmastikku>
+		 "lämmastik" L0 S com sg part
+<.>
+		 "." L Z Fst
+</s>
+</p>

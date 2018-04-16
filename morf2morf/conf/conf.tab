@@ -1,0 +1,40 @@
+#comment line starts with #
+#remove '#' to activate or override
+
+############################################
+#	Default configuration values
+##########################################
+#conf.default_dictionary	/dict/folder/and/filename.tab
+#conf.additional_dictionary	/dict/folder/and/filename.tab
+#conf.output_extension	mrf.ext
+#conf.output_folder	.
+
+
+############################################
+# Dictionary rules weights
+############################################
+
+
+#dict_weight.lemma+	100
+#dict_weight.lemma-	100
+#dict_weight.prev_lemma+	70
+#dict_weight.prev_lemma-	70
+#dict_weight.next_lemma+	70
+#dict_weight.next_lemma-	70
+#dict_weight.clause_lemma+	50
+#dict_weight.clause_lemma-	50
+
+#dict_weight.prev_morf+	65
+#dict_weight.prev_morf-	65
+#dict_weight.next_morf+	65
+#dict_weight.next_morf-	65
+#dict_weight.clause_morf+	50
+#dict_weight.clause_morf-	50
+
+#dict_weight.gramcat+	25
+#dict_weight.gramcat-	25
+#dict_weight.prev_gramcat+	20
+#dict_weight.prev_gramcat-	20
+#dict_weight.next_gramcat+	20
+#dict_weight.next_gramcat-	20
+

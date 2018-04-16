@@ -1,0 +1,3870 @@
+﻿<doc id="269429" length=" 10k-100k" crawl_date="2013-01-10" url="http://www.tehnokratt.ee/" web_domain="www.tehnokratt.ee" langdiff="0.18" texttype="unknown">
+<p heading="0">
+<s>
+Kiire    kiire+0 //_A_ Sg Nom, //
+guugeldamine    guugelda=mine+0 //_S_ Sg Nom, //
+ei    ei+0 //_V_ Neg, //
+andnud    and+nud //_V_ Pers Prt Ind Neg, //
+eestikeelse    eesti_keelne+0 //_A_ Sg Gen, //
+veebipoolituse    veebi_poolitus+0 //_S_ Sg Gen, //
+kohta    kohta+0 //_K_ //
+ühtki    üks+ki //_N_ Sg Par, //
+tulemust    tulemus+t //_S_ Sg Par, //
+,    , //_Z_ //
+<kindel_piir/>
+seega    seega+0 //_D_ //
+tuli    tule+i //_V_ Pers Prt Ind Sg3 Aff, //
+muuhulgas    muu_hulgas+0 //_D_ //
+tekitada    tekita+da //_V_ Inf, //
+hyphenator.js    hyphenator.js+0 //_Q_ //
+</s>
+<s>
+jaoks    jaoks+0 //_K_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+.js    .js+0 //_Q_ //
+poolitusmuster    poolitus_muster+0 //_S_ Sg Nom, //
+<kiil>
+–    - //_Z_ //
+aluseks    alus+ks //_S_ Sg Tra, //
+Enn    Enn+0 //_H_ Sg Nom, //
+Saare    Saar+0 //_H_ Sg Gen, //
+TeX-muster    TeX-muster+0 //_S_ Sg Nom, //
+–    - //_Z_ //
+</kiil>
+ning    ning+0 //_J_ //
+…    … //_Z_ //
+nii    nii+0 //_D_ //
+lihtne    lihtne+0 //_A_ Sg Nom, //
+see    see+0 //_P_ Sg Nom, //
+oligi    ole+igi //_V_ Pers Prt Ind Sg3 Aff, //
+</s>
+<s>
+Enn    Enn+0 //_H_ Sg Nom, //
+lubas    luba+s //_V_ Pers Prt Ind Sg3 Aff, //
+tulemuse    tulemus+0 //_S_ Sg Gen, //
+LGPL    LGPL+0 //_Y_ ?, //
+alla    alla+0 //_K_ //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+loodetavasti    loodetavasti+0 //_D_ //
+jõuab    jõud+b //_V_ Pers Prs Ind Sg3 Aff, //
+see    see+0 //_P_ Sg Nom, //
+varsti    varsti+0 //_D_ //
+ka    ka+0 //_D_ //
+hyphenator.js    hyphenator.js+0 //_Q_ //
+ametlikku    ametlik+0 //_A_ Sg Par, //
+distributsiooni    dis_tributsioon+0 //_S_ Sg Ill, //
+,    , //_Z_ //
+<kindel_piir/>
+seni    seni+0 //_D_ //
+võib    või+b //_V_ Pers Prs Ind Sg3 Aff, //
+küsida    küsi+da //_V_ Inf, //
+ajutist    ajutine+t //_A_ Sg Par, //
+versiooni    versioon+0 //_S_ Sg Par, //
+minult    mina+lt //_P_ Sg Abl, //
+meilitsi    meilitsi+0 //_D_ //
+…    … //_Z_ // 
+või    või+0 //_J_ //
+pruukida    pruuki+da //_V_ Inf, //
+tehnokratt.net/hyphenator/mergeAndPack.html    tehnokratt.net/hyphenator/mergeAndPack.html //_Q_ //
+generaatorit    generaator+t //_S_ Sg Par, //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Kasutuselevõtt    kasutusele_võtt+0 //_S_ Sg Nom, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+imelihtne    ime_lihtne+0 //_A_ Sg Nom, //
+:    : //_Z_ //
+<kindel_piir/>
+Hyphenatoriga    hyphenator+ga //_S_ Sg Com, //
+tuleb    tule+b //_V_ Pers Prs Ind Sg3 Aff, //
+kaasa    kaasa+0 //_D_ //
+mergeAndPack.html    mergeAndPack.html+0 //_Q_ //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+pakib    pakki+b //_V_ Pers Prs Ind Sg3 Aff, //
+poolituse    poolitus+0 //_S_ Sg Gen, //
+,    , //_Z_ //
+vajalikud    vajalik+d //_A_ Pl Nom, //
+keelemoodulid    keele_moodul+d //_S_ Pl Nom, //
+ning    ning+0 //_J_ //
+seadistused    seadistus+d //_S_ Pl Nom, //
+kenasti    kenasti+0 //_D_ //
+üheks    üks+ks //_N_ Sg Tra, //
+minimeeritud    minimeeri=tud+0 //_A_ //
+javascriptiks    javascript+ks //_S_ Sg Tra, //
+kokku    kokku+0 //_D_ //
+<kiil>
+(    ( //_Z_ //
+olgu    ole+gu //_V_ Pers Prs Imprt, //
+siiski    siiski+0 //_D_ //
+lisatud    lisa+tud //_V_ Impers Prt Prc, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+mergeAndPack    mergeAndPack+0 //_Q_ //
+ei    ei+0 //_V_ Neg, //
+tööta    tööta+0 //_V_ Pers Prs Ind Neg, //
+otse    otse+0 //_D_ //
+kettalt    ketas+lt //_S_ Sg Abl, //
+avades    ava+des //_V_ Ger, //
+<kindel_piir/>
+vaid    vaid+0 //_J_ //
+eeldab    eelda+b //_V_ Pers Prs Ind Sg3 Aff, //
+turvapõhjustel    turva_põhjus+tel //_S_ Pl Ade, //
+käitamist    käita=mine+t //_S_ Sg Par, //
+veebiserverist    veebi_server+st //_S_ Sg Ela, //
+-    - //_Z_ //
+tehnokratt.net/hyphenator/mergeAndPack.html    tehnokratt.net/hyphenator/mergeAndPack.html //_Q_ //
+abiks    abi+ks //_S_ Sg Tra, //
+)    ) //_Z_ //
+</kiil>
+</s>
+</p>
+<p heading="0">
+<s>
+Linnutad    Linnutad+0 //_H_ Sg Nom, //
+seal    linnuta+d //_V_ Pers Prs Ind Sg2 Aff, //
+soovitavad    soovitav+d //_A_ Pl Nom, //
+keeled    keel+d //_S_ Pl Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+vajadusel    vajadus+l //_S_ Sg Ade, //
+timmid    timmi+d //_V_ Pers Prs Ind Sg2 Aff, //
+poolitamise    poolita=mine+0 //_S_ Sg Gen, //
+agressiivsust    agressiivsus+t //_S_ Sg Par, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+lisad    lisa+d //_V_ Pers Prs Ind Sg2 Aff, //
+klassi    klass+0 //_S_ Sg Gen, //
+<kindel_piir/>
+mida    mis+da //_P_ Sg Par, //
+vaja    vaja+0 //_D_ //
+poolitada    poolita+da //_V_ Inf, //
+<kiil>
+(    ( //_Z_ //
+vaikimisi    vaikimine+i //_S_ Pl Par, //
+eeldatakse    eelda+takse //_V_ Impers Prs Ind Aff, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+lisad    lisa+d //_V_ Pers Prs Ind Sg2 Aff, //
+poolitamist    poolita=mine+t //_S_ Sg Par, //
+vajavale    vajav+le //_A_ Sg All, //
+sisule    sisu+le //_S_ Sg All, //
+klassi    klass+0 //_S_ Sg Gen, //
+hyphenate    hyphenate+0 //_S_ Sg Nom, //    
+–    - //_Z_ //
+<kindel_piir/>
+minul    mina+l //_P_ Sg Ade, //
+siin    siin+0 //_D_ //
+Thematic’u    Thematic+0 //_H_ Sg Gen, //    
+peale    peale+0 //_K_ //
+tehtud    tehtud+0 //_A_ //
+kujunduses    kujundus+s //_S_ Sg Ine, //
+sobib    sobi+b //_V_ Pers Prs Ind Sg3 Aff, //
+entry-content    entry-content+0 //_S_ Sg Nom, //
+päris    päris+0 //_D_ //
+hästi    hästi+0 //_D_ //
+)    ) //_Z_ //
+</kiil>
+;    ; //_Z_ //
+<kindel_piir/>
+hetkel    hetk+l //_S_ Sg Ade, //
+tasub    tasu+b //_V_ Pers Prs Ind Sg3 Aff, //
+mitte    mitte+0 //_D_ //
+lubada    luba+da //_V_ Inf, //
+CSS3    CSS3+0 //_Y_ ?, //
+poolituse    poolitus+0 //_S_ Sg Gen, //
+tuge    tugi+0 //_S_ Sg Par, //
+<kiil>
+(    ( //_Z_ //
+bugi    bug+0 //_S_ Sg Par, //    on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+raporteeritud    raporteeri+tud //_V_ Impers Prt Prc, //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+vähemasti    vähemasti+0 //_D_ //
+Firefox    Firefox+0 //_H_ Sg Nom, //
+3.6    3.6+0 //_N_ ?, //
+kasutajad    kasutaja+d //_S_ Pl Nom, //
+saavad    saa+vad //_V_ Pers Prs Ind Pl3 Aff, //
+sellel    see+l //_P_ Sg Ade, //
+puhul    puhul+0 //_K_ //
+veateate    vea_teade+0 //_S_ Sg Gen, //
+<kiil>
+(    ( //_Z_ //
+võib    või+b //_V_ Pers Prs Ind Sg3 Aff, //
+muidugi    muidugi+0 //_D_ //
+ka    ka+0 //_D_ //
+leppida    leppi+da //_V_ Inf, //
+sellega    see+ga //_P_ Sg Com, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+nad    tema+d //_P_ Pl Nom, //
+peavad    pida+vad //_V_ Pers Prs Ind Pl3 Aff, //
+lugema    luge+ma //_V_ Pers Sup Ill, //
+poolitamata    poolita=mata+0 //_A_ //
+teksti    tekst+0 //_S_ Sg Par, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+lihtsalt    lihtsalt+0 //_D_ //
+muutma    muut+ma //_V_ Pers Sup Ill, //
+onError    onError+0 //_Q_ //
+funktsiooni    funktsioon+0 //_S_ Sg Par, //
+{    { //_Z_ //
+}-ks    ks+0 //_Y_ ?, //
+ehk    ehk+0 //_J_ //
+mitte-veateadet-väljastavaks    mitte-vea_teade+t-väljasta=v+ks //_A_ Sg Tra, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Tulemuseks    tulemus+ks //_S_ Sg Tra, //
+saad    saa+d //_V_ Pers Prs Ind Sg2 Aff, //
+teksti    tekst+0 //_S_ Sg Gen, //
+<kindel_piir/>
+mille    mis+0 //_P_ Sg Gen, //
+võid    või+d //_V_ Pers Prs Ind Sg2 Aff, //
+kopeerida    kopeeri+da //_V_ Inf, //
+nt    nt+0 //_Y_ ?, //
+hyphenator-et.js    hyphenator-et.js+0 //_Q_ //
+failiks    fail+ks //_S_ Sg Tra, //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+WordPressi    Word_press+0 //_H_ Sg Gen, //
+puhul    puhul+0 //_K_ //
+tasub    tasu+b //_V_ Pers Prs Ind Sg3 Aff, //
+see    see+0 //_P_ Sg Nom, //
+sokutada    sokuta+da //_V_ Inf, //
+oma    oma+0 //_P_ Sg Gen, //
+kujundusteema    kujundus_teema+0 //_S_ Sg Gen, //
+kataloogi    kataloog+0 //_S_ Sg Ill, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+kui    kui+0 //_J_ //
+lisada    lisa+da //_V_ Inf, //
+functions.php-sse    functions.php+sse //_S_ Sg Ill, //
+järgmised    järgmine+d //_A_ Pl Nom, //
+kaks    kaks+0 //_N_ Sg Nom, //
+rida    rida+0 //_S_ Sg Par, //
+<kindel_piir/>
+peakski    pida+kski //_V_ Pers Prs Cond, //
+kõik    kõik+0 //_P_ Pl Nom, //
+toimima    toimi+ma //_V_ Pers Sup Ill, //
+:    : //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+World    World+0 //_H_ Sg Nom, //
+Usability    Usability+0 //_H_ Sg Nom, //
+Day    Day+0 //_H_ Sg Nom, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+sedapuhku    seda_puhku+0 //_D_ //
+eriti    eriti+0 //_D_ //
+maagilisel    maagiline+l //_A_ Sg Ade, //
+kuupäeval    kuu_päev+l //_S_ Sg Ade, //
+11.11.11    11.11.11+0 //_N_ ?, //
+–    - //_Z_ //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+juhtumisi    juhtumisi+0 //_D_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+mul    mina+l //_P_ Sg Ade, //
+au    au+0 //_S_ Sg Nom, //
+modereerida    modereeri+da //_V_ Inf, //
+selle    see+0 //_P_ Sg Gen, //
+tähistamiseks    tähistamine+ks //_S_ Sg Tra, //
+Tallinna    Tallinn+0 //_H_ Sg Gen, //
+Ülikoolis    Üli_kool+s //_H_ Sg Ine, //
+korraldatavat    korraldatav+t //_A_ Sg Par, //
+kasutatavuse    kasuta=tavus+0 //_S_ Sg Gen, //
+päeva    päev+0 //_S_ Sg Gen, //
+üritust    üritus+t //_S_ Sg Par, //
+<kiil>
+(    ( //_Z_ //
+mis    mis+0 //_P_ Sg Nom, //
+esinejate    esineja+te //_S_ Pl Gen, //
+nimekirja    nime_kiri+0 //_S_ Sg Par, //
+vaadates    vaata+tes //_V_ Ger, //
+saab    saa+b //_V_ Pers Prs Ind Sg3 Aff, //
+maailmapäevale    maa_ilma_päev+le //_S_ Sg All, //
+kohaselt    kohaselt+0 //_K_ //
+olema    ole+ma //_V_ Pers Sup Ill, //
+peamiselt    peamiselt+0 //_D_ //
+ingliskeelne    inglis_keelne+0 //_A_ Sg Nom, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Ja    ja+0 //_J_ //
+kuna    kuna+0 //_J_ //
+täna    täna+0 //_D_ //
+toimub    toimu+b //_V_ Pers Prs Ind Sg3 Aff, //
+toimkonna    toimkond+0 //_S_ Sg Gen, //
+koos-oleks    koos_olek+0 //_S_ Sg Nom, //
+–    - //_Z_ //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+mul    mina+l //_P_ Sg Ade, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+see    see+0 //_P_ Sg Nom, //
+nädal    nädal+0 //_S_ Sg Nom, //
+ees    ees+0 //_D_ //
+veel    veel+0 //_D_ //
+mõned    mõni+d //_P_ Pl Nom, //
+otsapidi    otsa_pidi+0 //_D_ //
+kasutatavusega    kasuta=tavus+ga //_S_ Sg Com, //
+seonduvad    seonduv+d //_A_ Pl Nom, //
+tööd    töö+d //_S_ Pl Nom, //
+–    - //_Z_ //
+<kindel_piir/>
+võiks    või+ks //_V_ Pers Prs Cond, //
+veidi    veidi+0 //_D_ //
+soojendust    soojendus+t //_S_ Sg Par, //
+teha    tege+a //_V_ Inf, //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Nimelt    nimelt+0 //_D_ //
+sain    saa+in //_V_ Pers Prt Ind Sg1 Aff, //
+ma    mina+0 //_P_ Sg Nom, //
+eelmisel    eelmine+l //_A_ Sg Ade, //
+nädalal    nädal+l //_S_ Sg Ade, //
+…    … //_Z_ //
+vist    vist+0 //_D_ //
+selle    see+0 //_P_ Sg Gen, //
+aasta    aasta+0 //_S_ Sg Gen, //
+esimese    esimene+0 //_O_ Sg Gen, //
+parkimistrahvi    parkimis_trahv+0 //_S_ Sg Gen, //
+.    . //_Z_ //
+</s>
+<s>
+Tänu    tänu+0 //_K_ //
+MoPa-nimelisele    MoPa-nimeline+le //_A_ Sg All, //
+Androidi-rakendusele    androidi-rakendus+le //_S_ Sg All, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+oluliselt    oluliselt+0 //_D_ //
+vähenenud    vähene+nud //_V_ Pers Prt Prc, //
+juhtumid    juhtum+d //_S_ Pl Nom, //
+<kindel_piir/>
+mil    mil+0 //_D_ //
+kiirustades    kiirusta+des //_V_ Ger, //
+jääb    jää+b //_V_ Pers Prs Ind Sg3 Aff, //
+parkimine    parkimine+0 //_S_ Sg Nom, //
+alustamata    alusta+mata //_V_ Pers Sup Abe, //
+–    - //_Z_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+lisaks    lisa+ks //_S_ Sg Tra, //
+vähenenud    vähene+nud //_V_ Pers Prt Prc, //
+ülekulud    üle_kulu+d //_S_ Pl Nom, //
+tiksuma    tiksu+ma //_V_ Pers Sup Ill, //
+ununenud    unune+nud //_V_ Pers Prt Imprt, //
+aja    aeg+0 //_S_ Sg Gen, //
+arvelt    arve+lt //_S_ Sg Abl, //
+.    . //_Z_ //
+</s>
+<s>
+Aga    aga+0 //_J_ //
+eelmisel    eelmine+l //_A_ Sg Ade, //
+nädalal    nädal+l //_S_ Sg Ade, //
+läks    mine+s //_V_ Pers Prt Ind Sg3 Aff, //
+nii    nii+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+m-parkimine    m-parkimine+0 //_S_ Sg Nom, //
+vähemalt    vähemalt+0 //_D_ //
+Elisa    Elisa+0 //_H_ Sg Gen, //
+võrgus    võrk+s //_S_ Sg Ine, //
+ei    ei+0 //_V_ Neg, //
+toiminud    toimi+nud //_V_ Pers Prt Ind Neg, //
+<kindel_piir/>
+mistõttu    mis_tõttu+0 //_D_ //
+sõnum    sõnum+0 //_S_ Sg Nom, //
+läks    mine+s //_V_ Pers Prt Ind Sg3 Aff, //
+kell    kell+0 //_S_ Sg Nom, //
+8:25    8:25+0 //_N_ ?, //
+teele    tee+le //_S_ Sg All, //
+,    , //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+vastust    vastus+t //_S_ Sg Par, //
+ei    ei+0 //_V_ Neg, //
+tulnud    tule+nud //_V_ Pers Prt Ind Neg, //
+.    . //_Z_ //
+</s>
+<s>
+Püsikasutajana    püsi_kasutaja+na //_S_ Sg Ess, //
+ei    ei+0 //_V_ Neg, //
+jälgi    jälgi+0 //_V_ Pers Prs Ind Neg, //
+ma    mina+0 //_P_ Sg Nom, //
+enam    enam+0 //_D_ //
+ammu    ammu+0 //_D_ //
+vastuseks    vastus+ks //_S_ Sg Tra, //
+tulevaid    tulev+id //_A_ Pl Par, //
+sõnumeid    sõnum+id //_S_ Pl Par, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+99    99+0 //_N_ ?, //
+%    %+0 //_Y_ ?, //
+ajast    aeg+st //_S_ Sg Ela, //
+ei    ei+0 //_V_ Neg, //
+sisalda    sisalda+0 //_V_ Pers Prs Ind Neg, //
+need    see+d //_P_ Pl Nom, //
+midagi    miski+dagi //_P_ Sg Par, //
+olulist    oluline+t //_A_ Sg Par, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+jama    jama+0 //_S_ Sg Nom, //
+ilmnes    ilmne+s //_V_ Pers Prt Ind Sg3 Aff, //
+alles    alles+0 //_D_ //
+trahvilipikut    trahvi_lipik+t //_S_ Sg Par, //
+nähes    näge+es //_V_ Ger, //
+.    . //_Z_ //
+</s>
+<s>
+Õigupoolest    õigu_poolest+0 //_D_ //
+tuli    tule+i //_V_ Pers Prt Ind Sg3 Aff, //
+kell    kell+0 //_S_ Sg Nom, //
+12:08    12:08+0 //_N_ ?, //
+ka    ka+0 //_D_ //
+teade    teade+0 //_S_ Sg Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+m-parkimine    m-parkimine+0 //_S_ Sg Nom, //
+ei    ei+0 //_V_ Neg, //
+toimi    toimi+0 //_V_ Pers Prs Ind Neg, //
+...    ... //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+selleks    see+ks //_P_ Sg Tra, //
+ajaks    aeg+ks //_S_ Sg Tra, //
+teadsin    tead+sin //_V_ Pers Prt Ind Sg1 Aff, //
+ma    mina+0 //_P_ Sg Nom, //
+seda    see+da //_P_ Sg Par, //
+isegi    isegi+0 //_D_ //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Ehk    ehk+0 //_J_ //
+siis    siis+0 //_D_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+meil    mina+l //_P_ Pl Ade, //
+m-parkimise    m-parkimine+0 //_S_ Sg Gen, //
+näol    nägu+l //_S_ Sg Ade, //
+tore    tore+0 //_A_ Sg Nom, //
+massirakendus    massi_rakendus+0 //_S_ Sg Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+muuhulgas    muu_hulgas+0 //_D_ //
+:    : //_Z_ //
+<kindel_piir/>
+ei    ei+0 //_V_ Neg, //
+väljasta    väljasta+0 //_V_ Pers Prs Ind Neg, //
+mittetoimimise    mitte_toimimine+0 //_S_ Sg Gen, //
+korral    korral+0 //_K_ //
+adekvaatset    adekvaatne+t //_A_ Sg Par, //
+infot    info+t //_S_ Sg Par, //
+<kindel_piir/>
+toodab    toot+b //_V_ Pers Prs Ind Sg3 Aff, //
+püsikasutaja    püsi_kasutaja+0 //_S_ Sg Gen, //
+jaoks    jaoks+0 //_K_ //
+infomüra    info_müra+0 //_S_ Sg Par, //
+<kindel_piir/>
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+piisavalt    piisavalt+0 //_D_ //
+ebamugav    eba_mugav+0 //_A_ Sg Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+kasutatavuse    kasuta=tavus+0 //_S_ Sg Gen, //
+tekitamiseks    tekitamine+ks //_S_ Sg Tra, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+vaja    vaja+0 //_D_ //
+app’i    app+i //_S_ Sg Par, //
+<kiil>
+(    ( //_Z_ //
+mh    mh+0 //_Y_ ?, //
+vältimaks    välti+maks //_V_ Pers Sup Tra, //
+unustamist    unustamine+t //_S_ Sg Par, //
+ehk    ehk+0 //_J_ //
+üle-maksmist    üle-maksmine+t //_S_ Sg Par, //
+)    ) //_Z_ //
+</kiil>
+</s>
+</p>
+<p heading="0">
+<s>
+ainus    ainus+0 //_A_ Sg Nom, //
+API    API+0 //_Y_ ?, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+seesama    see_sama+0 //_P_ Sg Nom, //
+mürarikas/vahelmittetoimiv    mürarikas/vahelmittetoimi=v+0 //_A_ Sg Nom, //
+SMS    SMS+0 //_Y_ ?, //
+<kiil>
+(    ( //_Z_ //
+tõenäoliselt    tõe_näoliselt+0 //_D_ //
+annaks    and+ks //_V_ Pers Prs Cond, //
+MoPa    MoPa+0 //_Y_ ?, // 
+rakendust    rakendus+t //_S_ Sg Par, //
+edendada    edenda+da //_V_ Inf, //
+<kindel_piir/>
+jälgides    jälgi+des //_V_ Ger, //
+SMSe    SMS+e //_Y_ Pl Par, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+korraldades    korralda+des //_V_ Ger, //
+paanika    paanika+0 //_S_ Sg Gen, //
+<kindel_piir/>
+kui    kui+0 //_J_ //
+need    see+d //_P_ Pl Nom, //
+ei    ei+0 //_V_ Neg, //
+vasta    vasta+0 //_V_ Pers Prs Ind Neg, //
+ootustele    ootus+tele //_S_ Pl All, //
+–    - //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+selleks    see+ks //_P_ Sg Tra, //
+peaks    pida+ks //_V_ Pers Prs Cond, //
+ilmselgelt    ilm_selgelt+0 //_D_ //
+keegi    keegi+0 //_P_ Sg Nom, //
+selle    see+0 //_P_ Sg Gen, //
+eest    eest+0 //_K_ //
+mingit    mingi+t //_P_ Sg Par, //
+raha    raha+0 //_S_ Sg Par, //
+kah    kah+0 //_D_ //
+maksma    maks+ma //_V_ Pers Sup Ill, //
+ning    ning+0 //_J_ //
+tõenäoliselt    tõe_näoliselt+0 //_D_ //
+rohkem    rohkem+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_J_ //
+appstorest    appstore+st //_S_ Sg Ela, //
+saada    saa+da //_V_ Inf, //
+õnnestub    õnnestu+b //_V_ Pers Prs Ind Sg3 Aff, //
+)    ) //_Z_ //
+</kiil>
+</s>
+</p>
+<p heading="0">
+<s>
+ilmselt    ilmselt+0 //_D_ //
+ei    ei+0 //_V_ Neg, //
+oma    oma+0 //_V_ Pers Prs Ind Neg, //
+ka    ka+0 //_D_ //
+parkimisteenuse-pakkuja    parkimis_teenuse-pakkuja+0 //_S_ Sg Gen, //
+jaoks    jaoks+0 //_K_ //
+lepingulist    lepinguline+t //_A_ Sg Par, //
+tingimust    tingimus+t //_S_ Sg Par, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+sätestaks    sätesta+ks //_V_ Pers Prs Cond, //
+kasutajasõbraliku    kasutaja_sõbralik+0 //_A_ Sg Gen, //
+probleemilahenduse    probleemi_lahendus+0 //_S_ Sg Gen, //
+teenuse    teenus+0 //_S_ Sg Gen, //
+mittetoimimise    mitte_toimimine+0 //_S_ Sg Gen, //
+juhuks    juht+ks //_S_ Sg Tra, //
+</s>
+</p>
+<p heading="0">
+<s>
+Kui    kui+0 //_J_ //
+süsteem    süsteem+0 //_S_ Sg Nom, //
+teadaolevalt    teada_olevalt+0 //_D_ //
+ei    ei+0 //_V_ Neg, //
+toimi    toimi+0 //_V_ Pers Prs Ind Neg, //
+,    , //_Z_ //
+<kindel_piir/>
+võiks    või+ks //_V_ Pers Prs Cond, //
+mõistagi    mõistagi+0 //_D_ //
+aidata    aita+ta //_V_ Inf, //
+parkimiskorraldaja    parkimis_korraldaja+0 //_S_ Sg Gen, //
+kõnekeskus    kõne_keskus+0 //_S_ Sg Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+lihtsustatud    lihtsusta=tud+0 //_A_ //
+korras    kord+s //_S_ Sg Ine, //
+trahvid    trahv+d //_S_ Pl Nom, //
+tühistaks    tühista+ks //_V_ Pers Prs Cond, //
+–    - //_Z_ //
+<kindel_piir/>
+paraku    paraku+0 //_D_ //
+seletavad    seleta+vad //_V_ Pers Prs Ind Pl3 Aff, //
+nad    tema+d //_P_ Pl Nom, //
+varmalt    varmalt+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+otseloomulikult    otse_loomuliku=lt+0 //_D_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+minu    mina+0 //_P_ Sg Gen, //
+ülesanne    üles_anne+0 //_S_ Sg Nom, //
+lugeda    luge+da //_V_ Inf, //
+läbi    läbi+0 //_D_ //
+SMSid    SMS+id //_Y_ Pl Nom, //
+ja    ja+0 //_J_ //
+jälgida    jälgi+da //_V_ Inf, //
+nende    see+de //_P_ Pl Gen, //
+korrapärast    korra_pärane+t //_A_ Sg Par, //
+saabumist    saabumine+t //_S_ Sg Par, //
+…    … //_Z_ //
+<kindel_piir/>
+selmet    selmet+0 //_J_ //
+nende    tema+de //_P_ Pl Gen, //
+asi    asi+0 //_S_ Sg Nom, //
+oleks    ole+ks //_V_ Pers Prs Cond, //
+tagada    taga+da //_V_ Inf, //
+maksesüsteemide    makse_süsteem+de //_S_ Pl Gen, //
+toimimine    toimimine+0 //_S_ Sg Nom, //
+.    . //_Z_ //
+</s>
+<s>
+Sellest    see+st //_P_ Sg Ela, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+muideks    muideks+0 //_D_ //
+varem    varem+0 //_D_ //
+kah    kah+0 //_D_ //
+juttu    jutt+0 //_S_ Sg Par, //
+olnud    ole+nud //_V_ Pers Prt Prc, //
+(    ( //_Z_ //
+terv    terv+0 //_I_ //
+!    ! //_Z_ //
+,    , //_Z_ //
+Karol    Karol+0 //_H_ Sg Nom, //
+)    ) //_Z_ //
+.    . //_Z_ //
+</s>
+<s>
+Kaubanduskeskuse    kaubandus_keskus+0 //_S_ Sg Gen, //
+puhul    puhul+0 //_K_ //
+pidavat    pida+vat //_V_ Pers Prs Quot, //
+olema    ole+ma //_V_ Pers Sup Ill, //
+maksetõrke    makse_tõrge+0 //_S_ Sg Gen, //
+aeg    aeg+0 //_S_ Sg Nom, //
+<kiil>
+mille    mis+0 //_P_ Sg Gen, //
+järel    järel+0 //_K_ //
+inimesed    inimene+d //_S_ Pl Nom, //
+täislaaditud    täis_laadi=tud+0 //_A_ //
+ostukärud    ostu_käru+d //_S_ Pl Nom, //
+saali    saal+0 //_S_ Sg Ill, //
+jätavad    jät+vad //_V_ Pers Prs Ind Pl3 Aff, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+lahkuvad    lahku+vad //_V_ Pers Prs Ind Pl3 Aff, //
+</kiil>
+ca    ca+0 //_Y_ ?, //
+10    10+0 //_N_ ?, //
+minuti    minut+0 //_S_ Sg Gen, //
+kanti    kant+0 //_S_ Sg Ill, //
+–    - //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+tekitab    tekita+b //_V_ Pers Prs Ind Sg3 Aff, //
+palju    palju+0 //_D_ //
+jama    jama+0 //_S_ Sg Par, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+paneb    pane+b //_V_ Pers Prs Ind Sg3 Aff, //
+müüa    müüja+0 //_S_ Sg Gen, //   
+sisuliselt    sisuliselt+0 //_D_ //
+vastutama    vastuta+ma //_V_ Pers Sup Ill, //
+e-maksete    e-makse+te //_S_ Pl Gen, //
+toimimise    toimimine+0 //_S_ Sg Gen, //
+eest    eest+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Parkimise    parkimine+0 //_S_ Sg Gen, //
+puhul    puhul+0 //_K_ //
+…    … //_Z_ //
+noh    noh+0 //_I_ //
+tegelikult    tegelikult+0 //_D_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+sarnane    sarnane+0 //_A_ Sg Nom, //
+lahendus    lahendus+0 //_S_ Sg Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+nagu    nagu+0 //_J_ //
+nähtub    nähtu+b //_V_ Pers Prs Ind Sg3 Aff, //
+kommentaaridest    kommentaar+dest //_S_ Pl Ela, //
+:    : //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Tõe    tõde+0 //_S_ Sg Gen, //
+huvides    huvi+des //_S_ Pl Ine, //
+olgu    ole+gu //_V_ Pers Prs Imprt, //
+lisatud    lisa+tud //_V_ Impers Prt Prc, //
+ka    ka+0 //_D_ //
+Mardi    Mart+0 //_H_ Sg Gen, //
+hilisem    hilisem+0 //_C_ Sg Nom, //
+kommentaar    kommentaar+0 //_S_ Sg Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+ehk    ehk+0 //_J_ //
+siis    siis+0 //_D_ //
+viha    viha+0 //_S_ Sg Par, //
+tekitab    tekita+b //_V_ Pers Prs Ind Sg3 Aff, //
+ennekõike    enne_kõike+0 //_D_ //
+kliendisuhe    kliendi_suhe+0 //_S_ Sg Nom, //
+hetkel    hetk+l //_S_ Sg Ade, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_J_ //
+õnnestub    õnnestu+b //_V_ Pers Prs Ind Sg3 Aff, //
+trahv    trahv+0 //_S_ Sg Nom, //
+saada    saa+da //_V_ Inf, //
+:    : //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Muide    muide+0 //_D_ //
+mina    mina+0 //_P_ Sg Nom, //
+olen    ole+n //_V_ Pers Prs Ind Sg1 Aff, //
+Europargile    Euro_park+le //_H_ Sg All, //
+alati    alati+0 //_D_ //
+maksnud    maks+nud //_V_ Pers Prt Prc, //
+parkimise    parkimine+0 //_S_ Sg Gen, //
+eest    eest+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Las    las+0 //_D_ //
+nemad    tema+d //_P_ Pl Nom, //
+ka    ka+0 //_D_ //
+teenivad    teeni+vad //_V_ Pers Prs Ind Pl3 Aff, //
+,    , //_Z_ //
+<kindel_piir/>
+ega    ega+0 //_D_ //
+mul    mina+l //_P_ Sg Ade, //
+kahju    kahju+0 //_S_ Sg Par, //
+pole    ole+0 //_V_ Pers Prs Ind Neg, //
+.    . //_Z_ //
+</s>
+<s>
+Aga    aga+0 //_J_ //
+need    see+d //_P_ Pl Nom, //
+“    “ //_Z_ //
+trahvid    trahv+d //_S_ Pl Nom, //
+”    ” //_Z_ //
+on    ole+0 //_V_ Pers Prs Ind Pl3 Aff, //
+sigadus    sigadus+0 //_S_ Sg Nom, //
+–    - //_Z_ //
+ajuvabalt    aju_vaba=lt+0 //_D_ //
+kõrged    kõrge+d //_A_ Pl Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+nagu    nagu+0 //_J_ //
+kliendi    klient+0 //_S_ Sg Gen, //
+varitsemine    varitse=mine+0 //_S_ Sg Nom, //
+:    : //_Z_ //
+<kindel_piir/>
+“    “ //_Z_ //
+Ahaa    ahaa+0 //_I_ //
+,    , //_Z_ //
+VAHELE    vahele+0 //_D_ //
+JÄID    jää+id //_V_ Pers Prt Ind Sg2 Aff, //
+!    ! //_Z_ //
+<kindel_piir/>
+Nüüd    nüüd+0 //_D_ //
+me    mina+0 //_P_ Pl Nom, //
+alles    alles+0 //_D_ //
+KEERAME    keera+me //_V_ Pers Prs Ind Pl1 Aff, //
+sulle    sina+lle //_P_ Sg All, //
+!    ! //_Z_ //
+!    ! //_Z_ //
+!    ! //_Z_ //
+”    ” //_Z_ //
+</s>
+<s>
+Klient    klient+0 //_S_ Sg Nom, //
+aga    aga+0 //_J_ //
+võib-olla    võib-olla+0 //_D_ //
+lihtsalt    lihtsalt+0 //_D_ //
+unustas    unusta+s //_V_ Pers Prt Ind Sg3 Aff, //
+või    või+0 //_J_ //
+<kindel_piir/>
+m-parkimine    m-parkimine+0 //_S_ Sg Nom, //
+ei    ei+0 //_V_ Neg, //
+töötanud    tööta+nud //_V_ Pers Prt Ind Neg, //
+vms    vms+0 //_Y_ ?, //
+.    . //_Z_ //
+</s>
+<s>
+Seetõttu    see_tõttu+0 //_D_ //
+kui    kui+0 //_J_ //
+ma    mina+0 //_P_ Sg Nom, //
+kunagi    kunagi+0 //_D_ //
+peaks    pida+ks //_V_ Pers Prs Cond, //
+mõne    mõni+0 //_P_ Sg Gen, //
+selle    see+0 //_P_ Sg Gen, //
+trahvi    trahv+0 //_S_ Sg Gen, //
+saama    saa+ma //_V_ Pers Sup Ill, //
+,    , //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+ma    mina+0 //_P_ Sg Nom, //
+tuimalt    tuimalt+0 //_D_ //
+ei    ei+0 //_V_ Neg, //
+maksa    maks+0 //_V_ Pers Prs Ind Neg, //
+seda    see+da //_P_ Sg Par, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+ei    ei+0 //_V_ Neg, //
+tunne    tund+0 //_V_ Pers Prs Ind Neg, //
+ennast    ise+t //_P_ Sg Par, //
+ka    ka+0 //_D_ //
+üldse    üldse+0 //_D_ //
+halvasti    halvasti+0 //_D_ //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Ja    ja+0 //_J_ //
+tõe    tõde+0 //_S_ Sg Gen, //
+huvides    huvi+des //_S_ Pl Ine, //
+olgu    ole+gu //_V_ Pers Prs Imprt, //
+lisatud    lisa+tud //_V_ Impers Prt Prc, //
+ka    ka+0 //_D_ //
+see    see+0 //_P_ Sg Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+olen    ole+n //_V_ Pers Prs Ind Sg1 Aff, //
+teemat    teema+t //_S_ Sg Par, //
+EuroParkiga    Euro_park+ga //_H_ Sg Com, //
+arutanud    aruta+nud //_V_ Pers Prt Prc, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+nad    tema+d //_P_ Pl Nom, //
+on    ole+0 //_V_ Pers Prs Ind Pl3 Aff, //
+sisemas    sisemas+0 //_D_ //
+ka    ka+0 //_D_ //
+ise    ise+0 //_P_ Pl Nom, //
+arvamusel    arvamus+l //_S_ Sg Ade, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+klientide    klient+de //_S_ Pl Gen, //
+kottimine    kotti=mine+0 //_S_ Sg Nom, //
+ei    ei+0 //_V_ Neg, //
+ole    ole+0 //_V_ Pers Prs Ind Neg, //
+mõistlik    mõistlik+0 //_A_ Sg Nom, //
+äri    äri+0 //_S_ Sg Nom, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+proovivad    proovi+vad //_V_ Pers Prs Ind Pl3 Aff, //
+vaided    vaie+d //_S_ Pl Nom, //
+mõistusega    mõistus+ga //_S_ Sg Com, //
+lahendada    lahenda+da //_V_ Inf, //
+.    . //_Z_ //
+</s>
+<s>
+Küllap    küllap+0 //_D_ //
+läheb    mine+b //_V_ Pers Prs Ind Sg3 Aff, //
+sama    sama+0 //_P_ Sg Par, //
+rada    rada+0 //_S_ Sg Par, //
+ka    ka+0 //_D_ //
+minu    mina+0 //_P_ Sg Gen, //
+seekordne    see_kordne+0 //_A_ Sg Nom, //
+vaie    vaie+0 //_S_ Sg Nom, //
+ehk    ehk+0 //_J_ //
+<kindel_piir/>
+kõik    kõik+0 //_P_ Pl Nom, //
+saab    saa+b //_V_ Pers Prs Ind Sg3 Aff, //
+kenasti    kenasti+0 //_D_ //
+korda    kord+0 //_S_ Sg Ill, //
+…    …+0 //_Y_ ?, //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+siis    siis+0 //_D_ //
+ma    mina+0 //_P_ Sg Nom, //
+sattusin    sattu+sin //_V_ Pers Prt Ind Sg1 Aff, //
+netis    nett+s //_S_ Sg Ine, //
+seda    see+da //_P_ Sg Par, //
+vaiet    vaie+t //_S_ Sg Par, //
+täitma    täit+ma //_V_ Pers Sup Ill, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+…    …+0 //_Y_ ?, //
+see    see+0 //_P_ Sg Nom, //
+asi    asi+0 //_S_ Sg Nom, //
+sobib    sobi+b //_V_ Pers Prs Ind Sg3 Aff, //
+paraku    paraku+0 //_D_ //
+õpikusse    õpik+sse //_S_ Sg Ill, //
+:    : //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Kõigepealt    kõige_pealt+0 //_D_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+tore    tore+0 //_A_ Sg Nom, //
+sisestada    sisesta+da //_V_ Inf, //
+vaide    vaie+0 //_S_ Sg Gen, //
+number    number+0 //_S_ Sg Nom, //
+–    - //_Z_ //
+<kindel_piir/>
+milles    mis+s //_P_ Sg Ine, //
+sisaldub    sisaldu+b //_V_ Pers Prs Ind Sg3 Aff, //
+muideks    muideks+0 //_D_ // 
+kontrolöri    kontrolör+0 //_S_ Sg Gen, //
+ID    id+0 //_Y_ ?, //
+,    , //_Z_ //
+kuupäev    kuu_päev+0 //_S_ Sg Nom, //
+ja    ja+0 //_J_ //
+kellaaeg    kella_aeg+0 //_S_ Sg Nom, //
+–    - //_Z_ //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+siis    siis+0 //_D_ //
+lisada    lisa+da //_V_ Inf, //
+sinna    sinna+0 //_D_ //
+juurde    juurde+0 //_D_ //
+seesama    see_sama+0 //_P_ Sg Nom, //
+info    info+0 //_S_ Sg Nom, //
+kenasti    kenasti+0 //_D_ //
+lahtrite    lahter+te //_S_ Pl Gen, //
+kaupa    kaupa+0 //_K_ //
+<kindel_piir/>
+aidates    aita+tes //_V_ Ger, //
+ühtlasti    ühtlasi+0 //_D_ //
+parkimiskorraldajal    parkimis_korraldaja+l //_S_ Sg Ade, //
+meelde    meel+de //_S_ Sg Ill, //
+tuletada    tuleta+da //_V_ Inf, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+täpselt    täpselt+0 //_D_ //
+asub    asu+b //_V_ Pers Prs Ind Sg3 Aff, //
+ala    ala+0 //_S_ Sg Nom, //
+EP25    EP25+0 //_Y_ ?, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+trahvi    trahv+0 //_S_ Sg Gen, //
+peal    peal+0 //_K_ //
+kirjas    kiri+s //_S_ Sg Ine, //
+oli    ole+i //_V_ Pers Prt Ind Sg3 Aff, //
+.    . //_Z_ //
+</s>
+<s>
+Ilmselt    ilmselt+0 //_D_ //
+ei    ei+0 //_V_ Neg, //
+piisa    piisa+0 //_V_ Pers Prs Ind Neg, //
+aga    aga+0 //_J_ //
+sellestki    see+stki //_P_ Sg Ela, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+järsku    järsku+0 //_D_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+keegi    keegi+0 //_P_ Sg Nom, //
+otsustanud    otsusta+nud //_V_ Pers Prt Prc, //
+kontrollida    kontrolli+da //_V_ Inf, //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+linnast    linn+st //_S_ Sg Ela, //
+üldse    üldse+0 //_D_ //
+jutt    jutt+0 //_S_ Sg Nom, //
+käib    käi+b //_V_ Pers Prs Ind Sg3 Aff, //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Ja    ja+0 //_J_ //
+siis    siis+0 //_D_ //
+tuleb    tule+b //_V_ Pers Prs Ind Sg3 Aff, //
+ports    ports+0 //_S_ Sg Nom, //
+punkte    punkt+e //_S_ Pl Par, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ Pl Nom, //
+arvatavasti    arvatavasti+0 //_D_ //
+peaksid    pida+ksid //_V_ Pers Prs Cond Pl3 Aff, //
+paneme    pane+ma //_V_ Pers Sup Ill, //
+vaide    vaie+0 //_S_ Sg Gen, //
+esitaja    esitaja+0 //_S_ Sg Gen, //
+oma    oma+0 //_P_ Sg Gen, //
+kavatsusest    kavatsus+st //_S_ Sg Ela, //
+loobuma    loobu+ma //_V_ Pers Sup Ill, //
+–    - //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+ikka    ikka+0 //_D_ //
+maksid    maks+id //_V_ Pers Prt Ind Sg2 Aff, //
+,    , //_Z_ //
+<kindel_piir/>
+tegid    tege+id //_V_ Pers Prt Ind Sg2 Aff, //
+seda    see+da //_P_ Sg Par, //
+kohe    kohe+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+vastussõnumi    vastus_sõnum+0 //_S_ Sg Gen, //
+said    saa+id //_V_ Pers Prt Ind Sg2 Aff, //
+jne    jne+0 //_Y_ ?, //
+.    . //_Z_ //
+</s>
+<s>
+Vaide    vaie+0 //_S_ Sg Gen, //
+SISULISE    Sisulis+0 //_H_ Sg Gen, //
+OSA    osa+0 //_S_ Sg Gen, //
+ehk    ehk+0 //_J_ //
+minupoolse    minu_poolne+0 //_A_ Sg Gen, //
+selgituse    selgitus+0 //_S_ Sg Gen, //
+jaoks    jaoks+0 //_K_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+jäetud    jät+tud //_V_ Impers Prt Prc, //
+imetilluke    ime_tilluke+0 //_A_ Sg Nom, //
+lahter    lahter+0 //_S_ Sg Nom, //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Edasi    edasi+0 //_D_ //
+…    … //_Z_ //
+<kindel_piir/>
+Arvake    arva+ke //_V_ Pers Prs Imprt Pl2, //
+ära    ära+0 //_D_ //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+juhtub    juhtu+b //_V_ Pers Prs Ind Sg3 Aff, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_J_ //
+ma    mina+0 //_P_ Sg Nom, //
+otsustan    otsusta+n //_V_ Pers Prs Ind Sg1 Aff, //
+vaide    vaie+0 //_S_ Sg Gen, //
+teele    tee+le //_S_ Sg All, //
+saata    saat+a //_V_ Inf, //
+?    ? //_Z_ //
+</s>
+<s>
+Loomulikult    loomulikult+0 //_D_ //
+saan    saa+n //_V_ Pers Prs Ind Sg1 Aff, //
+veateate    vea_teade+0 //_S_ Sg Gen, //
+:    : //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Mmmm    Mmmm+0 //_I_ //
+…    … //_Z_ //
+kogu    kogu+0 //_S_ Sg Nom, //
+probleem    probleem+0 //_S_ Sg Nom, //
+ongi    ole+gi //_V_ Pers Prs Ind Sg3 Aff, //
+ju    ju+0 //_D_ //
+selles    see+s //_P_ Sg Ine, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+teie    sina+0 //_P_ Pl Gen, //
+maksesüsteem    makse_süsteem+0 //_S_ Sg Nom, //
+ei    ei+0 //_V_ Neg, //
+toiminud    toimi+nud //_V_ Pers Prt Ind Neg, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+ei    ei+0 //_V_ Neg, //
+saatnud    saat+nud //_V_ Pers Prt Ind Neg, //
+vastust    vastus+t //_S_ Sg Par, //
+<kindel_piir/>
+mille    mis+0 //_P_ Sg Gen, //
+ma    mina+0 //_P_ Sg Nom, //
+vastava    vastav+0 //_A_ Sg Gen, //
+radio-buttoniga    radio-button+ga //_S_ Sg Com, //
+ka    ka+0 //_D_ //
+kenasti    kenasti+0 //_D_ //
+ära    ära+0 //_D_ //
+märkisin    märki+sin //_V_ Pers Prt Ind Sg1 Aff, //
+,    , //_Z_ //
+eksju    eksju+0 //_V_ Pers Prs Ind Neg, //
+?    eksju+0 //_D_ //
+</s>
+<s>
+Sealt    sealt+0 //_D_ //
+edasi    edasi+0 //_D_ //
+kuvatakse    kuva+takse //_V_ Impers Prs Ind Aff, //
+mulle    mina+lle //_P_ Sg All, //
+kinnitus-popup    kinnitus-popup+0 //_S_ Sg Nom, //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+minu    mina+0 //_P_ Sg Gen, //
+tekst    tekst+0 //_S_ Sg Nom, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+segamini    segamini+0 //_D_ //
+igatmasti    igat_masti+0 //_A_ //
+tehnilise    tehniline+0 //_A_ Sg Gen, //
+infoga    info+ga //_S_ Sg Com, //
+<kiil>
+(    ( //_Z_ //
+ülaservas    üla_serv+s //_S_ Sg Ine, //
+oli    ole+i //_V_ Pers Prt Ind Sg3 Aff, //
+mh    mh+0 //_Y_ ?, // 
+MAX_FILE_SIZE    MAX_FILE_SIZE+0 //_Q_ //
+8000000    8000000+0 //_N_ ?, //
+)    ) //_Z_ //
+</kiil>
+ning    ning+0 //_J_ //
+<kindel_piir/>
+nupp    nupp+0 //_S_ Sg Nom, //
+selle    see+0 //_P_ Sg Gen, //
+väljatrükkimiseks    välja_trükkimine+ks //_S_ Sg Tra, //
+:    : //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+…    …+0 //_Y_ ?, //
+ja    ja+0 //_J_ //
+vähemalt    vähemalt+0 //_D_ //
+OSX+Chrome    OSX+Chrome+0 //_H_ Sg Gen, //
+puhul    puhul+0 //_K_ //
+juhtub    juhtu+b //_V_ Pers Prs Ind Sg3 Aff, //
+Prindi-nuppu    prindi-nupp+0 //_S_ Sg Par, //
+painates    paina+tes //_V_ Ger, //
+järgmine    järgmine+0 //_A_ Sg Nom, //
+asi    asi+0 //_S_ Sg Nom, //
+:    : //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Ma    mina+0 //_P_ Sg Nom, //
+siia    siia+0 //_D_ //
+sappa    saba+0 //_S_ Sg Ill, //
+mingit    mingi+t //_P_ Sg Par, //
+moraali    moraal+0 //_S_ Sg Par, //
+lisama    lisa+ma //_V_ Pers Sup Ill, //
+ei    ei+0 //_V_ Neg, //
+hakka    hakka+0 //_V_ Pers Prs Ind Neg, //
+–    - //_Z_ //
+<kindel_piir/>
+kuigi    kuigi+0 //_J_ //
+kange    kange+0 //_A_ Sg Nom, //
+soov    soov+0 //_S_ Sg Nom, //
+oleks    ole+ks //_V_ Pers Prs Cond, //
+kehtestada    kehtesta+da //_V_ Inf, //
+kasutaja-poolne    kasutaja-poolne+0 //_A_ Sg Nom, //
+leppetrahv    leppe_trahv+0 //_S_ Sg Nom, //
+tarkvara-arendajatele    tark_vara-arendaja+tele //_S_ Pl All, //
+.    . //_Z_ //
+</s>
+<s>
+Ahjah    ah_jah+0 //_I_ //    
+,    , //_Z_ //
+sai    saa+i //_V_ Pers Prt Ind Sg3 Aff, //
+ju    ju+0 //_D_ //
+just    just+0 //_D_ //
+pikalt    pikalt+0 //_D_ //
+arutatud    aruta+tud //_V_ Impers Prt Prc, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+trahv    trahv+0 //_S_ Sg Nom, //
+ei    ei+0 //_V_ Neg, //
+ole    ole+0 //_V_ Pers Prs Ind Neg, //
+lahendus    lahendus+0 //_S_ Sg Nom, //
+kah    kah+0 //_D_ //
+…    … //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Pealtnägija    Pealt_nägija+0 //_H_ Sg Gen, //
+26.10.2011    26.10.2011+0 //_N_ ?, //
+lugu    lugu+0 //_S_ Sg Nom, //
+lingibörsi    lingi_börs+0 //_S_ Sg Gen, //
+abil    abi+l //_S_ Sg Ade, //
+SEO-teenust    SEO-teenus+t //_S_ Sg Par, //
+pakkuvast    pakkuv+st //_A_ Sg Ela, //
+firmast    firma+st //_S_ Sg Ela, //
+Optim    Optim+0 //_H_ Sg Nom, //
+Technology    Technology+0 //_H_ Sg Nom, //
+väärib    vääri+b //_V_ Pers Prs Ind Sg3 Aff, //
+veidi    veidi+0 //_D_ //
+pikemat    pikem+t //_C_ Sg Par, //
+taustaselgitust    tausta_selgitus+t //_S_ Sg Par, //
+–    - //_Z_ //
+nii    nii+0 //_D_ //
+sisulises    sisuline+s //_A_ Sg Ine, //
+kui    kui+0 //_J_ //
+tehnilises    tehniline+s //_A_ Sg Ine, //
+mõttes    mõte+s //_S_ Sg Ine, //
+<kiil>
+(    ( //_Z_ //
+mh    mh+0 //_Y_ ?, // 
+sai    saa+i //_V_ Pers Prt Ind Sg3 Aff, //
+tutvutud    tutvu+tud //_V_ Impers Prt Prc, //
+saates    saade+s //_S_ Sg Ine, //
+mainitud    mainitud+0 //_A_ //
+vallaveebi    valla_veeb+0 //_S_ Sg Gen, //
+häkiga    häkk+ga //_S_ Sg Com, //
+seestpoolt    seest_poolt+0 //_D_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+aidatud    aita+tud //_V_ Impers Prt Prc, //
+neil    tema+l //_P_ Pl Ade, //
+pättvara    pätt_vara+0 //_S_ Sg Par, //
+veebist    veeb+st //_S_ Sg Ela, //
+eemaldada    eemalda+da //_V_ Inf, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Lühike    lühike+0 //_A_ Sg Nom, //
+sisuline    sisuline+0 //_A_ Sg Nom, //
+sünops    sünops+0 //_S_ Sg Nom, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+järgnev    järgnev+0 //_A_ Sg Nom, //
+:    : //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Tegelikult    tegelikult+0 //_D_ //
+kasutatakse    kasuta+takse //_V_ Impers Prs Ind Aff, //
+selleks    see+ks //_P_ Sg Tra, //
+lingibörse    lingi_börs+e //_S_ Pl Par, //
+<kiil>
+(    ( //_Z_ //
+vallaveebi    valla_veeb+0 //_S_ Sg Gen, //
+juhtumi    juhtum+0 //_S_ Sg Gen, //
+puhul    puhul+0 //_K_ //
+venelaste    venelane+te //_S_ Pl Gen, //
+sape.ru    sape.ru+0 //_Q_ //
+)    ) //_Z_ //
+</kiil>
+ehk    ehk+0 //_J_ //
+teenuseid    teenus+id //_S_ Pl Par, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ Pl Nom, //
+võimaldavad    võimalda+vad //_V_ Pers Prs Ind Pl3 Aff, //
+ühel    üks+l //_P_ Sg Ade, //
+poolel    pool+l //_S_ Sg Ade, //
+paigutada    paiguta+da //_V_ Inf, //
+veebi    veeb+0 //_S_ Sg Ill, //
+tekstilinkide    teksti_link+de //_S_ Pl Gen, //
+müümise    müümine+0 //_S_ Sg Gen, //
+koodi    kood+0 //_S_ Sg Par, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+teisel    teine+l //_P_ Sg Ade, //
+poolel    pool+l //_S_ Sg Ade, //
+neisse    see+sse //_P_ Pl Ill, //
+veebidesse    veeb+desse //_S_ Pl Ill, //
+linke    link+e //_S_ Pl Par, //
+osta    ost+a //_V_ Inf, //
+</s>
+</p>
+<p heading="0">
+<s>
+Lingibörsidesse    lingi_börs+desse //_S_ Pl Ill, //
+on    ole+0 //_V_ Pers Prs Ind Pl3 Aff, //
+sisse    sisse+0 //_D_ //
+ehitatud    ehita+tud //_V_ Impers Prt Prc, //
+mh    mh+0 //_Y_ ?, //
+pidev    pidev+0 //_A_ Sg Nom, //
+monitooring    monitooring+0 //_S_ Sg Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+nt    nt+0 //_Y_ ?, //
+kui    kui+0 //_J_ //
+Google    Google+0 //_H_ Sg Nom, //
+võtab    võt+b //_V_ Pers Prs Ind Sg3 Aff, //
+linke    link+e //_S_ Pl Par, //
+müünud    müü=nud+0 //_A_ //
+saidi    sait+0 //_S_ Sg Gen, //
+oma    oma+0 //_P_ Sg Gen, //
+indeksist    indeks+st //_S_ Sg Ela, //
+maha    maha+0 //_D_ //
+<kindel_piir/>
+peatub    peatu+b //_V_ Pers Prs Ind Sg3 Aff, //
+automaatselt    automaatselt+0 //_D_ //
+reklaam/rahavoog    reklaam/raha_voog+0 //_S_ Sg Nom, //
+jne    jne+0 //_Y_ ?, //
+–    - //_Z_ //
+<kindel_piir/>
+ehk    ehk+0 //_J_ //
+kõik    kõik+0 //_P_ Pl Nom, //
+mänguosalised    mängu_osaline+d //_A_ Pl Nom, //
+on    ole+0 //_V_ Pers Prs Ind Pl3 Aff, //
+teadlikud    teadlik+d //_A_ Pl Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+otsimootorid    otsi_mootor+d //_S_ Pl Nom, //
+peavad    pida+vad //_V_ Pers Prs Ind Pl3 Aff, //
+sellist    selline+t //_P_ Sg Par, //
+tegevust    tegevus+t //_S_ Sg Par, //
+lubamatuks    lubamatu+ks //_A_ Sg Tra, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+tegelevad    tegele+vad //_V_ Pers Prs Ind Pl3 Aff, //
+igapäevaselt    iga_päevaselt+0 //_D_ //
+aktiivse    aktiivne+0 //_A_ Sg Gen, //
+kassi-hiire-mänguga    kassi-hiire-mäng+ga //_S_ Sg Com, //
+</s>
+</p>
+<p heading="0">
+<s>
+Lingibörsi    lingi_börs+0 //_S_ Sg Gen, //
+kood    kood+0 //_S_ Sg Nom, //
+satub    sattu+b //_V_ Pers Prs Ind Sg3 Aff, //
+veebidesse    veeb+desse //_S_ Pl Ill, //
+mitmel    mitu+l //_P_ Sg Ade, //
+moel    mood+l //_S_ Sg Ade, //
+–    - //_Z_ //
+<kindel_piir/>
+leidub    leidu+b //_V_ Pers Prs Ind Sg3 Aff, //
+pisemate    pisem+te //_C_ Pl Gen, //
+saitide    sait+de //_S_ Pl Gen, //
+omanikke    omanik+e //_S_ Pl Par, //
+<kindel_piir/>
+kes    kes+0 //_P_ Pl Nom, //
+kasutavad    kasuta+vad //_V_ Pers Prs Ind Pl3 Aff, //
+võimalust    võimalus+t //_S_ Sg Par, //
+raha    raha+0 //_S_ Sg Par, //
+teenida    teeni+da //_V_ Inf, //
+<kiil>
+(    ( //_Z_ //
+mh    mh+0 //_Y_ ?, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+suht    suht+0 //_D_ //
+mõttetu    mõttetu+0 //_A_ Sg Gen, //
+sisuga    sisu+ga //_S_ Sg Com, //
+liiklust    liiklus+t //_S_ Sg Par, //
+suunavate    suuna=v+te //_A_ Pl Gen, //
+minisaitide    mini_sait+de //_S_ Pl Gen, //
+pidamine    pidamine+0 //_S_ Sg Nom, //
+täiesti    täiesti+0 //_D_ //
+eraldi    eraldi+0 //_D_ //
+tegevusvaldkond    tegevus_valdkond+0 //_S_ Sg Nom, //
+SEO-maailmas    SEO-maa_ilm+s //_S_ Sg Ine, //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+<kindel_piir/>
+on    ole+0 //_V_ Pers Prs Ind Pl3 Aff, //
+veebimeistreid    veebi_meister+id //_S_ Pl Par, //
+<kindel_piir/>
+kes    kes+0 //_P_ Pl Nom, //
+klientide    klient+de //_S_ Pl Gen, //
+teadmata    tead+mata //_V_ Pers Sup Abe, //
+nende    tema+de //_P_ Pl Gen, //
+veebe    veeb+e //_S_ Pl Par, //
+ära    ära+0 //_D_ //
+kasutavad    kasuta+vad //_V_ Pers Prs Ind Pl3 Aff, //
+–    - //_Z_ //
+ja    ja+0 //_J_ /
+<kindel_piir/>
+lisaks    lisa+ks //_S_ Sg Tra, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+hea    hea+0 //_A_ Sg Nom, //
+äri-idee    äri-idee+0 //_S_ Sg Nom, //
+häkkida    häkki+da //_V_ Inf, //
+massiliselt    massiliselt+0 //_D_ //
+veebisaitidesse    veebi_sait+desse //_S_ Pl Ill, //
+<kindel_piir/>
+pannes    pane+es //_V_ Ger, //
+need    see+d //_P_ Pl Nom, //
+linke    link+e //_S_ Pl Par, //
+kuvama    kuva+ma //_V_ Pers Sup Ill, //
+</s>
+</p>
+<p heading="0">
+<s>
+Vaadates    vaata+tes //_V_ Ger, //
+Optimi    Optim+0 //_H_ Sg Gen, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+nende    tema+de //_P_ Pl Gen, //
+klientide    klient+de //_S_ Pl Gen, //
+sape.ru    sape.ru+0 //_Q_ //
+börsilinke    börsi_link+e //_S_ Pl Par, //
+<kindel_piir/>
+paistab    paist+b //_V_ Pers Prs Ind Sg3 Aff, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+.ru    .ru //_Q_ //
+puhul    puhul+0 //_K_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+tegemist    tegemine+t //_S_ Sg Par, //
+peamiselt    peamiselt+0 //_D_ //
+linke    link+e //_S_ Pl Par, //
+müüvate    müüv+te //_A_ Pl Gen, //
+veebidega    veeb+dega //_S_ Pl Com, //
+ja    ja+0 //_J_ //
+mitte-.ru    mitte-.ru+0 //_Y_ ?, //
+puhul    puhul+0 //_K_ //
+häkitud    häki=tud+d //_A_ Pl Nom, //
+saitidega    sait+dega //_S_ Pl Com, //
+–    - //_Z_ //
+<kindel_piir/>
+muuhulgas    muu_hulgas+0 //_D_ //
+jäi    jää+i //_V_ Pers Prt Ind Sg3 Aff, //
+silma    silm+0 //_S_ Sg Ill, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+samal    sama+l //_P_ Sg Ade, //
+päeval    päev+l //_S_ Sg Ade, //
+<kiil>
+(    ( //_Z_ //
+öösel    öösel+0 //_D_ //
+)    ) //_Z_ //
+</kiil>
+saates    saade+s //_S_ Sg Ine, //
+mainitud    mainitud+0 //_A_ //
+vallaveebiga    valla_veeb+ga //_S_ Sg Com, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+täpselt    täpselt+0 //_D_ //
+sama    sama+0 //_P_ Sg Gen, //
+kood    kood+0 //_S_ Sg Nom, //
+lisatud    lisa+tud //_V_ Impers Prt Prc, //
+ka    ka+0 //_D_ //
+ühte    üks+0 //_P_ Sg Ill, //
+hispaaniakeelsesse    hispaania_keelne+sse //_A_ Sg Ill, //
+veebi    veeb+0 //_S_ Sg Ill, //
+<kindel_piir/>
+ehk    ehk+0 //_J_ //
+tegu    tegu+0 //_S_ Sg Nom, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+olnud    ole+nud //_V_ Pers Prt Prc, //
+business-as-usual    business-as-usual+0 //_Q_ //    
+häkkeriga    häkker+ga //_S_ Sg Com, //
+<kindel_piir/>
+kes    kes+0 //_P_ Sg Nom, //
+tõenäoliselt    tõe_näoliselt+0 //_D_ //
+hankis    hanki+s //_V_ Pers Prt Ind Sg3 Aff, //
+endale    ise+le //_P_ Sg All, //
+veidike    veidike+0 //_D_ //
+FTP-paroole    FTP-parool+e //_S_ Pl Par, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+asus    asu+s //_V_ Pers Prt Ind Sg3 Aff, //
+nende    see+de //_P_ Pl Gen, //
+abil    abi+l //_S_ Sg Ade, //
+raha    raha+0 //_S_ Sg Par, //
+teenima    teeni+ma //_V_ Pers Sup Ill, //
+<kiil>
+(    ( //_Z_ //
+vaadates    vaata+tes //_V_ Ger, //
+vallaveebi    valla_veeb+0 //_S_ Sg Gen, //
+logisid    logi+sid //_S_ Pl Par, //
+<kindel_piir/>
+pakun    pakku+n //_V_ Pers Prs Ind Sg1 Aff, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+häkker    häkker+0 //_S_ Sg Nom, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+pärit    pärit+0 //_X_ //
+vene/ukraina    vene/ukraina+0 //_G_ //
+suunalt    suund+lt //_S_ Sg Abl, //
+)    ) //_Z_ //
+</kiil>
+</s>
+</p>
+<p heading="0">
+<s>
+Pärast    pärast+0 //_D_ //
+Pealtnägija    Pealt_nägija+0 //_H_ Sg Gen, //
+intervjuud    intervjuu+d //_S_ Sg Par, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+Optim    Optim+0 //_H_ Sg Nom, //
+lisanud    lisa+nud //_V_ Pers Prt Prc, //
+oma    oma+0 //_P_ Sg Gen, //
+veebi    veeb+0 //_S_ Sg Ill, //
+tööriista    töö_riist+0 //_S_ Sg Gen, //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+peaks    pida+ks //_V_ Pers Prs Cond, //
+aitama    aita+ma //_V_ Pers Sup Ill, //
+leida    leid+a //_V_ Inf, //
+veebilehele    veebi_leht+le //_S_ Sg All, //
+peidetud    peidetud+0 //_A_ //
+spämm-linke    spämm-link+e //_S_ Pl Par, //
+ning    ning+0 //_J_ //
+deklaratsiooni    deklaratsioon+0 //_S_ Sg Par, //
+:    : //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Optim    Optim+0 //_H_ Sg Nom, //
+Technology    Technology+0 //_H_ Sg Nom, //
+eksperimenteerib    eksperimenteeri+b //_V_ Pers Prs Ind Sg3 Aff, //
+aktiivselt    aktiivselt+0 //_D_ //
+rahvusvaheliste    rahvus_vaheline+te //_A_ Pl Gen, //
+tehnoloogiatega    tehnoloogia+tega //_S_ Pl Com, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ Pl Nom, //
+hõlmavad    hõlma+vad //_V_ Pers Prs Ind Pl3 Aff, //
+ka    ka+0 //_D_ //
+lingibörside    lingi_börs+de //_S_ Pl Gen, //
+kasutamist    kasutamine+t //_S_ Sg Par, //
+.    . //_Z_ //
+</s>
+<s>
+Samas    samas+0 //_D_ //
+soovime    soovi+me //_V_ Pers Prs Ind Pl1 Aff, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+linkide    link+de //_S_ Pl Gen, //
+müük    müük+0 //_S_ Sg Nom, //
+Eesti    Eesti+0 //_H_ Sg Gen, //
+Vabariigis    Vaba_riik+s //_H_ Sg Ine, //
+toimuks    toimu+ks //_V_ Pers Prs Cond, //
+100    100+0 //_N_ ?, //
+%    %+0 //_Y_ ?, //
+seaduslikel    seaduslik+el //_A_ Pl Ade, //
+alustel    alus+tel //_S_ Pl Ade, //
+.    . //_Z_ //
+</s>
+<s>
+Pole    ole+0 //_V_ Pers Prs Ind Neg, //
+midagi    miski+dagi //_P_ Sg Par, //
+halba    halb+0 //_S_ Sg Par, //
+selles    see+s //_P_ Sg Ine, //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_J_ //
+koduleht    kodu_leht+0 //_S_ Sg Nom, //
+osaleb    osale+b //_V_ Pers Prs Ind Sg3 Aff, //
+lingibörsidel    lingi_börs+del //_S_ Pl Ade, //
+lehe    leht+0 //_S_ Sg Gen, //
+omaniku    omanik+0 //_S_ Sg Gen, //
+soovil    soov+l //_S_ Sg Ade, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+teenides    teeni+des //_V_ Ger, //
+omanikule    omanik+le //_S_ Sg All, //
+lisatulu    lisa_tulu+0 //_S_ Sg Par, //
+.    . //_Z_ //
+</s>
+<s>
+Samuti    samuti+0 //_D_ //
+tuleks    tule+ks //_V_ Pers Prs Cond, //
+sellisel    selline+l //_P_ Sg Ade, //
+viisil    viis+l //_S_ Sg Ade, //
+teenitud    teenitud+0 //_A_ //
+tulult    tulu+lt //_S_ Sg Abl, //
+maksta    maks+ta //_V_ Inf, //
+ka    ka+0 //_D_ //
+seadustega    seadus+tega //_S_ Pl Com, //
+määratud    määratud+0 //_A_ //
+maksud    maks+d //_S_ Pl Nom, //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Paraku    paraku+0 //_D_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+Optim    Optim+0 //_H_ Sg Nom, //
+kas    kas+0 //_D_ //
+jätnud    jät+nud //_V_ Pers Prt Prc, //
+lugemata    luge+mata //_V_ Pers Sup Abe, //
+Google’i    Google+0 //_H_ Sg Gen, //
+veebimeistritele    veebi_meister+tele //_S_ Pl All, //
+mõeldud    mõel=dud+0 //_A_ //
+Quality    Quality+0 //_Q_ //
+guidelines’i    guidelines+0 //_S_ Sg Gen, //
+<kiil>
+(    ( //_Z_ //
+ehk    ehk+0 //_D_ //
+nad    tema+d //_P_ Pl Nom, //
+ei    ei+0 //_V_ Neg, //
+jaga    jaga+0 //_V_ Pers Prs Ind Neg, //
+SEO’st    SEO+st //_Y_ Ela, //
+ööd    öö+d //_S_ Sg Par, //
+ega    ega+0 //_J_ //
+mütsi    müts+0 //_S_ Sg Par, //
+,    , //_Z_ //
+<kindel_piir/>
+milles    mis+s //_P_ Sg Ine, //
+ma    mina+0 //_P_ Sg Nom, //
+sügavalt    sügavalt+0 //_D_ //
+kahtlen    kahtle+n //_V_ Pers Prs Ind Sg1 Aff, //
+)    ) //_Z_ //
+</kiil>
+või    või+0 //_J_ //
+<kindel_piir/>
+eksitab    eksita+b //_V_ Pers Prs Ind Sg3 Aff, //
+tahtlikult    tahtlikult+0 //_D_ //
+oma    oma+0 //_P_ Sg Gen, //
+kliente    klient+e //_S_ Pl Par, //
+–    - //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+vägagi    väga+gi //_D_ //
+selge    selge+0 //_A_ Sg Gen, //
+sõnaga    sõna+ga //_S_ Sg Com, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+seal    seal+0 //_D_ //
+öeldud    ütle+dud //_V_ Impers Prt Prc, //
+nii    nii+0 //_D_ //
+:    : //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Tegemist    tegemine+t //_S_ Sg Par, //
+ei    ei+0 //_V_ Neg, //
+ole    ole+0 //_V_ Pers Prs Ind Neg, //
+muideks    muideks+0 //_D_ // 
+mingi    mingi+0 //_P_ Sg Gen, //
+uue    uus+0 //_A_ Sg Gen, //
+teemaga    teema+ga //_S_ Sg Com, //
+,    , //_Z_ //
+<kindel_piir/>
+näiteks    näide+ks //_S_ Sg Tra, //
+jääb    jää+b //_V_ Pers Prs Ind Sg3 Aff, //
+kiire    kiire+0 //_A_ Sg Gen, //
+guugeldamisega    guugelda=mine+ga //_S_ Sg Com, //
+näppu    näpp+0 //_S_ Sg Ill, //
+Matt    Matt+0 //_H_ Sg Nom, //
+Cutts’i    Cutts+0 //_H_ Sg Gen, //
+postitus    postitus+0 //_S_ Sg Nom, //
+aastast    aasta+st //_S_ Sg Ela, //
+2005    2005+0 //_N_ ?, //
+Text    Text+0 //_Q_ //
+links    links+0 //_Q_ //
+and    and+0 //_Q_ //
+PageRank    PageRank+0 //_Q_ //
+-    - //_Z_ //
+<kindel_piir/>
+ehk    ehk+0 //_J_ //
+Google    Google+0 //_H_ Sg Nom, //
+tegeleb    tegele+b //_V_ Pers Prs Ind Sg3 Aff, //
+aktiivselt    aktiivselt+0 //_D_ //
+sellega    see+ga //_P_ Sg Com, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+tabada    taba+da //_V_ Inf, //
+müüdud    müü=dud+0 //_A_ //
+linke    link+e //_S_ Pl Par, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+vältida    välti+da //_V_ Inf, //
+nende    see+de //_P_ Pl Gen, //
+arvestamist    arvestamine+t //_S_ Sg Par, //
+otsitulemuste    otsitulem=us+te //_S_ Pl Gen, //
+järjestamisel    järjesta=mine+l //_S_ Sg Ade, //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Olgu    ole+gu //_V_ Pers Prs Imprt, //
+lisatud    lisa+tud //_V_ Impers Prt Prc, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+peidetud    peidetud+0 //_A_ //
+linkide    link+de //_S_ Pl Gen, //
+avastamisel    avastamine+l //_S_ Sg Ade, //
+saab    saa+b //_V_ Pers Prs Ind Sg3 Aff, //
+linkiv    linki=v+0 //_A_ Sg Nom, //
+sait    sait+0 //_S_ Sg Nom, //
+nipsti    nipsti+0 //_D_ //
+indeksist    indeks+st //_S_ Sg Ela, //
+kinga    king+0 //_S_ Sg Par, //
+–    - //_Z_ //
+<kindel_piir/>
+näiteks    näide+ks //_S_ Sg Tra, //
+sattusin    sattu+sin //_V_ Pers Prt Ind Sg1 Aff, //
+ma    mina+0 //_P_ Sg Nom, //
+2009-suvel    2009-suvi+l //_S_ Sg Ade, //
+mõnede    mõni+de //_P_ Pl Gen, //
+Eesti    Eesti+0 //_H_ Sg Gen, //
+saitide    sait+de //_S_ Pl Gen, //
+peale    peale+0 //_K_ //
+<kindel_piir/>
+mille    mis+0 //_P_ Pl Gen, //
+sappa    saba+0 //_S_ Sg Ill, //
+oli    ole+i //_V_ Pers Prt Ind Sg3 Aff, //
+neid    see+d //_P_ Pl Par, //
+haldav    haldav+0 //_A_ Sg Nom, //
+veebimeister    veebi_meister+0 //_S_ Sg Nom, //
+lisanud    lisa+nud //_V_ Pers Prt Prc, //
+lingid    link+d //_S_ Pl Nom, //
+parim-ee    parim-ee+0 //_Q_ //
+kataloogi    kataloog+0 //_S_ Sg Gen, //
+alamlehtedele    alam_leht+dele //_S_ Pl All, //
+.    . //_Z_ //
+</s>
+<s>
+Palusin    palu+sin //_V_ Pers Prt Ind Sg1 Aff, //
+saidi-omanikul    saidi-omanik+l //_S_ Sg Ade, //
+lisada    lisa+da //_V_ Inf, //
+lehele    leht+le //_S_ Sg All, //
+Google    Google+0 //_H_ Sg Gen, //
+Webmasters    Webmasters+0 //_H_ Sg Nom, //
+Tool’i    Tool+0 //_H_ Sg Gen, //
+tuvastuskoodi    tuvastus_kood+0 //_S_ Sg Gen, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+sain    saa+in //_V_ Pers Prt Ind Sg1 Aff, //
+peagi    peagi+0 //_D_ //
+näha    näge+a //_V_ Inf, //
+järgmist    järgmine+t //_A_ Sg Par, //
+teadet    teade+t //_S_ Sg Par, //
+<kiil>
+(    ( //_Z_ //
+kuna    kuna+0 //_J_ //
+veebimeister    veebi_meister+0 //_S_ Sg Nom, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+vahepeal    vahe_peal+0 //_D_ //
+vahetunud    vahetu+nud //_V_ Pers Prt Prc, //
+<kindel_piir/>
+peidan    peit+n //_V_ Pers Prs Ind Sg1 Aff, //
+saidi    sait+0 //_S_ Sg Gen, //
+nime    nimi+0 //_S_ Sg Gen, //
+)    ) //_Z_ //
+</kiil>
+:    : //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Ja    ja+0 //_J_ //
+otseloomulikult    otse_loomuliku=lt+0 //_D_ //
+pole    ole+0 //_V_ Pers Prs Ind Neg, //
+Google’i    Google+0 //_H_ Sg Gen, //
+poliitikas    poliitika+s //_S_ Sg Ine, //
+midagi    miski+dagi //_P_ Sg Par, //
+erakorralist    era_korraline+t //_A_ Sg Par, //
+,    , //_Z_ //
+<kindel_piir/>
+ka    ka+0 //_D_ //
+kõik    kõik+0 //_P_ Pl Nom, //
+teised    teine+d //_P_ Pl Nom, //
+otsimootorid    otsi_mootor+d //_S_ Pl Nom, //
+näevad    näge+vad //_V_ Pers Prs Ind Pl3 Aff, //
+vaeva    vaev+0 //_S_ Sg Par, //
+<kindel_piir/>
+pakkumaks    pakku+maks //_V_ Pers Sup Tra, //
+“    “ //_Z_ //
+orgaanilisi    orgaaniline+i //_A_ Pl Par, //
+”    ” //_Z_ //
+tulemusi    tulemus+i //_S_ Pl Par, //
+…    …+0 //_Y_ ?, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kes    kes+0 //_P_ Sg Nom, //
+mõistab    mõist+b //_V_ Pers Prs Ind Sg3 Aff, //
+venet    vene+t //_S_ Sg Par, //
+<kindel_piir/>
+võib    või+b //_V_ Pers Prs Ind Sg3 Aff, //
+vaadata    vaata+ta //_V_ Inf, //
+<kiil>
+(    ( //_Z_ //
+arvatavasti    arvatavasti+0 //_D_ //
+autorikaitse    autori_kaitse+0 //_S_ Sg Gen, //
+eesmärgil    ees_märk+l //_S_ Sg Ade, //
+suvaliste    suvaline+te //_A_ Pl Gen, //
+klipijuppidega    klipi_jupp+dega //_S_ Pl Com, //
+pikitud    pikki+tud //_V_ Impers Prt Prc, //
+)    ) //_Z_ //
+</kiil>
+intervjuud    intervjuu+d //_S_ Sg Par, //
+Война    Война+0 //_Q_ //
+между     между+0 //_Q_ //
+Яндекс    Яндекс+0 //_Q_ //
+и    и+0 //_Q_ //
+биржой    биржой+0 //_Q_ //
+ссылок    ссылок+0 //_Q_ //
+sape.ru    sape.ru+0 //_Q_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+viimase    viimane+0 //_A_ Sg Gen, //
+tehnikapealik    tehnika_pealik+0 //_S_ Sg Nom, //
+selgitab    selgita+b //_V_ Pers Prs Ind Sg3 Aff, //
+süsteemi    süsteem+0 //_S_ Sg Gen, //
+tööd    töö+d //_S_ Sg Par, //
+.    . //_Z_ //
+</s>
+<s>
+Muideks    muideks+0 //_D_ //
+–    - //_Z_ //
+isegi    isegi+0 //_D_ //
+Optimi    Optim+0 //_H_ Sg Gen, //
+ärimudel    äri_mudel+0 //_S_ Sg Nom, //
+<kiil>
+“    “ //_Z_ //
+arve    arve+0 //_S_ Sg Nom, //
+ainult    ainult+0 //_D_ //
+toimiva    toimiv+0 //_A_ Sg Gen, //
+positsioneerimise    positsioneeri=mine+0 //_S_ Sg Gen, //
+eest    eest+0 //_K_ //
+”    ” //_Z_ //
+</kiil>
+ei    ei+0 //_V_ Neg, //
+ole    ole+0 //_V_ Pers Prs Ind Neg, //
+unikaalne    unikaalne+0 //_A_ Sg Nom, //
+<kindel_piir/>
+vaid    vaid+0 //_J_ //
+lingibörsi-vahenduse    lingi_börsi-vahendus+0 //_S_ Sg Gen, //
+vallas    vald+s //_S_ Sg Ine, //
+pigem    pigem+0 //_D_ //
+tavapärane    tava_pärane+0 //_A_ Sg Nom, //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Tänu    tänu+0 //_K_ //
+tegelastele    tegelane+tele //_S_ Pl All, //
+<kiil>
+nagu    nagu+0 //_J_ //
+sape.ru    sape.ru+0 //_Q_ //
+ja    ja+0 //_J_ //
+selliste    selline+te //_P_ Pl Gen, //
+teenuste    teenus+te //_S_ Pl Gen, //
+pisivahendajatele    pisi_vahendaja+tele //_S_ Pl All, //
+nagu    nagu+0 //_J_ //
+Optim    Optim+0 //_H_ Sg Nom, //
+</kiil>
+saavad    saa+vad //_V_ Pers Prs Ind Pl3 Aff, //
+kasutajad    kasutaja+d //_S_ Pl Nom, //
+otsitulemusi    otsitulem=us+i //_S_ Pl Par, //
+<kindel_piir/>
+mis    mis+0 //_P_ Pl Nom, //
+ei    ei+0 //_V_ Neg, //
+vii    vii+0 //_V_ Pers Prs Ind Neg, //
+neid    tema+d //_P_ Pl Par, //
+mitte    mitte+0 //_D_ //
+parima    parim+0 //_U_ Sg Gen, //
+kliendireputatsiooniga    kliendi_reputatsioon+ga //_S_ Sg Com, //
+ettevõtte    ette_võte+0 //_S_ Sg Gen, //
+juurde    juurde+0 //_K_ //
+<kindel_piir/>
+vaid    vaid+0 //_J_ //
+seltskonda    seltskond+0 //_S_ Sg Ill, //
+<kindel_piir/>
+keda    kes+da //_P_ Sg Par, //
+ei    ei+0 //_V_ Neg, //	
+häiri    häiri+0 //_V_ Pers Prs Ind Neg, //
+ebaeetiline    eba_eetiline+0 //_A_ Sg Nom, //
+turundus    turundus+0 //_S_ Sg Nom, //
+kanalites    kanal+tes //_S_ Pl Ine, //
+<kindel_piir/>
+mille    mis+0 //_P_ Pl Gen, //
+peamiseks    peamine+ks //_A_ Sg Tra, //
+kasutajaks    kasutaja+ks //_S_ Sg Tra, //
+tunduvad    tundu+vad //_V_ Pers Prs Ind Pl3 Aff, //
+olema    ole+ma //_V_ Pers Sup Ill, //
+saidid    sait+d //_S_ Pl Nom, //
+stiilis    stiil+s //_S_ Sg Ine, //
+asian-t33n-pr0n-com    asian-t33n-pr0n-com+0 //_Q_ //
+ja    ja+0 //_J_ //
+russian-mail-order-brides-co-uk    russian-mail-order-brides-co-uk+0 //_Q_ //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Septembri    september+0 //_S_ Sg Gen, //
+algul    algul+0 //_K_ //
+teemaga    teema+ga //_S_ Sg Com, //
+tegeledes    tegele+des //_V_ Ger, //
+jäi    jää+i //_V_ Pers Prt Ind Sg3 Aff, //
+silma    silm+0 //_S_ Sg Ill, //
+näiteks    näide+ks //_S_ Sg Tra, //
+selline    selline+0 //_P_ Sg Nom, //
+valik    valik+0 //_S_ Sg Nom, //
+Eesti    eesti+0 //_G_ //
+ettevõtete    ette_võte+te //_S_ Pl Gen, //
+domeene    domeen+e //_S_ Pl Par, //
+<kindel_piir/>
+mis    mis+0 //_P_ Pl Nom, //
+kasutasid    kasuta+sid //_V_ Pers Prt Ind Pl3 Aff, //
+sape.ru    sape.ru+0 //_Q_ //
+börsi    börs+0 //_S_ Sg Gen, //
+teenust    teenus+t //_S_ Sg Par, //
+<kiil>
+(    ( //_Z_ //
+samadel    sama+del //_P_ Pl Ade, //
+saitidel    sait+del //_S_ Pl Ade, //
+oli    ole+i //_V_ Pers Prt Ind Sg3 Aff, //
+ka    ka+0 //_D_ //
+Optimi    Optim+0 //_H_ Sg Gen, //
+enda    ise+0 //_P_ Sg Gen, //
+linke    link+e //_S_ Pl Par, //
+<kindel_piir/>
+miska    miska+0 //_P_ Sg Nom, //
+tundub    tundu+b //_V_ Pers Prs Ind Sg3 Aff, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+tegemist    tegemine+t //_S_ Sg Par, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+nimelt    nimelt+0 //_D_ //
+nende    tema+de //_P_ Pl Gen, //
+klientide    klient+de //_S_ Pl Gen, //
+ja    ja+0 //_J_ //
+mitte    mitte+0 //_D_ //
+omal-käel-üritajatega    oma+l-käe+l-üritaja+tega //_S_ Pl Com, //
+)    ) //_Z_ //
+</kiil>
+:    : //_Z_ //
+aknauksemaailm-ee    akna_ukse_maa_ilm-ee+0 //_Q_ //
+,    , //_Z_ //
+sfinksehitus-ee    sfinks_ehitus-ee+0 //_Q_ //
+,    , //_Z_ //
+kodusisu-ee    kodu_sisu-ee+0 //_Q_ //
+,    , //_Z_ //
+call-ee    call-ee+0 //_Q_ //
+,    , //_Z_ //
+veebiabi-ee    veebi_abi-ee+0 //_Q_ //
+,    , //_Z_ //
+planb-ee    planb-ee+0 //_Q_ //
+,    , //_Z_ //
+lenovo-ee    lenovo-ee+0 //_Q_ //
+,    , //_Z_ //
+ereal-ee    ereal-ee+0 //_Q_ //
+,    , //_Z_ //
+kauponline-ee    kauponline-ee+0 //_Q_ //
+,    , //_Z_ //
+uksetehas-ee    ukse_tehas-ee+0 //_Q_ //
+,    , //_Z_ //
+gidrocity-ee    gidrocity-ee+0 //_Q_ //
+.    . //_Z_ //
+</s>
+<s>
+Pealtnägija    Pealt_nägija+0 //_H_ Sg Gen, //
+tarbeks    tarve+ks //_S_ Sg Tra, //
+tehtud    tehtud+0 //_A_ //
+helita    heli+ta //_S_ Sg Abe, //
+kattevideo    katte_video+0 //_S_ Sg Gen, //
+otsimisest    otsimine+st //_S_ Sg Ela, //
+,    , //_Z_ //
+leidmisest    leidmine+st //_S_ Sg Ela, //
+ja    ja+0 //_J_ //
+peidetud    peidetud+0 //_A_ //
+linkidest    link+dest //_S_ Pl Ela, //
+leiab    leid+b //_V_ Pers Prs Ind Sg3 Aff, //
+siit    siit+0 //_D_ //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Nüüd    nüüd+0 //_D_ //
+aga    aga+0 //_D_ //
+tiba    tiba+0 //_S_ Sg Nom, //    tiba+0 //_D_ //
+tehnilisemaks    tehnilise=m+ks //_C_ Sg Tra, //
+–    - //_Z_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+siis    siis+0 //_D_ //
+asi    asi+0 //_S_ Sg Nom, //
+käib    käi+b //_V_ Pers Prs Ind Sg3 Aff, //
+?    ? //_Z_ //
+</s>
+<s>
+Hea    hea+0 //_A_ Sg Gen, //
+ülevaate    üle_vaade+0 //_S_ Sg Gen, //
+linkide    link+de //_S_ Pl Gen, //
+ostmisest    ostmine+st //_S_ Sg Ela, //
+SAPEs    SAPE+s //_Y_ Sg Ine, //
+annab    and+b //_V_ Pers Prs Ind Sg3 Aff, //
+nende    tema+de //_P_ Pl Gen, //
+enda    ise+0 //_P_ Sg Gen, //
+õppevideo    õppe_video+0 //_S_ Sg Nom, //
+http://vimeo.com/23869111    http://vimeo.com/23869111+0 //_Q_ //
+ja    ja+0 //_J_ //
+tõepoolest    tõe_poolest+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+tegemist    tegemine+t //_S_ Sg Par, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+väga    väga+0 //_D_ //
+vinge    vinge+0 //_A_ Sg Gen, //
+tööriistaga    töö_riist+ga //_S_ Sg Com, //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+muuhulgas    muu_hulgas+0 //_D_ //
+võimaldab    võimalda+b //_V_ Pers Prs Ind Sg3 Aff, //
+otsida    otsi+da //_V_ Inf, //
+sobilikke    sobilik+e //_A_ Pl Par, //
+saite    sait+e //_S_ Pl Par, //
+lähtuvalt    lähtuvalt+0 //_D_ //
+märksõnadest    märk_sõna+dest //_S_ Pl Ela, //
+ja    ja+0 //_J_ //
+pagerank’ist    pagerank+st //_S_ Sg Ela, // 
+,    , //_Z_ //
+hallata    halda+ta //_V_ Inf, //
+keerulisi    keeruline+i //_A_ Pl Par, //
+kampaaniad    kampaania+d //_S_ Pl Par, //
+ning    ning+0 //_J_ //
+kontrollida    kontrolli+da //_V_ Inf, //
+ostetud    oste=tud+0 //_A_ //
+linkide    link+de //_S_ Pl Gen, //
+toimimist    toimimine+t //_S_ Sg Par, //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Veebimeistri    veebi_meister+0 //_S_ Sg Gen, //
+jaoks    jaoks+0 //_K_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+olemas    ole+mas //_V_ Pers Sup Ine, //
+õpetused    õpetus+d //_S_ Pl Nom, //
+kõigi    kõik+0 //_P_ Pl Gen, //
+tuntud    tuntud+0 //_A_ //
+sisuhalduslahenduste    sisu_haldus_lahendus+te //_S_ Pl Gen, //
+jaoks    jaoks+0 //_K_ //
+–    - //_Z_ //
+<kindel_piir/>
+reeglina    reegel+na //_S_ Sg Ess, //
+PHP-kood    PHP-kood+0 //_S_ Sg Nom, //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+suhtleb    suhtle+b //_V_ Pers Prs Ind Sg3 Aff, //
+SAPE    SAPE+0 //_Y_ ?, //
+serveriga    server+ga //_S_ Sg Com, //
+,    , //_Z_ //
+<kindel_piir/>
+hangib    hanki+b //_V_ Pers Prs Ind Sg3 Aff, //
+sealt    sealt+0 //_D_ //
+värksed    värske+d //_A_ Pl Nom, //    
+lingid    link+d //_S_ Pl Nom, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+siis    siis+0 //_D_ //
+kuvab    kuva+b //_V_ Pers Prs Ind Sg3 Aff, //
+need    see+d //_P_ Pl Nom, //
+veebilehel    veebi_leht+l //_S_ Sg Ade, //
+sobilikus    sobilik+s //_A_ Sg Ine, //
+kohas    koht+s //_S_ Sg Ine, //
+.    . //_Z_ //
+</s>
+<s>
+Kood    kood+0 //_S_ Sg Nom, //
+sokutatakse    sokuta+takse //_V_ Impers Prs Ind Aff, //
+sisuhalduses    sisu_haldus+s //_S_ Sg Ine, //
+mõnda    mõni+0 //_P_ Sg Ill, //
+vähekäidavasse    vähe_käidav+sse //_A_ Sg Ill, //
+nurgatagusesse    nurga_tagune+sse //_S_ Sg Ill, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+näiteks    näide+ks //_S_ Sg Tra, //
+Lasva    Lasva+0 //_H_ Sg Gen, //
+valla    vald+0 //_S_ Sg Gen, //
+veebi    veeb+0 //_S_ Sg Gen, //
+puhul    puhul+0 //_K_ //
+pöördus    pöördu+s //_V_ Pers Prt Ind Sg3 Aff, //
+selle    see+0 //_P_ Sg Gen, //
+poole    poole+0 //_K_ //
+jupike    jupi=ke+0 //_S_ Sg Nom, //
+Typo3    Typo3+0 //_Q_ //
+index.php    index.php+0 //_Q_ //
+sabas    saba+s //_S_ Sg Ine, //
+:    : //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Nagu    nagu+0 //_J_ //
+näha    näge+a //_V_ Inf, //
+<kindel_piir/>
+lisatakse    lisa+takse //_V_ Impers Prs Ind Aff, //
+saidi    sait+0 //_S_ Sg Gen, //
+enda    ise+0 //_P_ Sg Gen, //
+linkidele    link+dele //_S_ Pl All, //
+ühtlasi    ühtlasi+0 //_D_ //
+noindex    noindex+0 //_S_ Sg Nom, // 
+<kindel_piir/>
+vältimaks    välti+maks //_V_ Pers Sup Tra, //
+väärtusliku    väärtuslik+0 //_A_ Sg Gen, //
+“    “ //_Z_ //
+lehemahla    lehe_mahl+0 //_S_ Sg Gen, //
+”    ” //_Z_ //
+lahjendamist    lahjenda=mine+t //_S_ Sg Par, //
+mitte-börsi    mitte-börs+0 //_S_ Sg Gen, //
+linkide    link+de //_S_ Pl Gen, //
+poolt    poolt+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Väga    väga+0 //_D_ //
+kaunis    kaunis+0 //_A_ Sg Nom, //
+ja    ja+0 //_J_ //
+professionaalne    professionaalne+0 //_A_ Sg Nom, //
+</s>
+</p>
+<p heading="0">
+<s>
+Pealtnägija    Pealt_nägija+0 //_H_ Sg Gen, //
+jaoks    jaoks+0 //_K_ //
+tehtud    tehtud+0 //_A_ //
+teises    teine+s //_O_ Sg Ine, //
+kattevideos    katte_video+s //_S_ Sg Ine, //
+soovitaks    soovi+taks //_V_ Impers Prs Cond, //
+aga    aga+0 //_D_ //
+eraldi    eraldi+0 //_D_ //
+vaadata    vaata+ta //_V_ Inf, //
+kohta    koht+0 //_S_ Sg Par, //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+algab    alga+b //_V_ Pers Prs Ind Sg3 Aff, //
+ca    ca+0 //_Y_ ?, //
+1:20    1:20+0 //_N_ ?, //
+peal    peal+0 //_K_ //
+–    - //_Z_ //
+<kindel_piir/>
+seal    seal+0 //_D_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+näha    näge+a //_V_ Inf, //
+konkreetse    konkreetne+0 //_A_ Sg Gen, //
+lingibörsikasutaja    lingi_börsi_kasutaja+0 //_S_ Sg Gen, //
+kood    kood+0 //_S_ Sg Nom, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+kui    kui+0 //_J_ //
+seda    see+da //_P_ Sg Par, //
+guugeldada    guugelda+da //_V_ Inf, //
+<kindel_piir/>
+tuleb    tule+b //_V_ Pers Prs Ind Sg3 Aff, //
+välja    välja+0 //_D_ //
+üks    üks+0 //_P_ Sg Nom, //
+hispaaniakeelne    hispaania_keelne+0 //_A_ Sg Nom, //
+sait    sait+0 //_S_ Sg Nom, //
+…    …+0 //_Y_ ?, //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+juhtumisi    juhtumisi+0 //_D_ //
+saanud    saa+nud //_V_ Pers Prt Prc, //
+endale    ise+le //_P_ Sg All, //
+börsikoodi    börsi_kood+0 //_S_ Sg Gen, //
+samal    sama+l //_P_ Sg Ade, //
+päeval    päev+l //_S_ Sg Ade, //
+Lasva    Lasva+0 //_H_ Sg Gen, //
+veebiga    veeb+ga //_S_ Sg Com, //
+ehk    ehk+0 //_J_ //
+08.11.2010    08.11.2010+0 //_N_ ?, //
+:    : //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Sarnast    sarnane+t //_A_ Sg Par, //
+SAPE-linkide    SAPE-link+de //_S_ Pl Gen, //
+märgendust    märgendus+t //_S_ Sg Par, //
+ehk    ehk+0 //_J_ //
+hakkas    hakka+s //_V_ Pers Prt Ind Sg3 Aff, //
+silma    silm+0 //_S_ Sg Ill, //
+veel    veel+0 //_D_ //
+mitmes    mitu+s //_P_ Sg Ine, //
+saidis    sait+s //_S_ Sg Ine, //
+,    , //_Z_ //
+enamus    enamus+0 //_S_ Sg Nom, //
+neist    see+st //_P_ Pl Ela, //
+Dreamhost’i    Dreamhost+0 //_H_ Sg Gen, //
+all    all+0 //_K_ //
+:    : //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Nagu    nagu+0 //_J_ //
+näha    näge+a //_V_ Inf, //
+<kiil>
+(    ( //_Z_ //
+vaata    vaata+0 //_V_ Pers Prs Imprt Sg2, //
+kasvõi    kas_või+0 //_D_ //
+kattevideo    katte_video+0 //_S_ Sg Gen, //
+liikuvad    liikuv+t //_A_ Sg Par, //
+pilti    pilt+0 //_S_ Sg Par, //
+)    ) //_Z_ //
+</kiil>
+käivitatakse    käivita+takse //_V_ Impers Prs Ind Aff, //
+kasutaja    kasutaja+0 //_S_ Sg Gen, //
+brauseris    brauser+s //_S_ Sg Ine, //
+javascript    javascript+0 //_S_ Sg Nom, //
+<kindel_piir/>
+mille    mis+0 //_P_ Sg Gen, //
+alla-laadimise    alla-laadimine+0 //_S_ Sg Gen, //
+käigus    käik+s //_S_ Sg Ine, //
+teavitatakse    teavita+takse //_V_ Impers Prs Ind Aff, //
+serverit    server+t //_S_ Sg Par, //
+muuhulgas    muu_hulgas+0 //_D_ //
+kasutusel    kasutus+l //_S_ Sg Ade, //
+olevast    olev+st //_A_ Sg Ela, //
+brauserist    brauser+st //_S_ Sg Ela, //
+…    … //_Z_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+see    see+0 //_P_ Sg Nom, //
+c=    c+0 //_Y_ ?, //
+parameeter    parameeter+0 //_S_ Sg Nom, //
+sisaldanuks    sisalda+nuks //_V_ Pers Prt Cond, //
+saidi    sait+0 //_S_ Sg Gen, //
+cookie’t    cookie+t //_S_ Sg Par, // 
+<kiil>
+(    ( //_Z_ //
+mis    mis+0 //_P_ Sg Nom, //
+võimaldaks    võimalda+ks //_V_ Pers Prs Cond, //
+mh    mh+0 //_Y_ ?, //
+tulevikus    tulevik+s //_S_ Sg Ine, //
+minuna    mina+na //_P_ Sg Ess, //
+sisse    sisse+0 //_D_ //
+logida    logi+da //_V_ Inf, //
+)    ) //_Z_ //
+</kiil>
+ning    ning+0 //_J_ //
+r=    r+0 //_Y_ ?, //
+refereri    referer+0 //_S_ Sg Par, //
+<kiil>
+(    ( //_Z_ //
+ehk    ehk+0 //_J_ //
+kuidas    kuidas+0 //_D_ //
+kasutaja    kasutaja+0 //_S_ Sg Nom, //
+laagri    laager+0 //_S_ Sg Gen, //
+lehele    leht+le //_S_ Sg All, //
+tuli    tule+i //_V_ Pers Prt Ind Sg3 Aff, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Vot    vot+0 //_I_ //
+nii    nii+0 //_D_ //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Kes    kes+0 //_P_ Sg Nom, //
+oskab    oska+b //_V_ Pers Prs Ind Sg3 Aff, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+tahav    taht+b //_V_ Pers Prs Ind Sg3 Aff, //
+<kindel_piir/>
+kaevab    kaeva+b //_V_ Pers Prs Ind Sg3 Aff, //
+<kiil>
+(    ( //_Z_ //
+või    või+0 //_J_ //
+kaebab    kaeba+b //_V_ Pers Prs Ind Sg3 Aff, //
+)    ) //_Z_ //
+</kiil>
+edasi    edasi+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+mina    mina+0 //_P_ Sg Nom, //
+nüüd    nüüd+0 //_D_ //
+jälle    jälle+0 //_D_ //
+jupp    jupp+0 //_S_ Sg Nom, //
+aega    aeg+0 //_S_ Sg Par, //
+meedias    meedia+s //_S_ Sg Ine, //
+ei    ei+0 //_V_ Neg, //
+esine    esine+0 //_V_ Pers Prs Ind Neg, //
+(    ( //_Z_ //
+<kindel_piir/>
+see    see+0 //_P_ Sg Nom, //
+siin    siin+0 //_D_ //
+oli    ole+i //_V_ Pers Prt Ind Sg3 Aff, //
+lihtsalt    lihtsalt+0 //_D_ //
+liiga    liiga+0 //_D_ //
+huvitav    huvitav+0 //_A_ Sg Nom, //
+juhtum    juhtum+0 //_S_ Sg Nom, //
+–    - //_Z_ //
+<kindel_piir/>
+olen    ole+n //_V_ Pers Prs Ind Sg1 Aff, //
+nimelt    nimelt+0 //_D_ //
+mõnda    mõni+da //_P_ Sg Par, //
+aega    aeg+0 //_S_ Sg Par, //
+pisteliselt    pisteliselt+0 //_D_ //
+peidetud    peidetud+0 //_A_ //
+linkide    link+de //_S_ Pl Gen, //
+teemaga    teema+ga //_S_ Sg Com, //
+kokku    kokku+0 //_D_ //
+puutunud    puutu+nud //_V_ Pers Prt Prc, //   puutu=nu+d //_S_ Pl Nom, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+aidanud    aita+nud //_V_ Pers Prt Prc, //
+veebe    veeb+e //_S_ Pl Par, //
+puhastada    puhasta+da //_V_ Inf, //
+/    / //_Z_ //
+turvaintsidente    turva_intsident+e //_S_ Pl Par, //
+lahendada    lahenda+da //_V_ Inf, //
+;    ; //_Z_ //
+<kindel_piir/>
+lisaks    lisa+ks //_S_ Sg Tra, //
+mainis    maini+s //_V_ Pers Prt Ind Sg3 Aff, //
+Mihkel    Mihkel+0 //_H_ Sg Nom, //
+Kärmas    Kärmas+0 //_H_ Sg Nom, //
+mulle    mina+lle //_P_ Sg All, //
+teemat    teema+t //_S_ Sg Par, //
+kohas    koht+s //_S_ Sg Ine, //
+<kindel_piir/>
+mille    mis+0 //_P_ Sg Gen, //
+veebis    veeb+s //_S_ Sg Ine, //
+ma    mina+0 //_P_ Sg Nom, //
+2009-suvel    2009-suvi+l //_S_ Sg Ade, //
+esimest    esimene+t //_O_ Sg Par, //
+korda    kord+0 //_S_ Sg Par, //
+peidetud    peidetud+0 //_A_ //
+linkidega    link+dega //_S_ Pl Com, //
+kokku    kokku+0 //_D_ //
+puutusin    puutu+sin //_V_ Pers Prt Ind Sg1 Aff, //
+…    …+0 //_Y_ ?, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+ma    mina+0 //_P_ Sg Nom, //
+lihtsalt    lihtsalt+0 //_D_ //
+ei    ei+0 //_V_ Neg, //
+saanud    saa+nud //_V_ Pers Prt Ind Neg, //
+jälgida    jälgi+da //_V_ Inf, //
+oma    oma+0 //_P_ Sg Gen, //
+head    hea+d //_A_ Sg Par, //
+tava    tava+0 //_S_ Sg Par, //
+anda    and+a //_V_ Inf, //
+veidi    veidi+0 //_D_ //
+taustainfot    tausta_info+t //_S_ Sg Par, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+siis    siis+0 //_D_ //
+ajakirjanik    aja_kirjanik+0 //_S_ Sg Nom, //
+pikalt    pikalt+0 //_D_ //
+saata    saat+a //_V_ Inf, //
+;    ; //_Z_ //
+<kindel_piir/>
+jamuideks    ja_muideks+0 //_D_ // 
+,    , //_Z_ //
+guugeldage    guugelda+ge //_V_ Pers Prs Imprt Pl2, //
+veidi    veidi+0 //_D_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+tekib    tekki+b //_V_ Pers Prs Ind Sg3 Aff, //
+tunne    tunne+0 //_S_ Sg Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+ka    ka+0 //_D_ //
+Optimi    Optim+0 //_H_ Sg Gen, //
+taga    taga+0 //_K_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+PR-    PR+0 //_Y_ ?, //
+ja    ja+0 //_J_ //
+ajakirjandusteaduskonna    aja_kirjandus_teaduskond+0 //_S_ Sg Gen, //
+lõpetanud    lõpetanu+d //_S_ Pl Nom, //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Javeelüks    ja_veel_üks+0 //_P_ Sg Nom, //
+usability    usability+0 //_Q_ //
+&amp;    &amp;+0 //_Q_ //
+<kindel_piir/>
+veebi    veeb+0 //_S_ Sg Gen, //
+lugu    lugu+0 //_S_ Sg Nom, //
+–    - //_Z_ //
+<kindel_piir/>
+proovisin    proovi+sin //_V_ Pers Prt Ind Sg1 Aff, //
+nimelt    nimelt+0 //_D_ //
+www.energia.ee    www.energia.ee+0 //_Q_ //
+uut    uus+t //_A_ Sg Par, //
+kliendiinfosüsteemi    kliendi_info_süsteem+0 //_S_ Sg Par, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+tunded    tunne+d //_S_ Pl Nom, //
+on    ole+0 //_V_ Pers Prs Ind Pl3 Aff, //
+<kiil>
+(    ( //_Z_ //
+vähemalt    vähemalt+0 //_D_ //
+esialgu    esi_algu+0 //_D_ //
+)    ) //_Z_ //
+</kiil>
+kahetised    kahetine+d //_A_ Pl Nom, //
+,    , //_Z_ //
+isegi    isegi+0 //_D_ //
+poole-kolmetised    poole-kolmetine+d //_A_ Pl Nom, //
+.    . //_Z_ //
+</s>
+<s>
+On    ole+0 //_V_ Pers Prs Ind Pl3 Aff, //
+mitmeid    mitu+id //_P_ Pl Par, //
+detailide    detail+de //_S_ Pl Gen, //
+lahendusi    lahendus+i //_S_ Pl Par, //
+<kindel_piir/>
+mida    mis+da //_P_ Pl Par, //
+tasuks    tasu+ks //_V_ Pers Prs Cond, //
+kindlasti    kindlasti+0 //_D_ //
+eeskujuks    ees_kuju+ks //_S_ Sg Tra, //
+võtta    võt+a //_V_ Inf, //
+ja    ja+0 //_J_ //
+maha    maha+0 //_D_ //
+viksida    viksi+da //_V_ Inf, //
+,    , //_Z_ //
+<kindel_piir/>
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+ühendatud    ühenda+tud //_V_ Impers Prt Prc, //
+avaliku    avalik+0 //_A_ Sg Gen, //
+ja    ja+0 //_J_ //
+kliendiveebi    kliendi_veeb+0 //_S_ Sg Gen, //
+mudel    mudel+0 //_S_ Sg Nom, //
+<kindel_piir/>
+millel    mis+l //_P_ Sg Ade, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+plusse    pluss+e //_S_ Pl Par, //
+koos    koos+0 //_K_ //
+<kiil>
+(    ( //_Z_ //
+minumeelest    minu_meel+st //_S_ Sg Ela, //
+)    ) //_Z_ //
+</kiil>
+liigse    liigne+0 //_A_ Sg Gen, //
+keerukusega    keerukus+ga //_S_ Sg Com, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+on    ole+0 //_V_ Pers Prs Ind Pl3 Aff, //
+ka    ka+0 //_D_ //
+kohti    koht+i //_S_ Pl Par, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ Pl Nom, //
+mul    mina+l //_P_ Sg Ade, //
+karva    karv+0 //_S_ Sg Gen, //
+tõsiselt    tõsiselt+0 //_D_ //
+turri    turri+0 //_D_ //
+ajavad    aja+vad //_V_ Pers Prs Ind Pl3 Aff, //
+.    . //_Z_ //
+</s>
+<s>
+Olen    ole+n //_V_ Pers Prs Ind Sg1 Aff, //
+eile-täna    eile-täna+0 //_D_ //
+pisikeste    pisike+te //_A_ Pl Gen, //
+juppide    jupp+de //_S_ Pl Gen, //
+kaupa    kaupa+0 //_K_ //
+püüdnud    püüd+nud //_V_ Pers Prt Prc, //
+mõista    mõist+a //_V_ Inf, //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+seal    seal+0 //_D_ //
+toimub    toimu+b //_V_ Pers Prs Ind Sg3 Aff, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+panen    pane+n //_V_ Pers Prs Ind Sg1 Aff, //
+kirja    kiri+0 //_S_ Sg Ill, //
+enne    enne+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_J_ //
+<kiil>
+(    ( //_Z_ //
+a    a+0 //_Y_ ?, //
+)    ) //_Z_ //
+</kiil>
+huvi    huvi+0 //_S_ Sg Nom, //
+kaob    kadu+b //_V_ Pers Prs Ind Sg3 Aff, //
+<kiil>
+(    ( //_Z_ //
+b    b+0 //_Y_ ?, //
+)    ) //_Z_ //
+</kiil>
+minust    mina+st //_P_ Sg Ela, //
+saab    saa+b //_V_ Pers Prs Ind Sg3 Aff, //
+profikasutaja    profi_kasutaja+0 //_S_ Sg Nom, //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Kõigepealt    kõige_pealt+0 //_D_ //
+sellest    see+st //_P_ Sg Ela, //
+keskmisest    keskmine+st //_A_ Sg Ela, //
+,    , //_Z_ //
+ehk    ehk+0 //_J_ //
+ühendatud    ühenda=tud+0 //_A_ //
+avalikust    avalik+st //_A_ Sg Ela, //
+ja    ja+0 //_J_ //
+kliendiveebist    kliendi_veeb+st //_S_ Sg Ela, //
+.    . //_Z_ //
+</s>
+<s>
+Sama    sama+0 //_P_ Sg Nom, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+Swedbankil    Swedbank+l //_H_ Sg Ade, //
+,    , //_Z_ //
+<kindel_piir/>
+<kiil>
+neid    see+d //_P_ Pl Par, //
+kahte    kaks+0 //_N_ Sg Par, //
+seob    sidu+b //_V_ Pers Prs Ind Sg3 Aff, //
+täiesti    täiesti+0 //_D_ //
+juhuslikult    juhuslikult+0 //_D_ //
+Margus    Margus+0 //_H_ Sg Nom, //
+Simson    Simson+0 //_H_ Sg Nom, //
+<kiil>
+(    ( //_Z_ //
+terv    terv+0 //_S_ Sg Nom, //
+!    ! //_Z_ //
+)    ) //_Z_ //
+</kiil>
+</kiil>
+–    - //_Z_ //
+aga    aga+0 //_J_ //
+kui    kui+0 //_J_ //
+Swedis    Swed+s //_H_ Sg Ine, //
+satun    sattu+n //_V_ Pers Prs Ind Sg1 Aff, //
+ma    mina+0 //_P_ Sg Nom, //
+sisselogimise    sisse_logi=mine+0 //_S_ Sg Gen, //
+järel    järel+0 //_K_ //
+oma    oma+0 //_P_ Sg Gen, //
+konto    konto+0 //_S_ Sg Gen, //
+“    “ //_Z_ //
+avalehele    ava_leht+le //_S_ Sg All, //
+”    ” //_Z_ //
+<kindel_piir/>
+siis    siis+0 //_J_ //
+uus    uus+0 //_A_ Sg Nom, //
+energia.ee    energia.ee+0 //_Q_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+realiseerinud    realiseeri+nud //_V_ Pers Prt Prc, //
+julge    julge+0 //_A_ Sg Gen, //
+nipi    nipp+0 //_S_ Sg Gen, //
+,    , //_Z_ //
+<kindel_piir/>
+lubades    luba+des //_V_ Ger, //
+mul    mina+l //_P_ Sg Ade, //
+turvalise    turvaline+0 //_A_ Sg Gen, //
+ID/mID/panga/isikukoodi+lepinguga    ID/mID/panga/isikukoodi+_leping+ga //_S_ Sg Com, //
+sisselogimise    sisse_logi=mine+0 //_S_ Sg Gen, //
+järel    järel+0 //_K_ //
+jääda    jää+da //_V_ Inf, //
+8    8+0 //_N_ ?, //
+nädalaks    nädal+ks //_S_ Sg Tra, //
+tuvastatuks    tuvasta=tud+ks //_A_ Sg Tra, //
+<kiil>
+(    ( //_Z_ //
+mõned    mõni+d //_P_ Pl Nom, //
+karmimad    karmim+d //_C_ Pl Nom, //
+tegevused    tegevus+d //_S_ Pl Nom, //
+nõuavad    nõud+vad //_V_ Pers Prs Ind Pl3 Aff, //
+hiljem    hiljem+0 //_D_ //
+sessiooni    sessioon+0 //_S_ Sg Gen, //
+taas-autentimist    taas-autenti=mine+t //_S_ Sg Par, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+mõistlik    mõistlik+0 //_A_ Sg Nom, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Praktikas    praktika+s //_S_ Sg Ine, //
+tähendab    tähenda+b //_V_ Pers Prs Ind Sg3 Aff, //
+see    see+0 //_P_ Sg Nom, //
+seda    see+da //_P_ Sg Par, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+millal    millal+0 //_D_ //
+iganes    iganes+0 //_D_ //
+energia.ee    energia.ee+0 //_Q_ //
+veebi    veeb+0 //_S_ Sg Ill, //
+naastes    naas+tes //_V_ Ger, //
+satun    sattu+n //_V_ Pers Prs Ind Sg1 Aff, //
+ma    mina+0 //_P_ Sg Nom, //
+tiba    tiba+0 //_D_ //
+personaliseeritud    personaliseeri=tud+0 //_A_ //
+esilehele    esi_leht+le //_S_ Sg All, //
+,    , //_Z_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+paremas    parem+s //_C_ Sg Ine, //
+servas    serv+s //_S_ Sg Ine, //
+võimalik    võimalik+0 //_A_ Sg Nom, //
+teatada    teata+da //_V_ Inf, //
+näite    näit+e //_S_ Pl Par, //
+ja    ja+0 //_J_ //
+näha    näge+a //_V_ Inf, //
+võlgnevust    võlgnevus+t //_S_ Sg Par, //
+–    - //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+tõenäoliselt    tõe_näoliselt+0 //_D_ //
+ka    ka+0 //_D_ //
+peamine    peamine+0 //_A_ Sg Nom, //
+põhjus    põhjus+0 //_S_ Sg Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+miks    miks+0 //_D_ //
+ma    mina+0 //_P_ Sg Nom, //
+sinna    sinna+0 //_D_ //
+veebi    veeb+0 //_S_ Sg Ill, //
+satun    sattu+n //_V_ Pers Prs Ind Sg1 Aff, //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+AGA    aga+0 //_J_ //
+kui    kui+0 //_J_ //
+ma    mina+0 //_P_ Sg Nom, //
+tulen    tule+n //_V_ Pers Prs Ind Sg1 Aff, //
+veebi    veeb+0 //_S_ Sg Ill, //
+,    , //_Z_ //
+<kindel_piir/>
+login    logi+n //_V_ Pers Prs Ind Sg1 Aff, //
+ennast    ise+t //_P_ Sg Par, //
+sisse    sisse+0 //_D_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+satun    sattu+n //_V_ Pers Prs Ind Sg1 Aff, //
+oodatud    oodatud+0 //_A_ //
+iseteeninduse    ise_teenindus+0 //_S_ Sg Gen, //
+asemel    asemel+0 //_K_ //
+esilehele    esi_leht+le //_S_ Sg All, //
+<kindel_piir/>
+<kiil>
+kus    kus+0 //_D_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+paremal    paremal+0 //_D_ //
+näiduteatamine    näidu_teatamine+0 //_S_ Sg Nom, //
+,    , //_Z_ //
+vasakul    vasakul+0 //_D_ //
+mingi    mingi+0 //_P_ Sg Nom, //
+tervitus    tervitus+0 //_S_ Sg Nom, //
+ja    ja+0 //_J_ //
+allpool    all_pool+0 //_D_ //
+…    …+0 //_Y_ ?, //
+noh    noh+0 //_D_ //
+justnagu    just_nagu+0 //_D_ //
+ülejäänud    üle_jäänud+0 //_A_ //
+EE    ee+0 //_I_ //
+veeb    veeb+0 //_S_ Sg Nom, //
+</kiil>
+<kiil>
+(    ( //_Z_ //
+selle    see+0 //_P_ Sg Gen, //
+eripäraga    eri_pära+ga //_S_ Sg Com, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+iseteenindusse    ise_teenindus+se //_S_ Sg Ill, //
+sisenemise    sisenemine+0 //_S_ Sg Gen, //
+nupp    nupp+0 //_S_ Sg Nom, //
+midagi    miski+dagi //_P_ Sg Par, //
+ei    ei+0 //_V_ Neg, //
+tee    tege+0 //_V_ Pers Prs Ind Neg, //
+)    ) //_Z_ //
+</kiil>
+olen    ole+n //_V_ Pers Prs Ind Sg1 Aff, //
+ma    mina+0 //_P_ Sg Nom, //
+pehmelt    pehmelt+0 //_D_ //
+öeldes    ütle+des //_V_ Ger, //
+taburetilt    taburet+lt //_S_ Sg Abl, //
+tõugatud    tõugatud+0 //_A_ //
+.    . //_Z_ //
+</s>
+<s>
+Umbes    umbes+0 //_D_ //
+kolmandal    kolmas+l //_O_ Sg Ade, //
+korral    kord+l //_S_ Sg Ade, //
+hakkasin    hakka+sin //_V_ Pers Prt Ind Sg1 Aff, //
+ma    mina+0 //_P_ Sg Nom, //
+aru    aru+0 //_S_ Sg Par, //
+saama    saa+ma //_V_ Pers Sup Ill, //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+toimub    toimu+b //_V_ Pers Prs Ind Sg3 Aff, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+see    see+0 //_P_ Sg Nom, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+natuke    natuke+0 //_D_ //
+palju    palju+0 //_D_ //
+,    , //_Z_ //
+IMHO    IMHO+0 //_Y_ ?, //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Yess    Yess+0 //_I_ //
+,    , //_Z_ //
+ID    id+0 //_Y_ ?, //
+ja    ja+0 //_J_ //
+mID    mID+0 //_Y_ ?, //
+on    ole+0 //_V_ Pers Prs Ind Pl3 Aff, //
+esile    esile+0 //_D_ //
+toodud    too+dud //_V_ Impers Prt Prc, //
+,    , //_Z_ //
+ilma    ilma+0 //_K_ //
+tobeda    tobe+0 //_A_ Sg Gen, //
+graafikata    graafika+ta //_S_ Sg Abe, //
+,    , //_Z_ //
+<kindel_piir/>
+mainitud    maini+tud //_V_ Impers Prt Prc, //
+võimalus    võimalus+0 //_S_ Sg Nom, //
+meeldejätmiseks    meel+de_jätmine+ks //_S_ Sg Tra, //
+koos    koos+0 //_K_ //
+inimkeelse    inim_keelne+0 //_A_ Sg Gen, //
+selgitusega    selgitus+ga //_S_ Sg Com, //
+–    - //_Z_ //
+<kindel_piir/>
+ja    ja+0 //_J_ //
+pangalingid    panga_link+d //_S_ Pl Nom, //
+on    ole+0 //_V_ Pers Prs Ind Pl3 Aff, //
+diskreetselt    diskreetselt+0 //_D_ //
+ära    ära+0 //_D_ //
+peidetud    peit+tud //_V_ Impers Prt Prc, //
+ent    ent+0 //_J_ //
+vajadusel    vajadus+l //_S_ Sg Ade, //
+kättesaadavad    kätte_saadav+d //_A_ Pl Nom, //
+.    . //_Z_ //
+</s>
+<s>
+Kusjuures    kus_juures+0 //_D_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+välditud    välti+tud //_V_ Impers Prt Prc, //
+pankade    pank+de //_S_ Pl Gen, //
+logosid    logo+sid //_S_ Pl Par, //
+,    , //_Z_ //
+<kindel_piir/>
+kasutatud    kasuta+tud //_V_ Impers Prt Prc, //
+vaid    vaid+0 //_D_ //
+korporatiivset    korporatiivne+t //_A_ Sg Par, //
+tasutavärvi    tausta_värv+0 //_S_ Sg Par, //
+,    , //_Z_ //
+<kindel_piir/>
+ma    mina+0 //_P_ Sg Nom, //
+kohe    kohe+0 //_D_ //
+ei    ei+0 //_V_ Neg, //
+saa    saa+0 //_V_ Pers Prs Ind Neg, //
+olla    ole+a //_V_ Inf, //
+seda    see+da //_P_ Sg Par, //
+kah    kah+0 //_D_ //
+siia    siia+0 //_D_ //
+panemata    pane+mata //_V_ Pers Sup Abe, //
+<kiil>
+(    ( //_Z_ //
+tõsi    tõsi+0 //_S_ Sg Nom, //
+,    , //_Z_ //
+hiirega    hiir+ga //_S_ Sg Com, //
+hover    hover+0 //_Q_ //
+dades    dades+0 //_Q_ //
+lähevad    mine+vad //_V_ Pers Prs Ind Pl3 Aff, //
+need    see+d //_P_ Pl Nom, //
+nipsti    nipsti+0 //_D_ //
+ikka    ikka+0 //_D_ //
+logodeks    logo+deks //_S_ Pl Tra, //
+<kindel_piir/>
+millega    mis+ga //_P_ Pl Com, //
+kaasneb    kaasne+b //_V_ Pers Prs Ind Sg3 Aff, //
+tekstihüpe    teksti_hüpe+0 //_S_ Sg Nom, //
+ja    ja+0 //_J_ //
+koleduse    koledus+0 //_S_ Sg Gen, //
+hirmutav    hirmutav+0 //_A_ Sg Nom, //
+kasv    kasv+0 //_S_ Sg Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+äkki    äkki+0 //_D_ //
+annaks    and+ks //_V_ Pers Prs Cond, //
+lisada    lisa+da //_V_ Inf, //
+pisike    pisike+0 //_A_ Sg Nom, //
+fade    fade+0 //_S_ Sg Nom, // 
+?    ? //_Z_ //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+huvitav    huvitav+0 //_A_ Sg Nom, //
+oleks    ole+ks //_V_ Pers Prs Cond, //
+teada    tead+a //_V_ Inf, //
+,    , //_Z_ //
+<kindel_piir/>
+kas    kas+0 //_D_ //
+oli    ole+i //_V_ Pers Prt Ind Sg3 Aff, //
+kõva    kõva+0 //_A_ Sg Nom, //
+kauplemine    kauplemine+0 //_S_ Sg Nom, //
+selleks    see+ks //_P_ Sg Tra, //
+<kindel_piir/>
+et    et+0 //_J_ //
+SEB    SEB+0 //_Y_ ?, //
+saaks    saa+ks //_V_ Pers Prs Cond, //
+vasaku    vasak+0 //_A_ Sg Gen, //
+koha    koht+0 //_S_ Sg Gen, //
+ja    ja+0 //_J_ //
+Swed    Swed+0 //_H_ Sg Nom, //
+lohutuseks    lohutus+ks //_S_ Sg Tra, //
+gradient-tausta    gradient-taust+0 //_S_ Sg Gen, //
+…    … //_Z_ //
+või    või+0 //_J_ //
+vastupidi    vastu_pidi+0 //_D_ //
+?    ? //_Z_ //
+)    ) //_Z_ //
+</kiil>
+:    : //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Ja    ja+0 //_J_ //
+edasi    edasi+0 //_D_ //
+saabun    saabu+n //_V_ Pers Prs Ind Sg1 Aff, //
+ma    mina+0 //_P_ Sg Nom, //
+siis    siis+0 //_D_ //
+lehele    leht+le //_S_ Sg All, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+oma    oma+0 //_P_ Sg Gen, //
+täies    täis+s //_A_ Sg Ine, //
+pikkuses    pikkus+s //_S_ Sg Ine, //
+näeb    näge+b //_V_ Pers Prs Ind Sg3 Aff, //
+välja    välja+0 //_D_ //
+vot    vot+0 //_I_ //
+täpselt    täpselt+0 //_D_ //
+sellise    selline+0 //_P_ Sg Gen, //
+rull-kardiinana    rull-kardiina+na //_S_ Sg Ess, //
+nagu    nagu+0 //_J_ //
+paremal    paremal+0 //_D_ //
+näha    näge+a //_V_ Inf, //
+<kiil>
+(    ( //_Z_ //
+klõpsates    klõpsa+tes //_V_ Ger, //
+näeb    näge+b //_V_ Pers Prs Ind Sg3 Aff, //
+1:1    1:1+0 //_N_ ?, //
+suuruses    suurus+s //_S_ Sg Ine, //
+kah    kah+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+fold    fold+0 //_S_ Sg Nom, // 
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+umbes    umbes+0 //_D_ //
+tasumata    tasumata+0 //_A_ //
+arve    arve+0 //_S_ Sg Gen, //
+teate    teade+0 //_S_ Sg Gen, //
+juures    juures+0 //_K_ //
+–    - //_Z_ //
+<kindel_piir/>
+ja    ja+0 //_J_ //
+olgu    ole+gu //_V_ Pers Prs Imprt, //
+lisatud    lisa+tud //_V_ Impers Prt Prc, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+see    see+0 //_P_ Sg Nom, //
+arve    arve+0 //_S_ Sg Nom, //
+ootab    oota+b //_V_ Pers Prs Ind Sg3 Aff, //
+lihtsalt    lihtsalt+0 //_D_ //
+otsekorralduse    otse_korraldus+0 //_S_ Sg Gen, //
+kuupäeva    kuu_päev+0 //_S_ Sg Gen, //
+saabumist    saabumine+t //_S_ Sg Par, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Tere    tere+0 //_I_ //
+ise    ise+0 //_P_ Sg Nom, //
+kah    kah+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+kus    kus+0 //_D_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+lubatud    lubatud+0 //_A_ //
+e-teenindus    e-teenindus+0 //_S_ Sg Nom, //
+?    ? //_Z_ //
+</s>
+<s>
+Rullides    rulli+des //_V_ Ger, //
+pilti    pilt+0 //_S_ Sg Par, //
+allapoole    alla_poole+0 //_D_ //
+<kindel_piir/>
+tekib    tekki+b //_V_ Pers Prs Ind Sg3 Aff, //
+tunne    tunne+0 //_S_ Sg Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+sisselogimine    sisse_logi=mine+0 //_S_ Sg Nom, //
+ebaõnnestus    eba_õnnestu+s //_V_ Pers Prt Ind Sg3 Aff, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+mulle    mina+lle //_P_ Sg All, //
+kuvatakse    kuva+takse //_V_ Impers Prs Ind Aff, //
+midagi    miski+dagi //_P_ Sg Par, //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+sarnaneb    sarnane+b //_V_ Pers Prs Ind Sg3 Aff, //
+esilehega    esi_leht+ga //_S_ Sg Com, //
+<kindel_piir/>
+kust    kust+0 //_D_ //
+ma    mina+0 //_P_ Sg Nom, //
+just    just+0 //_D_ //
+tulin    tule+in //_V_ Pers Prt Ind Sg1 Aff, //
+–    - //_Z_ //
+<kindel_piir/>
+ainult    ainult+0 //_D_ //
+selle    see+0 //_P_ Sg Gen, //
+vahega    vahe+ga //_S_ Sg Com, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+nupp    nupp+0 //_S_ Sg Nom, //
+<kiil>
+“    “ //_Z_ //
+sisenen    sisene+n //_V_ Pers Prs Ind Sg1 Aff, //
+e-teenindusse    e-teenindus+se //_S_ Sg Ill, //
+”    ” //_Z_ //
+</kiil>
+ei    ei+0 //_V_ Neg, //
+tee    tege+0 //_V_ Pers Prs Ind Neg, //
+enam    enam+0 //_D_ //
+midagi    miski+dagi //_P_ Sg Par, //
+.    . //_Z_ //
+</s>
+<s>
+Veidi    veidi+0 //_D_ //
+sekeldamist    sekeldamine+t //_S_ Sg Par, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+avastan    avasta+n //_V_ Pers Prs Ind Sg1 Aff, //
+näidukasti    näidu_kast+0 //_S_ Sg Gen, //
+juurest    juurest+0 //_K_ //
+lingikesed    lingi=ke+d //_S_ Pl Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ Pl Nom, //
+tõesti    tõesti+0 //_D_ //
+viivad    vii+vad //_V_ Pers Prs Ind Pl3 Aff, //
+mind    mina+d //_P_ Sg Par, //
+e-teenindusse    e-teenindus+se //_S_ Sg Ill, //
+ehk    ehk+0 //_J_ //
+<kindel_piir/>
+peamenüü    pea_menüü+0 //_S_ Sg Gen, //
+alla    alla+0 //_K_ //
+tekib    tekki+b //_V_ Pers Prs Ind Sg3 Aff, //
+juurde    juurde+0 //_D_ //
+suurte    suur+te //_A_ Pl Gen, //
+ikoonidega    ikoon+dega //_S_ Pl Com, //
+alamenüü    ala_menüü+0 //_S_ Sg Nom, //
+.    . //_Z_ //
+</s>
+<s>
+Raske    raske+0 //_A_ Sg Gen, //
+saatuse    saatus+0 //_S_ Sg Gen, //
+tahtel    tahe+l //_S_ Sg Ade, //
+satun    sattu+n //_V_ Pers Prs Ind Sg1 Aff, //
+ma    mina+0 //_P_ Sg Nom, //
+seejuures    see_juures+0 //_D_ //
+mitte    mitte+0 //_D_ //
+võrdlemisi    võrdlemisi+0 //_D_ //
+adekvaatsele    adekvaatne+le //_A_ Sg All, //
+arvete-lehele    arve+te-leht+le //_S_ Sg All, //
+<kindel_piir/>
+<kiil>
+(    ( //_Z_ //
+kus    kus+0 //_D_ //
+mulle    mina+lle //_P_ Sg All, //
+kui    kui+0 //_J_ //
+hetkel    hetk+l //_S_ Sg Ade, //
+ärikliendi    äri_klient+0 //_S_ Sg Gen, //
+rollis    roll+s //_S_ Sg Ine, //
+olijale    olija+le //_S_ Sg All, //
+paraku    paraku+0 //_D_ //
+midagi    miski+dagi //_P_ Sg Par, //
+ei    ei+0 //_V_ Neg, //
+kuvata    kuva+ta //_V_ Impers Prs Ind Neg, //
+)    ) //_Z_ //
+</kiil>
+vaid    vaid+0 //_J_ //
+…    …+0 //_Y_ ?, //
+näitude    näit+de //_S_ Pl Gen, //
+teatamise    teatamine+0 //_S_ Sg Gen, //
+lehele    leht+le //_S_ Sg All, //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+See    see+0 //_P_ Sg Nom, //
+näeb    näge+b //_V_ Pers Prs Ind Sg3 Aff, //
+välja    välja+0 //_D_ //
+nagu    nagu+0 //_J_ //
+vasakul    vasakul+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+mõistagi    mõistagi+0 //_D_ //
+saab    saa+b //_V_ Pers Prs Ind Sg3 Aff, //
+klikkides    klikk+des //_S_ Pl Ine, //
+vaadata    vaata+ta //_V_ Inf, //
+1:1    1:1+0 //_N_ ?, //
+–    - //_Z_ //
+<kindel_piir/>
+ja    ja+0 //_J_ //
+fold    fold+0 //_S_ Sg Nom, // 
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+selle    see+0 //_P_ Sg Gen, //
+koha    koht+0 //_S_ Sg Gen, //
+peal    peal+0 //_K_ //
+<kindel_piir/>
+kus    kus+0 //_D_ //
+tütarlapse    tütar_laps+0 //_S_ Sg Gen, //
+dekoltee    dekoltee+0 //_S_ Sg Nom, //
+algab    alga+b //_V_ Pers Prs Ind Sg3 Aff, //
+<kiil>
+(    ( //_Z_ //
+lõpeb    lõppe+b //_V_ Pers Prs Ind Sg3 Aff, //
+?    ? //_Z_ //
+)    ) //_Z_ //
+</kiil>
+ehk    ehk+0 //_J_ //
+<kindel_piir/>
+sisuliselt    sisuliselt+0 //_D_ //
+saan    saa+n //_V_ Pers Prs Ind Sg1 Aff, //
+ma    mina+0 //_P_ Sg Nom, //
+teada    tead+a //_V_ Inf, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+oleks    ole+ks //_V_ Pers Prs Cond, //
+tore    tore+0 //_A_ Sg Nom, //
+näite    näit+e //_S_ Pl Par, //
+ikka    ikka+0 //_D_ //
+teatada    teata+da //_V_ Inf, //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Edasi    edasi+0 //_D_ //
+siis    siis+0 //_D_ //
+näidutabel    näidu_tabel+0 //_S_ Sg Nom, //
+,    , //_Z_ //
+pealkirjastatud    peal_kirjasta+tud //_V_ Impers Prt Prc, //
+arve    arve+0 //_S_ Sg Gen, //
+saatmise    saatmine+0 //_S_ Sg Gen, //
+aadressidega    aadress+dega //_S_ Pl Com, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+väikselt    väikselt+0 //_D_ //
+kuvades    kuva+des //_V_ Ger, //
+tarbimiskohta    tarbimis_koht+0 //_S_ Sg Par, //
+–    - //_Z_ //
+<kiil>
+v.a    v.a+0 //_Y_ ?, //
+miskipärast    miski_pärast+0 //_D_ //
+minu    mina+0 //_P_ Sg Gen, //
+erakliendivaates    era_kliendi_vaade+s //_S_ Sg Ine, //
+,    , //_Z_ //
+</kiil>
+<kindel_piir/>
+kus    kus+0 //_D_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+ainult    ainult+0 //_D_ //
+paberarve-aadressid    paber_arve-aadress+d //_S_ Pl Nom, //
+<kindel_piir/>
+mis    mis+0 //_P_ Pl Nom, //
+on    ole+0 //_V_ Pers Prs Ind Pl3 Aff, //
+eriti    eriti+0 //_D_ //
+abiks    abi+ks //_S_ Sg Tra, //
+,    , //_Z_ //
+<kindel_piir/>
+kuivõrd    kui_võrd+0 //_D_ //
+olen    ole+n //_V_ Pers Prs Ind Sg1 Aff, //
+tellinud    telli+nud //_V_ Pers Prt Prc, //
+e-arve    e-arve+0 //_S_ Sg Gen, //
+juba    juba+0 //_D_ //
+aastaid    aasta+id //_S_ Pl Par, //
+tagasi    tagasi+0 //_K_ //
+.    . //_Z_ //
+</s>
+<s>
+Paremal    paremal+0 //_D_ //
+pakutakse    pakku+takse //_V_ Impers Prs Ind Aff, //
+mulle    mina+lle //_P_ Sg All, //
+hulka    hulk+0 //_S_ Sg Par, //
+teenuseid    teenus+id //_S_ Pl Par, //
+<kiil>
+millega    mis+ga //_P_ Pl Com, //
+ma    mina+0 //_P_ Sg Nom, //
+olen    ole+n //_V_ Pers Prs Ind Sg1 Aff, //
+juba    juba+0 //_D_ //
+liitunud    liitu+nud //_V_ Pers Prt Prc, //
+</kiil>
+ja    ja+0 //_J_ //
+<kindel_piir/>
+all    all+0 //_D_ //
+võimalust    võimalus+t //_S_ Sg Par, //
+anda    and+a //_V_ Inf, //
+näit    näit+0 //_S_ Sg Nom, //
+kord    kord+0 //_D_ //
+aastas    aasta+s //_S_ Sg Ine, //
+ja    ja+0 //_J_ //
+maksta    maks+ta //_V_ Inf, //
+ennustuse    ennustus+0 //_S_ Sg Gen, //
+alusel    alus+l //_S_ Sg Ade, //
+–    - //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+muideks    muideks+0 //_D_ //
+juhtub    juhtu+b //_V_ Pers Prs Ind Sg3 Aff, //
+nii    nii+0 //_D_ //
+ehk    ehk+0 //_J_ //
+naa    naa+0 //_D_ //
+<kindel_piir/>
+kui    kui+0 //_J_ //
+ma    mina+0 //_P_ Sg Nom, //
+ei    ei+0 //_V_ Neg, //
+suvatse    suvatse+0 //_V_ Pers Prs Ind Neg, //
+näitu    näit+0 //_S_ Sg Par, //
+teatada    teata+da //_V_ Inf, //
+,    , //_Z_ //
+<kindel_piir/>
+ainult    ainult+0 //_D_ //
+et    et+0 //_J_ //
+nüüd    nüüd+0 //_D_ //
+pean    pida+n //_V_ Pers Prs Ind Sg1 Aff, //
+ma    mina+0 //_P_ Sg Nom, //
+sisseloginud    sisse_logi=nud+0 //_A_ //
+olekus    olek+s //_S_ Sg Ine, //
+ja    ja+0 //_J_ //
+tarbimiskoha    tarbimis_koht+0 //_S_ Sg Gen, //
+näitude    näit+de //_S_ Pl Gen, //
+lehel    leht+l //_S_ Sg Ade, //
+olles    ole+es //_V_ Ger, //
+täitma    täit+ma //_V_ Pers Sup Ill, //
+käsitsi    käsitsi+0 //_D_ //
+mingi    mingi+0 //_P_ Sg Gen, //
+ankeedi    ankeet+0 //_S_ Sg Gen, //
+.    . //_Z_ //
+</s>
+<s>
+Halllooo    halllooo+0 //_I_ //
+?    ? //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Ja    ja+0 //_J_ //
+siis    siis+0 //_D_ //
+õpetused    õpetus+d //_S_ Pl Nom, //
+selle    see+0 //_P_ Sg Gen, //
+kohta    kohta+0 //_K_ //
+<kindel_piir/>
+kuidas    kuidas+0 //_D_ //
+veel    veel+0 //_D_ //
+saab    saa+b //_V_ Pers Prs Ind Sg3 Aff, //
+näite    näit+e //_S_ Pl Par, //
+teatada    teata+da //_V_ Inf, //
+,    , //_Z_ //
+täitsa    täitsa+0 //_D_ //
+brå    brå+0 //_Q_ //
+ju    ju+0 //_D_ //
+<kiil>
+(    ( //_Z_ //
+mmmm    mmmm+0 //_I_ //
+…    … //_Z_ //
+kas    kas+0 //_D_ //
+lepingu    leping+0 //_S_ Sg Gen, //
+number    number+0 //_S_ Sg Nom, //
+pole    ole+0 //_V_ Pers Prs Ind Neg, //
+siis    siis+0 //_D_ //
+unikaalne    unikaalne+0 //_A_ Sg Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+st    st+0 //_Y_ ?, //
+miks    miks+0 //_D_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+vaja    vaja+0 //_D_ //
+ka    ka+0 //_D_ //
+isikukoodi    isiku_kood+0 //_S_ Sg Par, //
+?    ? //_Z_ //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Aga    aga+0 //_J_ //
+ma    mina+0 //_P_ Sg Nom, //
+ei    ei+0 //_V_ Neg, //
+saa    saa+0 //_V_ Pers Prs Ind Neg, //
+vastu    vastu+0 //_D_ //
+kiusatusele    kiusatus+le //_S_ Sg All, //
+värvida    värvi+da //_V_ Inf, //
+sellel    see+l //_P_ Sg Ade, //
+lehele    leht+le //_S_ Sg All, //
+ära    ära+0 //_D_ //
+alad    ala+d //_S_ Pl Nom, //
+<kindel_piir/>
+mis    mis+0 //_P_ Pl Nom, //
+puutuvad    puutu+vad //_V_ Pers Prs Ind Pl3 Aff, //
+minu    mina+0 //_P_ Sg Gen, //
+käsilolevasse    käsi+l_olev+sse //_A_ Sg Ill, //
+näiduteatamistegevusse    näidu_teatamis_tegevus+se //_S_ Sg Ill, //
+ja    ja+0 //_J_ //
+mis    mis+0 //_P_ Pl Nom, //
+mitte    mitte+0 //_D_ //
+.    . //_Z_ //
+</s>
+<s>
+Sisu    sisu+0 //_S_ Sg Gen, //
+/    / //_Z_ //
+müra    müra+0 //_S_ Sg Gen, //
+suhe    suhe+0 //_S_ Sg Nom, //
+pole    ole+0 //_V_ Pers Prs Ind Neg, //
+just    just+0 //_D_ //
+kiita    kiit+a //_V_ Inf, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+kogemus    kogemus+0 //_S_ Sg Nom, //
+ütleb    ütle+b //_V_ Pers Prs Ind Sg3 Aff, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+mu    mina+0 //_P_ Sg Gen, //
+pilk    pilk+0 //_S_ Sg Nom, //
+õpib    õppi+b //_V_ Pers Prs Ind Sg3 Aff, //
+kiiresti    kiiresti+0 //_D_ //
+fikseeruma    fikseeru+ma //_V_ Pers Sup Ill, //
+eesmärgikohasel    ees_märgi_kohane+l //_A_ Sg Ade, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+EE    EE+0 //_Y_ ?, //
+võib    või+b //_V_ Pers Prs Ind Sg3 Aff, //
+tulevikus    tulevik+s //_S_ Sg Ine, //
+seal    seal+0 //_D_ //
+kõrval    kõrval+0 //_D_ //
+käia    käi+a //_V_ Inf, //
+välja    välja+0 //_D_ //
+mida    mis+da //_P_ Sg Par, //
+tahes    tahes+0 //_D_ //
+head    hea+d //_A_ Sg Par, //
+ja    ja+0 //_J_ //
+kasulikku    kasulik+0 //_A_ Sg Par, //
+,    , //_Z_ //
+<kindel_piir/>
+minu    mina+0 //_P_ Sg Gen, //
+jaoks    jaoks+0 //_K_ //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+see    see+0 //_P_ Sg Nom, //
+müra-ala    müra-ala+0 //_S_ Sg Nom, //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Küsimus    küsimus+0 //_S_ Sg Nom, //
+pole    ole+0 //_V_ Pers Prs Ind Neg, //
+isegi    isegi+0 //_D_ //
+selles    see+s //_P_ Sg Ine, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+oluline    oluline+0 //_A_ Sg Nom, //
+osa    osa+0 //_S_ Sg Nom, //
+lükatakse    lükka+takse //_V_ Impers Prs Ind Aff, //
+allapoole    alla_poole+0 //_D_ //
+foldi    fold+0 //_S_ Sg Ill, // 
+<kindel_piir/>
+kuhu    kuhu+0 //_D_ //
+kasutaja    kasutaja+0 //_S_ Sg Nom, //
+kunagi    kunagi+0 //_D_ //
+ei    ei+0 //_V_ Neg, //
+satu    sattu+0 //_V_ Pers Prs Ind Neg, //
+<kindel_piir/>
+<kiil>
+(    ( //_Z_ //
+L    L+0 //_Y_ ?, //
+saatis    saat+is //_V_ Pers Prt Ind Sg3 Aff, //
+mulle    mina+lle //_P_ Sg All, //
+seepeale    see_peale+0 //_D_ //
+isegi    isegi+0 //_D_ //
+lugemist    lugemine+t //_S_ Sg Par, //
+,    , //_Z_ //
+<kindel_piir/>
+aga    aga+0 //_J_ //
+too    too+0 //_P_ Sg Nom, //
+jutt    jutt+0 //_S_ Sg Nom, //
+ei    ei+0 //_V_ Neg, //
+käi    käi+0 //_V_ Pers Prs Ind Neg, //
+kasutajaliidese    kasutaja_liides+0 //_S_ Sg Gen, //
+funktsiooni    funktsioon+0 //_S_ Sg Gen, //
+olulise    oluline+0 //_A_ Sg Gen, //
+komponendi    komponent+0 //_S_ Sg Gen, //
+ärapeitmise    ära_peitmine+0 //_S_ Sg Gen, //
+kohta    kohta+0 //_K_ //
+)    ) //_Z_ //
+</kiil>
+–    - //_Z_ //
+lihtsalt    lihtsalt+0 //_D_ //
+neid    see+d //_P_ Pl Par, //
+asju    asi+u //_S_ Pl Par, //
+tuleks    tule+ks //_V_ Pers Prs Cond, //
+mulle    mina+lle //_P_ Sg All, //
+kaela    kael+0 //_S_ Sg Ill, //
+määrida    määri+da //_V_ Inf, //
+sobilikul    sobilik+l //_A_ Sg Ade, //
+hetkel    hetk+l //_S_ Sg Ade, //
+ning    ning+0 //_J_ //
+<kindel_piir/>
+mitte    mitte+0 //_D_ //
+hoida    hoid+a //_V_ Inf, //
+navigatsiooniks    navigatsioon+ks //_S_ Sg Tra, //
+vajalikud    vajalik+d //_A_ Pl Nom, //
+jubinad    jubin+d //_S_ Pl Nom, //
+enamvähem    enam_vähem+0 //_D_ //
+koos    koos+0 //_D_ //
+.    . //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Javeel    ja_veel+0 //_D_ //
+–    - //_Z_ //
+mulle    mina+lle //_P_ Sg All, //
+meeldivad    meeldi+vad //_V_ Pers Prs Ind Pl3 Aff, //
+vasakul    vasakul+0 //_D_ //
+asuvad    asuv+d //_A_ Pl Nom, //
+tekstimenüüd    teksti_menüü+d //_S_ Pl Nom, //
+läbimõeldud    läbi_mõeldud+0 //_A_ //
+võtmesõnadega    võtme_sõna+dega //_S_ Pl Com, //
+.    . //_Z_ //
+</s>
+<s>
+Muudaks    muut+ks //_V_ Pers Prs Cond, //
+selle    see+0 //_P_ Sg Gen, //
+hulga    hulk+0 //_S_ Sg Gen, //
+erinevaid    erinev+id //_A_ Pl Par, //
+sõnumeid    sõnum+id //_S_ Pl Par, //
+oluliselt    oluliselt+0 //_D_ //
+paremini    paremini+0 //_D_ //
+leitavaks    lei=tav+ks //_A_ Sg Tra, //
+,    , //_Z_ //
+<kindel_piir/>
+hetkel    hetk+l //_S_ Sg Ade, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+kogu    kogu+0 //_P_ Sg Nom, //    
+veeb    veeb+0 //_S_ Sg Nom, //
+üks    üks+0 //_P_ Sg Nom, //
+suur    suur+0 //_A_ Sg Nom, //
+tekstikastikeste    teksti_kastike+te //_S_ Pl Gen, //
+põld    põld+0 //_S_ Sg Nom, //
+<kindel_piir/>
+millest    mis+st //_P_ Sg Ela, //
+ma    mina+0 //_P_ Sg Nom, //
+pean    pida+n //_V_ Pers Prs Ind Sg1 Aff, //
+ennast    ise+t //_P_ Sg Par, //
+läbi    läbi+0 //_D_ //
+närima    näri+ma //_V_ Pers Sup Ill, //
+<kiil>
+(    ( //_Z_ //
+eeldusel    eeldus+l //_S_ Sg Ade, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+mul    mina+l //_P_ Sg Ade, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+mingi    mingi+0 //_P_ Sg Nom, //
+motivatsioon    motivatsioon+0 //_S_ Sg Nom, //
+seda    see+da //_P_ Sg Par, //
+teha    tege+a //_V_ Inf, //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Kui    kui+0 //_J_ //
+inimkonnale    inimkond+le //_S_ Sg All, //
+meeldiksid    meeldi+ksid //_V_ Pers Prs Cond Pl3 Aff, //
+suured    suur+d //_A_ Pl Nom, //
+värvilised    värviline+d //_A_ Pl Nom, //
+ikoonidega    ikoon+dega //_S_ Pl Com, //
+varustatud    varusta=tud+0 //_A_ //
+tekstid    tekst+d //_S_ Pl Nom, //
+<kindel_piir/>
+oleks    ole+ks //_V_ Pers Prs Cond, //
+issand    issand+0 //_S_ Sg Nom, //
+loonud    loo+nud //_V_ Pers Prt Prc, //
+adwordsi    adwordsi+0 //_S_ Sg Gen, //   
+tekstireklaamid    teksti_reklaam+d //_S_ Pl Nom, //
+just    just+0 //_D_ //
+sellistena    selline+tena //_P_ Pl Ess, //
+</s>
+</p>
+<p heading="0">
+<s>
+A    A+0 //_Y_ ?, //
+lõpetaks    lõpeta+ks //_V_ Pers Prs Cond, //
+jällegi    jällegi+0 //_D_ //
+positiivse    positiivne+0 //_A_ Sg Gen, //
+noodiga    noot+ga //_S_ Sg Com, //
+.    . //_Z_ //
+</s>
+<s>
+Läbi    läbi+0 //_K_ //
+viimase    viimane+0 //_A_ Sg Gen, //
+aasta    aasta+0 //_S_ Sg Gen, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+üheks    üks+ks //_P_ Sg Tra, //
+minu    mina+0 //_P_ Sg Gen, //
+valve-argumendiks    valve-argument+ks //_S_ Sg Tra, //
+<kiil>
+(    ( //_Z_ //
+jah    jah+0 //_D_ //
+,    , //_Z_ //
+hea    hea+0 //_A_ Sg Nom, //
+mõte    mõte+0 //_S_ Sg Nom, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+enne    enne+0 //_D_ //
+programmeerijaks    programmeeri=ja+ks //_S_ Sg Tra, //
+hakkamist    hakkamine+t //_S_ Sg Par, //
+käia    käi+a //_V_ Inf, //
+koolis    kool+s //_S_ Sg Ine, //
+ja    ja+0 //_J_ //
+kuulata    kuula+ta //_V_ Inf, //
+ära    ära+0 //_D_ //
+vähemalt    vähemalt+0 //_D_ //
+Priit    Priit+0 //_H_ Sg Nom, //
+Raspeli    Raspel+0 //_H_ Sg Gen, //
+andmebaaside    andme_baas+de //_S_ Pl Gen, //
+kursus    kursus+0 //_S_ Sg Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+sest    sest+0 //_J_ //
+…    …+0 //_Y_ ?, //
+)    ) //_Z_ //
+</kiil>
+olnud    ole+nud //_V_ Pers Prt Imprt, //
+näide    näide+0 //_S_ Sg Nom, //
+aadress-andmete    aadress-andmed+te //_S_ Pl Gen, //
+sisestamisest    sisestamine+st //_S_ Sg Ela, //
+nii    nii+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+nagu    nagu+0 //_D_ //
+see    see+0 //_P_ Sg Nom, //
+käib    käi+b //_V_ Pers Prs Ind Sg3 Aff, //
+enamuses    enamus+s //_S_ Sg Ine, //
+infosüsteemides    info_süsteem+des //_S_ Pl Ine, //
+<kindel_piir/>
+st    st+0 //_Y_ ?, //
+valid    vali+d //_V_ Pers Prs Ind Sg2 Aff, //
+dropdownist    dropdown+st //_S_ Sg Ela, //
+riigi    riik+0 //_S_ Sg Gen, //
+<kiil>
+(    ( //_Z_ //
+Afganistan    Afganistan+0 //_H_ Sg Nom, //
+,    , //_Z_ //
+yes    yes+0 //_Q_ //
+?    ? //_Z_ //
+)    ) //_Z_ //
+</kiil>
+,    , //_Z_ //
+siis    siis+0 //_J_ //
+regiooni    regioon+0 //_S_ Sg Gen, //
+jne    jne+0 //_Y_ ?, //
+kuni    kuni+0 //_J_ //
+lõpuks    lõpuks+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+kui    kui+0 //_J_ //
+aadress    aadress+0 //_S_ Sg Nom, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+korteri    korter+0 //_S_ Sg Gen, //
+täpsusega    täpsus+ga //_S_ Sg Com, //
+määratud    määra+tud //_V_ Impers Prt Prc, //
+,    , //_Z_ //
+<kindel_piir/>
+palutakse    palu+takse //_V_ Impers Prs Ind Aff, //
+mõelda    mõtle+da //_V_ Inf, //
+välja    välja+0 //_D_ //
+postiindeks    posti_indeks+0 //_S_ Sg Nom, //
+.    . //_Z_ //
+</s>
+<s>
+Aga    aga+0 //_J_ //
+EE    EE+0 //_Y_ ?, //
+uues    uus+s //_A_ Sg Ine, //
+veebis    veeb+s //_S_ Sg Ine, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+nii    nii+0 //_D_ //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+harmoniseerimata    harmoniseeri=mata+0 //_A_ //
+aadress    aadress+0 //_S_ Sg Nom, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+punane    punane+0 //_A_ Sg Nom, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+kui    kui+0 //_J_ //
+muutmiseks    muutmine+ks //_S_ Sg Tra, //
+sisestada    sisesta+da //_V_ Inf, //
+osa    osa+0 //_S_ Sg Nom, //
+aadressist    aadress+st //_S_ Sg Ela, //
+<kindel_piir/>
+pakub    pakku+b //_V_ Pers Prs Ind Sg3 Aff, //
+ta    tema+0 //_P_ Sg Nom, //
+välja    välja+0 //_D_ //
+Eestis    Eesti+s //_H_ Sg Ine, //
+olemasolevad    olemas_olev+d //_A_ Pl Nom, //
+harmoniseeritud    harmoniseeri=tud+0 //_A_ //
+vasted    vaste+d //_S_ Pl Nom, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+ei    ei+0 //_D_ //
+mingit    mingi+t //_P_ Sg Par, //
+lahter-haaval    lahter-haaval+0 //_K_ //
+selektimist    selekti=mine+t //_S_ Sg Par, //
+.    . //_Z_ //
+</s>
+<s>
+Selle    see+0 //_P_ Sg Gen, //
+nipi    nipp+0 //_S_ Sg Gen, //
+võiks    või+ks //_V_ Pers Prs Cond, //
+kasutusele    kasutus+le //_S_ Sg All, //
+võtta    võt+a //_V_ Inf, //
+veel    veel+0 //_D_ //
+paljudes    palju+des //_P_ Pl Ine, //
+lahendustes    lahendus+tes //_S_ Pl Ine, //
+:    : //_Z_ //
+</s>
+</p>
+<p heading="0">
+<s>
+Aga    aga+0 //_J_ //
+miks    miks+0 //_D_ //
+mul    mina+l //_P_ Sg Ade, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+2    2+0 //_N_ ?, //
+viitenumbrit    viite_number+t //_S_ Sg Par, //
+,    , //_Z_ //
+teine    teine+0 //_P_ Sg Nom, //
+e-arvega    e-arve+ga //_S_ Sg Com, //
+ja    ja+0 //_J_ //
+teine    teine+0 //_P_ Sg Nom, //
+paberiga    paber+ga //_S_ Sg Com, //
+?    ? //_Z_ //
+</s>
+<s>
+Krt    krt+0 //_Y_ ?, //
+seda    see+da //_P_ Sg Par, //
+teab    tead+b //_V_ Pers Prs Ind Sg3 Aff, //
+.    . //_Z_ //
+</s>
+<s>
+Samuti    samuti+0 //_D_ //
+nagu    nagu+0 //_J_ //
+seda    see+da //_P_ Sg Par, //
+,    , //_Z_ //
+miks    miks+0 //_D_ //
+ma    mina+0 //_P_ Sg Nom, //
+saan    saa+n //_V_ Pers Prs Ind Sg1 Aff, //
+siseneda    sisene+da //_V_ Inf, //
+korteriühistuna    korteri_ühistu+na //_S_ Sg Ess, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+lisaks    lisa+ks //_S_ Sg Tra, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+veel    veel+0 //_D_ //
+miski    miski+0 //_P_ Sg Nom, //
+eraldi    eraldi+0 //_D_ //
+volitus    volitus+0 //_S_ Sg Nom, //
+kirjas    kiri+s //_S_ Sg Ine, //
+…        … //_Z_ //
+<kindel_piir/>
+Minge    mine+ge //_V_ Pers Prs Imprt Pl2, //
+lugege    luge+ge //_V_ Pers Prs Imprt Pl2, //
+parem    parem+0 //_D_ //
+levinumaid    levinum+id //_C_ Pl Par, //
+müüte    müüt+e //_S_ Pl Par, //
+tuumaenergia    tuuma_energia+0 //_S_ Sg Gen, //
+ohtlikkusest    ohtlikkus+st //_S_ Sg Ela, //
+ja    ja+0 //_J_ //
+<kindel_piir/>
+tundke    tund+ke //_V_ Pers Prs Imprt Pl2, //
+ennast    ise+t //_P_ Sg Par, //
+hästi    hästi+0 //_D_ //
+:-P    :-P+0 //_Y_ ?, //
+</s>
+</p>
+<p heading="0">
+<s>
+Kolm    kolm+0 //_N_ Sg Nom, //
+asja    asi+0 //_S_ Sg Par, //
+<kindel_piir/>
+mis    mis+0 //_P_ Pl Nom, //
+mina    mina+0 //_P_ Sg Nom, //
+teeksin    tege+ksin //_V_ Pers Prs Cond Sg1 Aff, //
+kohe    kohe+0 //_D_ //
+ümber    ümber+0 //_D_ //
+:    : //_Z_ //
+<kindel_piir/>
+</s>
+</p>
+<p heading="0">
+<s>
+logini    login+0 //_S_ Sg Gen, //
+järel    järel+0 //_K_ //
+satun    sattu+n //_V_ Pers Prs Ind Sg1 Aff, //
+lehele    leht+le //_S_ Sg All, //
+,    , //_Z_ //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+jätab    jät+b //_V_ Pers Prs Ind Sg3 Aff, //
+mulje    mulje+0 //_S_ Sg Gen, //
+saabumisest    saabumine+st //_S_ Sg Ela, //
+e-teenindusse    e-teenindus+se //_S_ Sg Ill, //
+:    : //_Z_ //
+<kindel_piir/>
+menüü    menüü+0 //_S_ Sg Nom, //
+,    , //_Z_ //
+asjakohane    asja_kohane+0 //_A_ Sg Nom, //
+sisu    sisu+0 //_S_ Sg Nom, //
+prominentsel    prominentne+l //_A_ Sg Ade, //
+kohal    koht+l //_S_ Sg Ade, //
+<kindel_piir/>
+<kiil>
+(    ( //_Z_ //
+37BB    37BB+0 //_Y_ ?, //
+oleks    ole+ks //_V_ Pers Prs Cond, //
+muidugi    muidugi+0 //_D_ //
+palju    palju+0 //_D_ //
+küsida    küsi+da //_V_ Inf, //
+)    ) //_Z_ //
+</kiil>
+kui    kui+0 //_J_ //
+ei    ei+0 //_V_ Neg, //
+ole    ole+0 //_V_ Pers Prs Ind Neg, //
+kindel    kindel+0 //_A_ Sg Nom, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+sellele    see+le //_P_ Sg All, //
+kliendile    klient+le //_S_ Sg All, //
+peab    pida+b //_V_ Pers Prs Ind Sg3 Aff, //
+praegu    praegu+0 //_D_ //
+mingit    mingi+t //_P_ Sg Par, //
+pakkumist    pakkumine+t //_S_ Sg Par, //
+/    / //_Z_ //
+jutustust    jutustus+t //_S_ Sg Par, //
+näitama    näita+ma //_V_ Pers Sup Ill, //
+,    , //_Z_ //
+<kindel_piir/>
+jätaks    jät+ks //_V_ Pers Prs Cond, //
+näitamata    näita+mata //_V_ Pers Sup Abe, //
+<kindel_piir/>
+sisseloginud    sisse_logi=nud+0 //_A_ //
+klienti    klient+0 //_S_ Sg Par, //
+ei    ei+0 //_V_ Neg, //
+hakka    hakka+0 //_V_ Pers Prs Ind Neg, //
+naasmisel    naasmine+l //_S_ Sg Ade, //
+tervitama    tervita+ma //_V_ Pers Sup Ill, //
+,    , //_Z_ //
+<kindel_piir/>
+<kindel_piir/>
+näidu    näit+0 //_S_ Sg Gen, //
+teatamine    teatamine+0 //_S_ Sg Nom, //
+on    ole+0 //_V_ Pers Prs Ind Sg3 Aff, //
+kenasti    kenasti+0 //_D_ //
+integreeritud    integreeri+tud //_V_ Impers Prt Prc, //
+avalehe    ava_leht+0 //_S_ Sg Gen, //
+kujundusse    kujundus+se //_S_ Sg Ill, //
+,    , //_Z_ //
+<kindel_piir/>
+samuti    samuti+0 //_D_ //
+nupp    nupp+0 //_S_ Sg Nom, //
+<kindel_piir/>
+mis    mis+0 //_P_ Sg Nom, //
+viib    vii+b //_V_ Pers Prs Ind Sg3 Aff, //
+mind    mina+d //_P_ Sg Par, //
+e-teenindusse    e-teenindus+se //_S_ Sg Ill, //
+<kiil>
+(    ( //_Z_ //
+hetkel    hetk+l //_S_ Sg Ade, //
+ei    ei+0 //_V_ Neg, //
+leia    leid+0 //_V_ Pers Prs Ind Neg, //
+ma    mina+0 //_P_ Sg Nom, //
+seda    see+da //_P_ Sg Par, //
+nagu    nagu+0 //_D_ //
+üldse    üldse+0 //_D_ //
+)    ) //_Z_ //
+</kiil>
+</s>
+</p>
+<p heading="0">
+<s>
+ps    ps+0 //_Y_ ?, //
+.    . //_Z_ //
+tänu    tänu+0 //_K_ //
+WPtouch‘ile    WPtouch+le //_H_ Sg All, //    
+võib    või+b //_V_ Pers Prs Ind Sg3 Aff, //
+tehnokratt.net’i    tehnokratt.net+0 //_Q_ //
+nüüd    nüüd+0 //_D_ //
+üsna    üsna+0 //_D_ //
+julgesti    julgesti+0 //_D_ //
+ka    ka+0 //_D_ //
+telefoni    telefon+0 //_S_ Sg Gen, //
+ja    ja+0 //_J_ //
+muude    muu+de //_P_ Pl Gen, //
+i-    i+0 //_Y_ ?, //
+ja    ja+0 //_J_ //
+a-seadmetega    a-seade+tega //_S_ Pl Com, //
+vaadata    vaata+ta //_V_ Inf, //
+</s>
+</p>
+<p heading="1">
+<s>
+Viimane    viimane+0 //_A_ Sg Nom, //
+veerg    veerg+0 //_S_ Sg Nom, //
+</s>
+</p>
+<p heading="0">
+<s>
+Mina    mina+0 //_P_ Sg Nom, //
+olen    ole+n //_V_ Pers Prs Ind Sg1 Aff, //
+Peeter    Peeter+0 //_H_ Sg Nom, //
+Marvet    Marvet+0 //_H_ Sg Nom, //
+<kiil>
+(    ( //_Z_ //
+pets@tehnokratt.net    pets@tehnokratt.net+0 //_Q_ //
+)    ) //_Z_ //
+</kiil>
+.    . //_Z_ //
+</s>
+<s>
+Ei    ei+0 //_V_ Neg, //
+saa    saa+0 //_V_ Pers Prs Ind Neg, //
+täielikult    täielikult+0 //_D_ //
+välistada    välista+da //_V_ Inf, //
+,    , //_Z_ //
+<kindel_piir/>
+et    et+0 //_J_ //
+see    see+0 //_P_ Sg Nom, //
+siin    siin+0 //_D_ //
+oli    ole+i //_V_ Pers Prt Ind Sg3 Aff, //
+kunagi    kunagi+0 //_D_ //
+minu    mina+0 //_P_ Sg Gen, //
+ajaveeb    aja_veeb+0 //_S_ Sg Nom, //
+.    . //_Z_ //
+</s>
+<s>
+Kirjapandu    kirja_pandu+0 //_S_ Sg Nom, //
+ei    ei+0 //_V_ Neg, //
+pruugi    pruuki+0 //_V_ Pers Prs Ind Neg, //
+väljendada    väljenda+da //_V_ Inf, //
+seisu-    seis+0 //_S_ Sg Gen, //
+ega    ega+0 //_J_ //
+istmekohti    istme_koht+i //_S_ Pl Par, //
+.    . //_Z_ //
+</s>
+<s>
+Seoses    seos+s //_S_ Sg Ine, //
+surutisega    surutis+ga //_S_ Sg Com, //
+esilehe    esi_leht+0 //_S_ Sg Gen, //
+mahtu    maht+0 //_S_ Sg Par, //
+vähendatud    vähenda+tud //_V_ Impers Prt Prc, //
+8    8+0 //_N_ ?, //
+%    %+0 //_Y_ ?, //
+.    . //_Z_ //
+</s>
+<s>
+Lisandub    lisandu+b //_V_ Pers Prs Ind Sg3 Aff, //
+käibemaks    käibe_maks+0 //_S_ Sg Nom, //
+,    , //_Z_ //
+Tallinna    Tallinn+0 //_H_ Sg Gen, //
+elanikel    elanik+el //_S_ Pl Ade, //
+ka    ka+0 //_D_ //
+müügi-    müük+0 //_S_ Sg Gen, //
+ja    ja+0 //_J_ //
+paadimaks    paadi_maks+0 //_S_ Sg Nom, //
+.    . //_Z_ //
+</s>
+<s>
+Pakendatud    pakenda+tud //_V_ Impers Prt Prc, //
+gaasikeskkonda    gaasi_keskkond+0 //_S_ Sg Par, //
+.    . //_Z_ //
+</s>
+<s>
+Valmistatud    valmista+tud //_V_ Impers Prt Prc, //
+arvutis    arvuti+s //_S_ Sg Ine, //
+<kindel_piir/>
+milles    mis+s //_P_ Sg Ine, //
+võib    või+b //_V_ Pers Prs Ind Sg3 Aff, //
+leiduda    leidu+da //_V_ Inf, //
+väheses    vähene+s //_A_ Sg Ine, //
+koguses    kogus+s //_S_ Sg Ine, //
+piima-    piim+0 //_S_ Sg Gen, //
+ja    ja+0 //_J_ //
+pähklitükke    pähkli_tükk+e //_S_ Pl Par, //
+.    . //_Z_ //
+</s>
+<s>
+Ei    ei+0 //_V_ Neg, //
+sisalda    sisalda+0 //_V_ Pers Prs Ind Neg, //
+hüdrogeenitud    hüdro_geeni=tud+0 //_A_ //
+<kiil>
+(    ( //_Z_ //
+transarasvavabasid    trans_rasva_vaba+sid //_A_ Pl Par, //
+)    ) //_Z_ //
+</kiil>
+taimseid    taimne+id //_A_ Pl Par, //
+rasvhappeid    rasv_hape+id //_S_ Pl Par, //
+,    , //_Z_ //
+<kindel_piir/>
+sisaldab    sisalda+b //_V_ Pers Prs Ind Sg3 Aff, //
+vahustatud    vahusta=tud+0 //_A_ //
+lämmastikku    lämmastik+0 //_S_ Sg Par, //
+.    . //_Z_ //
+</s>
+</p>
+</doc>
+
